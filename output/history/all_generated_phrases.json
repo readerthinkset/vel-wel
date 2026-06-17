@@ -69,7 +69,42 @@
       "transliteration": "Cam-ay bach um-lyn, cun-ith mawr.",
       "category": "Confidence",
       "generated_at": "2026-06-17T19:27:06.047150"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "welsh": "Anadl i mewn, anadl allan.",
+      "transliteration": "An-adl ee-MIN, an-adl ath-LAN.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T20:23:55.268792"
+    },
+    {
+      "english": "Feel your feet, on the ground.",
+      "welsh": "Tegn dy draed, ar y ddaear.",
+      "transliteration": "Teg-n dee DRY-ed, ar uh THY-ar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T20:23:55.268803"
+    },
+    {
+      "english": "Listen close, to the quiet.",
+      "welsh": "Gwrandewch yn agos, i'r distawrwydd.",
+      "transliteration": "Gwir-an-DEWCH yn AG-os, ee-r DIS-towr-with.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T20:23:55.268805"
+    },
+    {
+      "english": "This moment, is all there is.",
+      "welsh": "Nawr, yw popeth.",
+      "transliteration": "Nawr, ee POP-eth.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T20:23:55.268806"
+    },
+    {
+      "english": "Let thoughts go, like clouds.",
+      "welsh": "Gadewch feddyliau fynd, fel cwmwl.",
+      "transliteration": "Gad-ewch MED-uhl-yow VIND, vel KUM-uhl.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T20:23:55.268807"
     }
   ],
-  "last_updated": "2026-06-17T19:27:06.047152"
+  "last_updated": "2026-06-17T20:23:55.268809"
 }
