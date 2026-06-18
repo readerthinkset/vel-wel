@@ -279,7 +279,42 @@
       "transliteration": "Poomp, buhs, cun-ree nhoo.",
       "category": "Numbers",
       "generated_at": "2026-06-18T19:53:55.221669"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "welsh": "Diolch, am bopeth.",
+      "transliteration": "Dee-olch, am bo-peth.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T22:04:57.108094"
+    },
+    {
+      "english": "I appreciate, your kindness.",
+      "welsh": "Dw i'n gwerthfawrogi, dy garedigrwydd.",
+      "transliteration": "Doo een gwerth-fah-ro-ghee, duh gah-reh-dig-rwydd.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T22:04:57.108102"
+    },
+    {
+      "english": "So grateful, for this moment.",
+      "welsh": "Mor ddiolchgar, am y foment yma.",
+      "transliteration": "Mor dee-olch-gar, am uh vo-ment uh-mah.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T22:04:57.108104"
+    },
+    {
+      "english": "You're a star, thank you.",
+      "welsh": "Rwyt ti'n seren, diolch.",
+      "transliteration": "Rooyt tee'n seh-ren, dee-olch.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T22:04:57.108105"
+    },
+    {
+      "english": "My thanks, go to you.",
+      "welsh": "Fy niolchiadau, i ti.",
+      "transliteration": "Fuh nee-ol-chee-a-doh, ee tee.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-18T22:04:57.108106"
     }
   ],
-  "last_updated": "2026-06-18T19:53:55.221671"
+  "last_updated": "2026-06-18T22:04:57.108108"
 }
