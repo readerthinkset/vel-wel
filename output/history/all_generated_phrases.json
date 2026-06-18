@@ -139,7 +139,42 @@
       "transliteration": "Dith moo-ee dis-glair sig-yn dod.",
       "category": "Hope",
       "generated_at": "2026-06-17T22:17:08.465668"
+    },
+    {
+      "english": "Help, please. I'm lost.",
+      "welsh": "Help, os gwelwch yn dda. Dw i ar goll.",
+      "transliteration": "Help, os gwel-ookh in DAH. Doo ee ar gor-l.",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T02:42:28.042368"
+    },
+    {
+      "english": "Call for help. Now.",
+      "welsh": "Galwch am help. Nawr.",
+      "transliteration": "Gal-ookh am help. Nowr.",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T02:42:28.042378"
+    },
+    {
+      "english": "I need a doctor. Urgently.",
+      "welsh": "Dw i angen meddyg. Argyfwng.",
+      "transliteration": "Doo ee an-gen med-igg. Ar-giff-ung.",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T02:42:28.042380"
+    },
+    {
+      "english": "Is anyone there? Help!",
+      "welsh": "Oes rhywun yma? Help!",
+      "transliteration": "Oys rh-ew-un uh-mah? Help!",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T02:42:28.042382"
+    },
+    {
+      "english": "Fire! We need to leave.",
+      "welsh": "Tân! Mae'n rhaid i ni fynd.",
+      "transliteration": "Tahn! Myne rhydee nee gon.",
+      "category": "Emergency",
+      "generated_at": "2026-06-18T02:42:28.042383"
     }
   ],
-  "last_updated": "2026-06-17T22:17:08.465670"
+  "last_updated": "2026-06-18T02:42:28.042385"
 }
