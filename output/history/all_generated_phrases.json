@@ -244,7 +244,42 @@
       "transliteration": "Doo ee-n dee col-lee dee, yn vowr, frind.",
       "category": "Friendship",
       "generated_at": "2026-06-18T19:04:18.478840"
+    },
+    {
+      "english": "One, is enough.",
+      "welsh": "Un, ddigon.",
+      "transliteration": "In, de-gon.",
+      "category": "Numbers",
+      "generated_at": "2026-06-18T19:53:55.221657"
+    },
+    {
+      "english": "Two, hands are better.",
+      "welsh": "Dau, law yn well.",
+      "transliteration": "Dow, la-oo yn wel.",
+      "category": "Numbers",
+      "generated_at": "2026-06-18T19:53:55.221665"
+    },
+    {
+      "english": "Three, is a crowd.",
+      "welsh": "Tri, yw dyrfa.",
+      "transliteration": "Tree, eew der-va.",
+      "category": "Numbers",
+      "generated_at": "2026-06-18T19:53:55.221667"
+    },
+    {
+      "english": "Four, corners, everywhere.",
+      "welsh": "Pedwar, cornel, pobman.",
+      "transliteration": "Pe-dwar, cor-nel, pob-man.",
+      "category": "Numbers",
+      "generated_at": "2026-06-18T19:53:55.221668"
+    },
+    {
+      "english": "Five, fingers, count them.",
+      "welsh": "Pump, bys, cyfri nhw.",
+      "transliteration": "Poomp, buhs, cun-ree nhoo.",
+      "category": "Numbers",
+      "generated_at": "2026-06-18T19:53:55.221669"
     }
   ],
-  "last_updated": "2026-06-18T19:04:18.478842"
+  "last_updated": "2026-06-18T19:53:55.221671"
 }
