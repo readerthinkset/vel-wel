@@ -454,7 +454,42 @@
       "transliteration": "Bid-o-kh in am-in-edh-gar, ee kee-kh hoon.",
       "category": "Patience",
       "generated_at": "2026-06-19T18:57:58.056146"
+    },
+    {
+      "english": "Now, is a good time.",
+      "welsh": "Nawr, dyma amser da.",
+      "transliteration": "Naoor, di-ma am-ser da.",
+      "category": "Time",
+      "generated_at": "2026-06-19T21:02:23.711970"
+    },
+    {
+      "english": "Later, maybe soon.",
+      "welsh": "Hwyrach, efallai cyn hir.",
+      "transliteration": "Hweer-ach, e-fall-ai kin heer.",
+      "category": "Time",
+      "generated_at": "2026-06-19T21:02:23.711981"
+    },
+    {
+      "english": "This morning, a fresh start.",
+      "welsh": "Y bore yma, dechrau newydd.",
+      "transliteration": "Uh bore u-ma, dech-ra new-idd.",
+      "category": "Time",
+      "generated_at": "2026-06-19T21:02:23.711983"
+    },
+    {
+      "english": "This evening, time to rest.",
+      "welsh": "Y nos yma, amser i orffwys.",
+      "transliteration": "Uh nos u-ma, am-ser ee orf-wis.",
+      "category": "Time",
+      "generated_at": "2026-06-19T21:02:23.711984"
+    },
+    {
+      "english": "Yesterday, a memory.",
+      "welsh": "Ddoe, yn gof.",
+      "transliteration": "D-doy, un gof.",
+      "category": "Time",
+      "generated_at": "2026-06-19T21:02:23.711985"
     }
   ],
-  "last_updated": "2026-06-19T18:57:58.056148"
+  "last_updated": "2026-06-19T21:02:23.711987"
 }
