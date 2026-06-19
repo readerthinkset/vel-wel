@@ -384,7 +384,42 @@
       "transliteration": "Tyn-nu-ch gwreidd-i-au, es-tin al-lan.",
       "category": "Balance",
       "generated_at": "2026-06-19T15:17:03.266893"
+    },
+    {
+      "english": "Hello, can I help you?",
+      "welsh": "Helo, gallaf eich helpu?",
+      "transliteration": "Heh-loh, ga-laf eich help-ee?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T16:37:25.156747"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "welsh": "Dw i'n edrych, diolch.",
+      "transliteration": "Doo-ee-n ed-reekh, dee-olch.",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T16:37:25.156757"
+    },
+    {
+      "english": "How much is this?",
+      "welsh": "Faint yw hyn?",
+      "transliteration": "Fahynt ew hin?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T16:37:25.156758"
+    },
+    {
+      "english": "Where can I find...?",
+      "welsh": "Ble alla i ddod o hyd i...?",
+      "transliteration": "Ble a-la-ee dod oh heeds ee...?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T16:37:25.156760"
+    },
+    {
+      "english": "Do you have this, please?",
+      "welsh": "Oes gennych chi hyn, os gwelwch yn dda?",
+      "transliteration": "Oys gen-nuch-ee hin, os gwel-uch on dda?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T16:37:25.156761"
     }
   ],
-  "last_updated": "2026-06-19T15:17:03.266894"
+  "last_updated": "2026-06-19T16:37:25.156763"
 }
