@@ -664,7 +664,42 @@
       "transliteration": "Hof-oon ee gof-fee.",
       "category": "Travel",
       "generated_at": "2026-06-20T21:05:43.401678"
+    },
+    {
+      "english": "So happy, you are.",
+      "welsh": "Mor hapus, ti.",
+      "transliteration": "Mor hap-us, tee.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T02:46:48.289404"
+    },
+    {
+      "english": "Wonderful day, isn't it?",
+      "welsh": "Dydd hyfryd, onid yw?",
+      "transliteration": "Dith hy-frid, on-id oo-ee?",
+      "category": "Joy",
+      "generated_at": "2026-06-21T02:46:48.289415"
+    },
+    {
+      "english": "Feeling great, today.",
+      "welsh": "Yn teimlo'n wych, heddiw.",
+      "transliteration": "In taym-lo-n weech, heth-ee-oo.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T02:46:48.289416"
+    },
+    {
+      "english": "A lovely moment, this.",
+      "welsh": "Eiliad bert, hon.",
+      "transliteration": "Ay-liad bert, hon.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T02:46:48.289416"
+    },
+    {
+      "english": "Pure joy, inside.",
+      "welsh": "Llawenydd pur, y tu mewn.",
+      "transliteration": "Lla-hen-idd pur, uh tee mwayn.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T02:46:48.289417"
     }
   ],
-  "last_updated": "2026-06-20T21:05:43.401680"
+  "last_updated": "2026-06-21T02:46:48.289418"
 }
