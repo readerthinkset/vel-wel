@@ -769,7 +769,42 @@
       "transliteration": "Nack ud-ee, doo ee'n gwi-bod.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-21T16:02:39.944881"
+    },
+    {
+      "english": "I'm sorry, I truly am.",
+      "welsh": "Mae'n ddrwg gen i, wir.",
+      "transliteration": "My-n throog gen ee, weer.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T18:20:48.805295"
+    },
+    {
+      "english": "Please forgive me, okay?",
+      "welsh": "Maddeuwch i mi, os gwelwch yn dda.",
+      "transliteration": "Ma-thee-ooch ee mee, os gel-ooch on d'ah.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T18:20:48.805306"
+    },
+    {
+      "english": "Let's move past this.",
+      "welsh": "Awn ni heibio i hyn.",
+      "transliteration": "Own nee hy-by-o ee hin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T18:20:48.805307"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "welsh": "Dydw i ddim yn gobeithio, wel?",
+      "transliteration": "Dud-oo ee ddim on go-bay-th-ee-o, wel?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T18:20:48.805309"
+    },
+    {
+      "english": "It won't happen again.",
+      "welsh": "Dydy e ddim yn digwydd eto.",
+      "transliteration": "Dud-ee ay ddim on dig-wid et-o.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-21T18:20:48.805310"
     }
   ],
-  "last_updated": "2026-06-21T16:02:39.944883"
+  "last_updated": "2026-06-21T18:20:48.805312"
 }
