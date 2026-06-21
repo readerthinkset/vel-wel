@@ -734,7 +734,42 @@
       "transliteration": "Sheer-ah-dook eff-oh veh, time-lookh veh.",
       "category": "Motivation",
       "generated_at": "2026-06-21T14:11:08.056120"
+    },
+    {
+      "english": "Hello, how are you?",
+      "welsh": "Helo, sut wyt ti?",
+      "transliteration": "Heh-loh, sit oyt tee?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T16:02:39.944869"
+    },
+    {
+      "english": "Thank you, very much.",
+      "welsh": "Diolch, yn fawr iawn.",
+      "transliteration": "Dee-olkh, un vowr yown.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T16:02:39.944877"
+    },
+    {
+      "english": "Excuse me, please.",
+      "welsh": "Os gwelwch yn dda.",
+      "transliteration": "Oss gwell-ookh un thah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T16:02:39.944878"
+    },
+    {
+      "english": "Yes, I understand.",
+      "welsh": "Ydy, dw i'n deall.",
+      "transliteration": "Ud-ee, doo ee'n dye-all.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T16:02:39.944880"
+    },
+    {
+      "english": "No, I don't know.",
+      "welsh": "Nac ydy, dw i'n gwybod.",
+      "transliteration": "Nack ud-ee, doo ee'n gwi-bod.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T16:02:39.944881"
     }
   ],
-  "last_updated": "2026-06-21T14:11:08.056122"
+  "last_updated": "2026-06-21T16:02:39.944883"
 }
