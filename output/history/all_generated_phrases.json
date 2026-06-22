@@ -909,7 +909,42 @@
       "transliteration": "Mye hun un go-lig-oo lha-wer, dee-olch.",
       "category": "Gratitude",
       "generated_at": "2026-06-22T16:57:41.351079"
+    },
+    {
+      "english": "Six, of one, half a dozen.",
+      "welsh": "Chwech, o un, hanner dwsin.",
+      "transliteration": "Hwech, o in, han-ner doos-in.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:17:00.340707"
+    },
+    {
+      "english": "Seven, days, a week.",
+      "welsh": "Saith, dydd, yr wythnos.",
+      "transliteration": "Sighth, duth, ur oo-ith-nos.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:17:00.340716"
+    },
+    {
+      "english": "Eight, sides, octagon.",
+      "welsh": "Wyth, ochr, octagon.",
+      "transliteration": "Ooo-ith, och-er, oc-ta-gon.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:17:00.340717"
+    },
+    {
+      "english": "Nine, lives, a cat.",
+      "welsh": "Naw, bywyd, cath.",
+      "transliteration": "Nao, buh-vood, cath.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:17:00.340719"
+    },
+    {
+      "english": "Ten, toes, wiggle them.",
+      "welsh": "Deg, bysedd, mwdn nhw.",
+      "transliteration": "Deg, buh-seth, mud-n nhoo.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T18:17:00.340720"
     }
   ],
-  "last_updated": "2026-06-22T16:57:41.351081"
+  "last_updated": "2026-06-22T18:17:00.340721"
 }
