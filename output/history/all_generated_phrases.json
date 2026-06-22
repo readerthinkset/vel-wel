@@ -839,7 +839,42 @@
       "transliteration": "Gwayth-red-oyth bach, yoo pwys-ig.",
       "category": "Kindness",
       "generated_at": "2026-06-21T21:05:50.206705"
+    },
+    {
+      "english": "My mother, she's lovely.",
+      "welsh": "Fy mam, mae hi'n hyfryd.",
+      "transliteration": "Vuy mam, may hee 'n uhv-reed.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T02:48:50.368429"
+    },
+    {
+      "english": "Your father, a strong man.",
+      "welsh": "Dy dad, dyn cryf.",
+      "transliteration": "Duy dad, dun cruff.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T02:48:50.368441"
+    },
+    {
+      "english": "Our children, so happy.",
+      "welsh": "Ein plant, mor hapus.",
+      "transliteration": "Ayn plant, mor hap-us.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T02:48:50.368443"
+    },
+    {
+      "english": "Their sister, she's kind.",
+      "welsh": "Eu chwaer, mae hi'n garedig.",
+      "transliteration": "Ay'r ch-wyre, may hee 'n gare-dig.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T02:48:50.368444"
+    },
+    {
+      "english": "My brother, he helps a lot.",
+      "welsh": "Fy mrawd, mae o'n helpu llawer.",
+      "transliteration": "Vuy mrowd, may ohn hel-pee hla-wer.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T02:48:50.368445"
     }
   ],
-  "last_updated": "2026-06-21T21:05:50.206709"
+  "last_updated": "2026-06-22T02:48:50.368447"
 }
