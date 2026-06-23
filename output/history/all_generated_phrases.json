@@ -1154,7 +1154,42 @@
       "transliteration": "Bith-ooch ayn veth-gar, bith-ooch ayn Gum-ree.",
       "category": "Courage",
       "generated_at": "2026-06-23T19:10:17.812035"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "welsh": "Helo, sut wyt ti?",
+      "transliteration": "Heh-loh, sit oyt tee?",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T21:25:11.639184"
+    },
+    {
+      "english": "Good morning, lovely day.",
+      "welsh": "Bore da, diwrnod braf.",
+      "transliteration": "Boh-reh dah, deewr-nod brahff.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T21:25:11.639192"
+    },
+    {
+      "english": "Welcome, come on in.",
+      "welsh": "Croeso, tyred mewn.",
+      "transliteration": "Kroy-so, tured mwayn.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T21:25:11.639194"
+    },
+    {
+      "english": "Good afternoon, friend.",
+      "welsh": "Prynhawn da, ffrind.",
+      "transliteration": "Prin-hown dah, frind.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T21:25:11.639195"
+    },
+    {
+      "english": "Nice to see you.",
+      "welsh": "Hyfryd dyfod.",
+      "transliteration": "Huv-rid duh-vod.",
+      "category": "Greetings",
+      "generated_at": "2026-06-23T21:25:11.639196"
     }
   ],
-  "last_updated": "2026-06-23T19:10:17.812037"
+  "last_updated": "2026-06-23T21:25:11.639198"
 }
