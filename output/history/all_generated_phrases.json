@@ -1224,7 +1224,42 @@
       "transliteration": "Dee-olch, hooil vawr.",
       "category": "Shopping",
       "generated_at": "2026-06-24T02:16:05.768738"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "welsh": "Parhau, peidiwch â stopio.",
+      "transliteration": "Par-hai, pei-diwch a stop-io.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T14:31:08.909453"
+    },
+    {
+      "english": "Slowly, but surely.",
+      "welsh": "Yn araf, ond yn sicr.",
+      "transliteration": "Un a-raf, ond un sik-er.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T14:31:08.909464"
+    },
+    {
+      "english": "Never give up hope.",
+      "welsh": "Peidiwch byth â rhoi'r gorau i obaith.",
+      "transliteration": "Pei-diwch byth a rhowi'r gor-ai i ob-aith.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T14:31:08.909465"
+    },
+    {
+      "english": "One step at a time.",
+      "welsh": "Un cam ar y tro.",
+      "transliteration": "Un kam ar a tro.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T14:31:08.909467"
+    },
+    {
+      "english": "Keep practicing, learn more.",
+      "welsh": "Ymarferwch, dysgwch fwy.",
+      "transliteration": "Ymar-fer-wch, dysg-wch bwee.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-24T14:31:08.909468"
     }
   ],
-  "last_updated": "2026-06-24T02:16:05.768740"
+  "last_updated": "2026-06-24T14:31:08.909470"
 }
