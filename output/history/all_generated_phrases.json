@@ -1294,7 +1294,42 @@
       "transliteration": "Der-bin pop-eth, deuch o heed ee-ch heth-ooch.",
       "category": "Inner Peace",
       "generated_at": "2026-06-24T16:28:13.145436"
+    },
+    {
+      "english": "Tomorrow, a new adventure.",
+      "welsh": "Yfory, antur newydd.",
+      "transliteration": "Uf-or-ee, an-teer new-idd.",
+      "category": "Time",
+      "generated_at": "2026-06-24T18:53:11.914834"
+    },
+    {
+      "english": "In a moment, I'll be there.",
+      "welsh": "Mewn eiliad, bydda i yno.",
+      "transliteration": "Mewn ey-liad, bud-da ee u-no.",
+      "category": "Time",
+      "generated_at": "2026-06-24T18:53:11.914845"
+    },
+    {
+      "english": "For a while, we wait.",
+      "welsh": "Am gyfnod, rydym yn aros.",
+      "transliteration": "Am kuf-nod, rud-dim un a-ros.",
+      "category": "Time",
+      "generated_at": "2026-06-24T18:53:11.914847"
+    },
+    {
+      "english": "In time, it will be clear.",
+      "welsh": "Yn y tro, bydd yn glir.",
+      "transliteration": "Un uh tro, bud-d un gleer.",
+      "category": "Time",
+      "generated_at": "2026-06-24T18:53:11.914848"
+    },
+    {
+      "english": "Always, keep going.",
+      "welsh": "Bob amser, parhewch.",
+      "transliteration": "Bob am-ser, par-hewch.",
+      "category": "Time",
+      "generated_at": "2026-06-24T18:53:11.914849"
     }
   ],
-  "last_updated": "2026-06-24T16:28:13.145437"
+  "last_updated": "2026-06-24T18:53:11.914851"
 }
