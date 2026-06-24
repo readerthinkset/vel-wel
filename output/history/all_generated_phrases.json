@@ -1189,7 +1189,42 @@
       "transliteration": "Huv-rid duh-vod.",
       "category": "Greetings",
       "generated_at": "2026-06-23T21:25:11.639196"
+    },
+    {
+      "english": "I'd like that one.",
+      "welsh": "Hoffwn i 'na un.",
+      "transliteration": "Hof-foon-ee naa oon.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T02:16:05.768724"
+    },
+    {
+      "english": "Can I try it on?",
+      "welsh": "Gallaf i roi cynnig arni?",
+      "transliteration": "Ga-laf-ee roy cun-neeg ar-nee?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T02:16:05.768734"
+    },
+    {
+      "english": "Do you take cards?",
+      "welsh": "Ydych chi'n cymryd cardiau?",
+      "transliteration": "Ud-eech-ee-n cum-reed card-ee-ah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T02:16:05.768735"
+    },
+    {
+      "english": "Where is the changing room?",
+      "welsh": "Ble mae'r ystafell newid?",
+      "transliteration": "Ble myr ys-ta-fell ney-weed?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T02:16:05.768737"
+    },
+    {
+      "english": "Thank you, goodbye.",
+      "welsh": "Diolch, hwyl fawr.",
+      "transliteration": "Dee-olch, hooil vawr.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T02:16:05.768738"
     }
   ],
-  "last_updated": "2026-06-23T21:25:11.639198"
+  "last_updated": "2026-06-24T02:16:05.768740"
 }
