@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Cyfarchion",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "cy-GB-AledNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Welsh.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Welsh.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Welsh text should be CLEAN - use standard Welsh script
 7. Do NOT include multiple versions or slashes - just ONE clean Welsh translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Welsh text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Welsh teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Welsh teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Welsh text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Welsh text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "welsh": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "welsh": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "welsh": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "welsh": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "welsh": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "welsh": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "welsh": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "welsh": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "welsh": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "welsh": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "welsh": "Helo, pleser eich cyfarfod.", "transliteration": "Helo, plesser ych kyfarfod."},
+        {"english": "Thank you very much.", "welsh": "Diolch yn fawr iawn.", "transliteration": "Diolch yn fawr iawn."},
+        {"english": "Good morning, have a great day.", "welsh": "Bore da, cael diwrnod gwych.", "transliteration": "Bore da, cael diwrnod gwych."},
+        {"english": "I love learning new languages.", "welsh": "Dw i'n hoffi dysgu ieithoedd newydd.", "transliteration": "Doo ee'n hoffi dysgu ieithoedd newydd."},
+        {"english": "Never give up on your dreams.", "welsh": "Peidiwch byth \u00e2 rhoi'r gorau i'ch breuddwydion.", "transliteration": "Peidiwch byth ah roi'r gorau i'ch breuddwydion."},
+        {"english": "Every day is a fresh start.", "welsh": "Bob dydd yw dechrau newydd.", "transliteration": "Bob dydd yw dechrau newydd."},
+        {"english": "Believe in yourself always.", "welsh": "Credu ynoch chi'ch hun bob amser.", "transliteration": "Creddu ynoch chi'ch hun bob amser."},
+        {"english": "Small steps lead to big changes.", "welsh": "Camau bach yn arwain at newidiadau mawr.", "transliteration": "Camau bach yn arwain at newidiadau mawr."},
+        {"english": "You are stronger than you think.", "welsh": "Rydych chi'n gryfach nag yr ydych chi'n meddwl.", "transliteration": "Rydych chi'n gryfach nag yr ydych chi'n meddwl."},
+        {"english": "Happiness is a choice, choose it.", "welsh": "Mae hapusrwydd yn ddewis, dewiswch ef.", "transliteration": "Mae hapusrwydd yn ddewis, dewiswch ef."},
+        {"english": "What time is it please.", "welsh": "Pa bryd mae hi os gwelwch yn dda.", "transliteration": "Pa bryd mae hi os gwelwch yn dda."},
+        {"english": "Where is the train station.", "welsh": "Ble mae'r orsaf tr\u00ean.", "transliteration": "Ble mae'r orsaf tr\u00ean."},
+        {"english": "How much does this cost.", "welsh": "Faint mae hyn yn costio.", "transliteration": "Faint mae hyn yn costio."},
+        {"english": "Can you help me please.", "welsh": "Allwch chi fy helpu os gwelwch yn dda.", "transliteration": "Allwch chi fy helpu os gwelwch yn dda."},
+        {"english": "I would like a coffee please.", "welsh": "Byddwn i'n hoffi coffi os gwelwch yn dda.", "transliteration": "Byddwn ee'n hoffi coffi os gwelwch yn dda."},
+        {"english": "The food is delicious today.", "welsh": "Mae'r bwyd yn flasus heddiw.", "transliteration": "Mae'r bwyd yn flasus heddiw."},
+        {"english": "Have a wonderful weekend.", "welsh": "Cael penwythnos hyfryd.", "transliteration": "Cael penwythnos hyfryd."},
+        {"english": "Take care of yourself.", "welsh": "Gofalwch amdanoch chi'ch hun.", "transliteration": "Gofalwch amdanoch chi'ch hun."},
+        {"english": "See you tomorrow my friend.", "welsh": "Welwn ni ti yfory fy ffrind.", "transliteration": "Welwn ni ti yfory fy ffrind."},
+        {"english": "The weather is beautiful outside.", "welsh": "Mae'r tywydd yn brydferth y tu allan.", "transliteration": "Mae'r tywydd yn brydferth y tu allan."},
+        {"english": "I am very happy today.", "welsh": "Dw i'n hapus iawn heddiw.", "transliteration": "Doo ee'n hapus iawn heddiw."},
+        {"english": "Learning a language opens new doors.", "welsh": "Mae dysgu iaith yn agor drysau newydd.", "transliteration": "Mae dysgu iaith yn agor drysau newydd."},
+        {"english": "Keep practicing every single day.", "welsh": "Parhewch i ymarfer bob dydd.", "transliteration": "Parhewch i ymarfer bob dydd."},
+        {"english": "You can achieve anything you want.", "welsh": "Gallwch gyflawni unrhyw beth yr ydych chi ei eisiau.", "transliteration": "Gallwch gyflawni unrhyw beth yr ydych chi ei eisiau."},
+        {"english": "Rest when you are tired.", "welsh": "Gorffwyswch pan fyddwch chi'n flinedig.", "transliteration": "Gorffwyswch pan fyddwch chi'n flinedig."},
+        {"english": "Focus on the positive things.", "welsh": "Canolbwyntiwch ar y pethau positif.", "transliteration": "Canolbwyntiwch ar y pethau positif."},
+        {"english": "Learn from your mistakes.", "welsh": "Dysgwch o'ch camgymeriadau.", "transliteration": "Dysgwch o'ch camgymeriadau."},
+        {"english": "Trust the process completely.", "welsh": "Ymddiried yn y broses yn llwyr.", "transliteration": "Ymddiried yn y broses yn llwyr."},
+        {"english": "Breathe deeply and stay calm.", "welsh": "Anadlwch yn ddwfn ac arhoswch yn dawel.", "transliteration": "Anadlwch yn ddwfn ac arhoswch yn dawel."},
+        {"english": "Enjoy the little moments in life.", "welsh": "Mwynhewch y munudau bach mewn bywyd.", "transliteration": "Mwynhewch y munudau bach mewn bywyd."},
+        {"english": "Smile more, worry less.", "welsh": "Gwenwch yn fwy, peidiwch \u00e2 phoeni llai.", "transliteration": "Gwenwch yn fwy, peidiwch ah phoeni llai."},
+        {"english": "Be kind to everyone you meet.", "welsh": "Byddwch yn garedig \u00e2 phawb yr ydych chi'n cwrdd \u00e2 nhw.", "transliteration": "Byddwch yn garedig ah pawb yr ydych chi'n cwrdd \u00e2 nhw."},
+        {"english": "Help others without expecting anything back.", "welsh": "Helpwch eraill heb ddisgwyl dim yn \u00f4l.", "transliteration": "Helpwch eraill heb ddisgwyl dim yn \u00f4l."},
+        {"english": "Forgive yourself and move forward.", "welsh": "Maddeuwch i chi'ch hun a symud ymlaen.", "transliteration": "Maddeuwch i chi'ch hun a symud ymlaen."},
+        {"english": "Stay strong in difficult times.", "welsh": "Arhoswch yn gryf mewn amseroedd anodd.", "transliteration": "Arhoswch yn gryf mewn amseroedd anodd."},
+        {"english": "Every moment is a new beginning.", "welsh": "Bob munud yw dechrau newydd.", "transliteration": "Bob munud yw dechrau newydd."},
+        {"english": "Listen to your heart always.", "welsh": "Gwrandewch ar eich calon bob amser.", "transliteration": "Gwrandewch ar eich calon bob amser."},
+        {"english": "Do what makes you happy.", "welsh": "Gwnewch yr hyn sy'n eich gwneud chi'n hapus.", "transliteration": "Gwnewch yr hyn sy'n eich gwneud chi'n hapus."},
+        {"english": "Your potential is unlimited.", "welsh": "Mae eich potensial yn ddiderfyn.", "transliteration": "Mae eich potensial yn ddiderfyn."},
+        {"english": "Be brave and take risks.", "welsh": "Byddwch yn ddewr a chymerwch risgiau.", "transliteration": "Byddwch yn ddewr a chymerwch risgiau."},
+        {"english": "Celebrate your progress every day.", "welsh": "Dathlwch eich cynnydd bob dydd.", "transliteration": "Dathlwch eich cynnydd bob dydd."},
+        {"english": "Surround yourself with good people.", "welsh": "Amgylchynwch eich hun \u00e2 phobl dda.", "transliteration": "Amgylchynwch eich hun ah pobl dda."},
+        {"english": "Read books and grow your mind.", "welsh": "Darllenwch lyfrau a thyfwch eich meddwl.", "transliteration": "Darllenwch lyfrau a thyfwch eich meddwl."},
+        {"english": "Travel and discover new places.", "welsh": "Teithiwch a darganfyddwch leoedd newydd.", "transliteration": "Teithiwch a darganfyddwch leoedd newydd."},
+        {"english": "Appreciate what you already have.", "welsh": "Gwerthfawrogwch yr hyn sydd gennych eisoes.", "transliteration": "Gwerthfawrogwch yr hyn sydd gennych eisoes."},
+        {"english": "Dance like nobody is watching.", "welsh": "Dawnsiwch fel pe na bai neb yn gwylio.", "transliteration": "Dawnsiwch fel pe na bai neb yn gwylio."},
+        {"english": "Sing from your heart out loud.", "welsh": "C\u00e2nwch o'ch calon yn uchel.", "transliteration": "C\u00e2nwch o'ch calon yn uchel."},
+        {"english": "Plant seeds of kindness everywhere.", "welsh": "Plannwch hadau caredigrwydd ym mhobman.", "transliteration": "Plannwch hadau caredigrwydd ym mhobman."},
+        {"english": "Let go of what you cannot control.", "welsh": "Rhyddhewch yr hyn na allwch ei reoli.", "transliteration": "Rhyddhewch yr hyn na allwch ei reoli."},
+        {"english": "Be present in the here and now.", "welsh": "Byddwch yn bresennol yn y fan a'r lle.", "transliteration": "Byddwch yn bresennol yn y fan ah'r lle."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "welsh"
-    for p in fresh:
-        p[lang_key] = p.pop("welsh")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
