@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Cydbwysedd",
     "Growth": "Twf",
     "Purpose": "Pwrpas",
-    "Mindfulness": "Ymwybyddiaeth Ofalgar"
+    "Mindfulness": "Ymwybyddiaeth Ofalgar",
+    "Daily Routine": "Trefn Ddyddiol",
+    "Weather": "Tywydd",
+    "Feelings": "Teimladau",
+    "Food": "Bwyd",
+    "Health": "Iechyd",
+    "Work": "Gwaith",
+    "Technology": "Technoleg",
+    "Nature": "Natur",
+    "Animals": "Anifeiliaid",
+    "Colors": "Lliwiau",
+    "Directions": "Cyfarwyddiadau",
+    "Body Parts": "Rhannau'r Corff",
+    "Clothes": "Dillad",
+    "Music": "Cerddoriaeth",
+    "Sports": "Chwaraeon",
+    "Holidays": "Gwyliau",
+    "Education": "Addysg",
+    "Culture": "Diwylliant",
+    "Finance": "Cyllid",
+    "Relationships": "Perthnasoedd"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
