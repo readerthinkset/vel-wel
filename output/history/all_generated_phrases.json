@@ -1399,7 +1399,42 @@
       "transliteration": "Ga-dewch ee nee roy hin tee ol.",
       "category": "Forgiveness",
       "generated_at": "2026-06-25T02:27:45.425092"
+    },
+    {
+      "english": "My grandma, her stories, they're magic.",
+      "welsh": "Fy nain, ei straeon, hud ydynt.",
+      "transliteration": "Vuh nine, ay strah-on, hud uh-dunt.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-27T03:21:41.339430"
+    },
+    {
+      "english": "Your grandpa, a wise old soul.",
+      "welsh": "Dy dadcu, hen ddyn doeth.",
+      "transliteration": "Duh dad-kee, hen dun doeth.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-27T03:21:41.339439"
+    },
+    {
+      "english": "Our little son, always curious.",
+      "welsh": "Ein mab bach, bob amser yn chwilfrydig.",
+      "transliteration": "Ine mab bach, bob am-ser in hiv-fru-dig.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-27T03:21:41.339441"
+    },
+    {
+      "english": "Their little daughter, a tiny artist.",
+      "welsh": "Eu merch fach, artist bach.",
+      "transliteration": "Eh mairch vach, artist bach.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-27T03:21:41.339442"
+    },
+    {
+      "english": "My uncle, good with his hands.",
+      "welsh": "Fy ewythr, da â'i ddwylo.",
+      "transliteration": "Vuh eh-vuth, da ah ee dwoy-lo.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-27T03:21:41.339443"
     }
   ],
-  "last_updated": "2026-06-25T02:27:45.425094"
+  "last_updated": "2026-06-27T03:21:41.339445"
 }
