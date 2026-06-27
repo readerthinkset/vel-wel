@@ -1539,7 +1539,42 @@
       "transliteration": "Cofleidiwch ih foment, in lan.",
       "category": "Happiness",
       "generated_at": "2026-06-27T18:07:06.963730"
+    },
+    {
+      "english": "Listen closely, the stream sings.",
+      "welsh": "Gwrandewch yn astud, mae'r nant yn canu.",
+      "transliteration": "Gwrandewch yn astud, mae'r nant yn kanu.",
+      "category": "Nature",
+      "generated_at": "2026-06-27T20:52:08.710382"
+    },
+    {
+      "english": "Sunlight, through leaves, dappled gold.",
+      "welsh": "Golau haul, trwy ddail, aur staenog.",
+      "transliteration": "Golau hawl, trwy dyle, awr staenog.",
+      "category": "Nature",
+      "generated_at": "2026-06-27T20:52:08.710394"
+    },
+    {
+      "english": "Wind whispers, secrets of the hills.",
+      "welsh": "Gwynt yn susian, cyfrinachau'r bryniau.",
+      "transliteration": "Gwynt yn susian, kyfrinachay'r brynyay.",
+      "category": "Nature",
+      "generated_at": "2026-06-27T20:52:08.710396"
+    },
+    {
+      "english": "Ancient trees, roots deep.",
+      "welsh": "Coed hynafol, gwreiddiau dwfn.",
+      "transliteration": "Koyd hynafol, gwreiddyay dwfn.",
+      "category": "Nature",
+      "generated_at": "2026-06-27T20:52:08.710398"
+    },
+    {
+      "english": "The quiet forest, breathes peace.",
+      "welsh": "Y goedwig dawel, yn anadlu heddwch.",
+      "transliteration": "Y goydwig dawel, yn anadlu heddwch.",
+      "category": "Nature",
+      "generated_at": "2026-06-27T20:52:08.710399"
     }
   ],
-  "last_updated": "2026-06-27T18:07:06.963731"
+  "last_updated": "2026-06-27T20:52:08.710401"
 }
