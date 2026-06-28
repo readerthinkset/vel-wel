@@ -1609,7 +1609,42 @@
       "transliteration": "Cur-odd, yn ag-or dry-sai.",
       "category": "Wisdom",
       "generated_at": "2026-06-28T02:35:28.454432"
+    },
+    {
+      "english": "The sky, is bright blue.",
+      "welsh": "Y nef, glas llachar.",
+      "transliteration": "Uh nev, glas llah-char.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T13:46:53.231779"
+    },
+    {
+      "english": "Her dress, a soft green.",
+      "welsh": "Ei sgert, wyrdd meddal.",
+      "transliteration": "Ay skert, wirth medd-al.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T13:46:53.231789"
+    },
+    {
+      "english": "A golden sunrise, over the hills.",
+      "welsh": "Wawr aur, dros y bryniau.",
+      "transliteration": "Wourr aur, dros uh brun-ye.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T13:46:53.231791"
+    },
+    {
+      "english": "Deep purple, like twilight.",
+      "welsh": "Porffor dwfn, fel cyfnos.",
+      "transliteration": "Porr-furr doovn, vel kuf-nos.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T13:46:53.231792"
+    },
+    {
+      "english": "A splash of crimson, on the page.",
+      "welsh": "Sblash cochlyd, ar y dudalen.",
+      "transliteration": "Sblash kokh-lidd, arr uh tud-al-en.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T13:46:53.231793"
     }
   ],
-  "last_updated": "2026-06-28T02:35:28.454434"
+  "last_updated": "2026-06-28T13:46:53.231794"
 }
