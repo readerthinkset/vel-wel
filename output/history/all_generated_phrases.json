@@ -1644,7 +1644,42 @@
       "transliteration": "Sblash kokh-lidd, arr uh tud-al-en.",
       "category": "Colors",
       "generated_at": "2026-06-28T13:46:53.231793"
+    },
+    {
+      "english": "A table for two, please.",
+      "welsh": "Bwrdd i ddau, os gwelwch yn dda.",
+      "transliteration": "Boord ee da-ee, os gwel-ookh in dhaa.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-28T15:22:48.449206"
+    },
+    {
+      "english": "What's today's special?",
+      "welsh": "Beth yw'r pryd arbennig heddiw?",
+      "transliteration": "Beth ee'r prid ar-ben-nig heth-ee-oo?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-28T15:22:48.449216"
+    },
+    {
+      "english": "Could I see the menu?",
+      "welsh": "Ga i weld y fwydlen?",
+      "transliteration": "Gai weld ee fwid-len?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-28T15:22:48.449218"
+    },
+    {
+      "english": "We're ready to order.",
+      "welsh": "Rydyn ni'n barod i archebu.",
+      "transliteration": "Rith-un nee nar-od ee ar-che-bee.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-28T15:22:48.449220"
+    },
+    {
+      "english": "Just water for now.",
+      "welsh": "Dim ond dŵr am y tro.",
+      "transliteration": "Dim ond doohr am ee trohr.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-28T15:22:48.449221"
     }
   ],
-  "last_updated": "2026-06-28T13:46:53.231794"
+  "last_updated": "2026-06-28T15:22:48.449222"
 }
