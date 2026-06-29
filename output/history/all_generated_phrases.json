@@ -1819,7 +1819,42 @@
       "transliteration": "Bob 'diolch' sin cyfri, cofiwch.",
       "category": "Inspiration",
       "generated_at": "2026-06-29T15:47:06.003615"
+    },
+    {
+      "english": "A gentle breeze, whispers through the trees.",
+      "welsh": "Bwrlwm ysgafn, yn ysu drwy’r coed.",
+      "transliteration": "BURL-um IS-gafyn, yn Y-su DROO-r KOID.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T16:57:40.545441"
+    },
+    {
+      "english": "The sun, a warm embrace.",
+      "welsh": "Yr haul, cofleid o gynhes.",
+      "transliteration": "Ur HAIL, cohf-leyhd oh KUN-hes.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T16:57:40.545451"
+    },
+    {
+      "english": "Clouds gather, a soft grey blanket.",
+      "welsh": "Cymylau’n casglu, blanced llwyd feddal.",
+      "transliteration": "CUM-uh-lie-n CAS-gl-ee, BLAN-ked LLOOYD VED-al.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T16:57:40.545452"
+    },
+    {
+      "english": "Raindrops fall, like tiny silver pearls.",
+      "welsh": "Gwyrdd y glaw, fel perlau arian.",
+      "transliteration": "GWER-th uh GLAU, fel PER-lie AR-ee-an.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T16:57:40.545453"
+    },
+    {
+      "english": "A rumble in the distance, thunder approaching.",
+      "welsh": "Cyrch o bell, taranau yn nesáu.",
+      "transliteration": "KURK oh BEL, TAR-an-eye yn NES-eye-oo.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T16:57:40.545454"
     }
   ],
-  "last_updated": "2026-06-29T15:47:06.003617"
+  "last_updated": "2026-06-29T16:57:40.545455"
 }
