@@ -2169,7 +2169,42 @@
       "transliteration": "Can-ol-booint diss-tow, gweyth-red-oyth mowr.",
       "category": "Strength",
       "generated_at": "2026-07-01T14:36:02.937726"
+    },
+    {
+      "english": "A tiny mouse, squeaking softly.",
+      "welsh": "Llygoden fach, yn seinio'n glaf.",
+      "transliteration": "Lhugo-den vach, un sy-ni-o'n glaf.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:34:11.808206"
+    },
+    {
+      "english": "The proud lion, roars mightily.",
+      "welsh": "Y llew balch, yn rhuo'n gryf.",
+      "transliteration": "Uh yoo lew balch, un roo-o'n grif.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:34:11.808216"
+    },
+    {
+      "english": "A curious cat, exploring shadows.",
+      "welsh": "Cath chwilfrydig, yn archwilio cysgodion.",
+      "transliteration": "Cath chwi-fry-dig, un arch-eel-ee-o cuss-og-ee-on.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:34:11.808217"
+    },
+    {
+      "english": "The wise owl, watches at night.",
+      "welsh": "Yr dylluan ddoeth, yn gwylio'n nos.",
+      "transliteration": "Ur thul-loo-an tho-oth, un guyl-ee-o'n nos.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:34:11.808218"
+    },
+    {
+      "english": "A playful puppy, chasing its tail.",
+      "welsh": "Ci chwareus, yn mynd ar ôl ei gynffon.",
+      "transliteration": "Kee chwar-ay-us, un mynd ar oyl ey cun-phon.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:34:11.808220"
     }
   ],
-  "last_updated": "2026-07-01T14:36:02.937728"
+  "last_updated": "2026-07-01T16:34:11.808221"
 }
