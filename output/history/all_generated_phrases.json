@@ -2204,7 +2204,42 @@
       "transliteration": "Kee chwar-ay-us, un mynd ar oyl ey cun-phon.",
       "category": "Animals",
       "generated_at": "2026-07-01T16:34:11.808220"
+    },
+    {
+      "english": "Take a breath, then speak.",
+      "welsh": "Cymerwch chiadl, yna dywedwch.",
+      "transliteration": "Kuh-mer-akh chee-athl, uh-nah duh-weth.",
+      "category": "Courage",
+      "generated_at": "2026-07-01T19:00:51.535502"
+    },
+    {
+      "english": "A small step, means progress.",
+      "welsh": "Cam bach, yn golygu cynnydd.",
+      "transliteration": "Kahm bahkh, uhn goh-lee-goo kun-nuth.",
+      "category": "Courage",
+      "generated_at": "2026-07-01T19:00:51.535513"
+    },
+    {
+      "english": "Don't hold back, just try.",
+      "welsh": "Peidiwch â chadw'n ôl, rhowch gynnig.",
+      "transliteration": "Pay-deewkh ah kath-w’n ohl, rhowkh gun-neeg.",
+      "category": "Courage",
+      "generated_at": "2026-07-01T19:00:51.535514"
+    },
+    {
+      "english": "Listen carefully, then reply.",
+      "welsh": "Gwrandewch yn ofalus, yna atebwch.",
+      "transliteration": "Goo-ran-dekh uhn oh-vah-loos, uh-nah aht-eb-wkh.",
+      "category": "Courage",
+      "generated_at": "2026-07-01T19:00:51.535516"
+    },
+    {
+      "english": "Even a whisper, can be heard.",
+      "welsh": "Hyd yn oed i fydr, gellir ei glywed.",
+      "transliteration": "Huhd uhn oh-ed ee vud-r, gel-leer ay gloo-ed.",
+      "category": "Courage",
+      "generated_at": "2026-07-01T19:00:51.535517"
     }
   ],
-  "last_updated": "2026-07-01T16:34:11.808221"
+  "last_updated": "2026-07-01T19:00:51.535519"
 }
