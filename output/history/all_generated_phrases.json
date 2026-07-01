@@ -2239,7 +2239,42 @@
       "transliteration": "Huhd uhn oh-ed ee vud-r, gel-leer ay gloo-ed.",
       "category": "Courage",
       "generated_at": "2026-07-01T19:00:51.535517"
+    },
+    {
+      "english": "My aching head, oh dear.",
+      "welsh": "Fy mhen poenus, o naw.",
+      "transliteration": "Vur hen poin-us, o naw.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T21:19:24.684299"
+    },
+    {
+      "english": "Your tiny hands, so soft.",
+      "welsh": "Dy ddwylo bach, mor feddal.",
+      "transliteration": "Duh duyl-oh bach, mor ved-al.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T21:19:24.684306"
+    },
+    {
+      "english": "Feel my strong arm, friend.",
+      "welsh": "Teimla fy ngholyn cryf, cyfaill.",
+      "transliteration": "Taim-la vur n-gol-in cruyv, cu-vighll.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T21:19:24.684308"
+    },
+    {
+      "english": "Her gentle smile, it shines.",
+      "welsh": "Ei hymchwâd caredig, mae'n tywynnu.",
+      "transliteration": "Ay hum-chwad car-a-dig, mae'n tui-un-noo.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T21:19:24.684309"
+    },
+    {
+      "english": "His weary feet, need rest.",
+      "welsh": "Ei draed blinedig, angen gorffwysfa.",
+      "transliteration": "Ay dryd blin-a-dig, an-gen gor-fus-va.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T21:19:24.684310"
     }
   ],
-  "last_updated": "2026-07-01T19:00:51.535519"
+  "last_updated": "2026-07-01T21:19:24.684312"
 }
