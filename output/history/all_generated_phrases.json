@@ -2414,7 +2414,42 @@
       "transliteration": "GAD-ewch ee-r UST-eer, DAT-blig-oo.",
       "category": "Self Improvement",
       "generated_at": "2026-07-02T18:27:27.460794"
+    },
+    {
+      "english": "Greetings, bright soul.",
+      "welsh": "Shwmae, enaid llachar.",
+      "transliteration": "Shu-my, en-aid lha-char.",
+      "category": "Greetings",
+      "generated_at": "2026-07-02T20:56:07.401076"
+    },
+    {
+      "english": "A warm hello, indeed.",
+      "welsh": "Croeso cynnes, wir.",
+      "transliteration": "Croi-so kun-es, wir.",
+      "category": "Greetings",
+      "generated_at": "2026-07-02T20:56:07.401086"
+    },
+    {
+      "english": "What a day, welcome.",
+      "welsh": "Lwcus y dydd, croeso.",
+      "transliteration": "Lu-cus uh dhuhdh, croi-so.",
+      "category": "Greetings",
+      "generated_at": "2026-07-02T20:56:07.401087"
+    },
+    {
+      "english": "Glad you're here.",
+      "welsh": "Pleser dy fod yma.",
+      "transliteration": "Ple-ser duh vod uh-ma.",
+      "category": "Greetings",
+      "generated_at": "2026-07-02T20:56:07.401089"
+    },
+    {
+      "english": "Well met, traveller.",
+      "welsh": "Cyfar fod, teithiwr.",
+      "transliteration": "Cuv-ar vod, tei-th-oor.",
+      "category": "Greetings",
+      "generated_at": "2026-07-02T20:56:07.401090"
     }
   ],
-  "last_updated": "2026-07-02T18:27:27.460796"
+  "last_updated": "2026-07-02T20:56:07.401095"
 }
