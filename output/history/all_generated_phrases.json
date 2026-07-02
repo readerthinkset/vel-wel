@@ -2274,7 +2274,42 @@
       "transliteration": "Ay dryd blin-a-dig, an-gen gor-fus-va.",
       "category": "Body Parts",
       "generated_at": "2026-07-01T21:19:24.684310"
+    },
+    {
+      "english": "A beautiful day, isn't it?",
+      "welsh": "Diwrnod hyfryd, on'd yw?",
+      "transliteration": "Dee-ur-nod huh-vrid, ond oo-ee?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T02:15:50.362821"
+    },
+    {
+      "english": "I'm learning Welsh, slowly.",
+      "welsh": "Dwi'n dysgu Cymraeg, yn araf.",
+      "transliteration": "Dwee'n dis-goo Cum-raig, un a-raf.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T02:15:50.362832"
+    },
+    {
+      "english": "Where is the nearest shop?",
+      "welsh": "Ble mae'r siop agosaf?",
+      "transliteration": "Ble-m-ai'r shop a-go-saf?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T02:15:50.362834"
+    },
+    {
+      "english": "This is delicious food.",
+      "welsh": "Mae hyn yn fwyd blasus.",
+      "transliteration": "M-ai hun un food bla-sus.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T02:15:50.362835"
+    },
+    {
+      "english": "Can you help me, please?",
+      "welsh": "Allwch chi fy helpu, os gwelwch yn dda?",
+      "transliteration": "Al-lukh khee fuh help-ee, os gu-lukh un da?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T02:15:50.362836"
     }
   ],
-  "last_updated": "2026-07-01T21:19:24.684312"
+  "last_updated": "2026-07-02T02:15:50.362838"
 }
