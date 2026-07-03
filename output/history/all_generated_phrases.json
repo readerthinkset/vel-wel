@@ -2449,7 +2449,42 @@
       "transliteration": "Cuv-ar vod, tei-th-oor.",
       "category": "Greetings",
       "generated_at": "2026-07-02T20:56:07.401090"
+    },
+    {
+      "english": "Every small effort, builds something strong.",
+      "welsh": "Bob ymdrech fach, yn adeiladu rhywbeth cadarn.",
+      "transliteration": "Bob um-draykh vakh, un ad-eil-adee roo-beth ka-darn.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T02:00:28.689477"
+    },
+    {
+      "english": "Your courage, shines through the struggle.",
+      "welsh": "Dy ddewrder, yn tywynnu drwy'r frwydr.",
+      "transliteration": "Duh dwayr-der, un ti-wi-nee droo-r brooyt-r.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T02:00:28.689486"
+    },
+    {
+      "english": "Push forward, find your rhythm.",
+      "welsh": "Gwthiwch ymlaen, dewch o hyd i'ch rhythm.",
+      "transliteration": "Goo-thiwkh um-layn, dukh oh hyd ee-kh ri-thm.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T02:00:28.689488"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "welsh": "Peidiwch â phoeni am gamgymeriadau, dysgwch ohonynt.",
+      "transliteration": "Pay-doykh ah foy-nee um gam-gi-mer-i-a-dee, dusc-h oh-hon-t.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T02:00:28.689489"
+    },
+    {
+      "english": "Believe in your progress, however slow.",
+      "welsh": "Ymddiried yn eich cynnydd, pa mor araf bynnag.",
+      "transliteration": "Um-dhir-eed un eech kin-ith, pa mor a-rav bin-ag.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-03T02:00:28.689490"
     }
   ],
-  "last_updated": "2026-07-02T20:56:07.401095"
+  "last_updated": "2026-07-03T02:00:28.689492"
 }
