@@ -2764,7 +2764,42 @@
       "transliteration": "Eich pres-en-ol-deb, un rhodd.",
       "category": "Friendship",
       "generated_at": "2026-07-04T18:03:59.496144"
+    },
+    {
+      "english": "Little by little, progress is made.",
+      "welsh": "Mân wrth fân, cynhelir cynnydd.",
+      "transliteration": "Mahn oorth mahn, kheenhelir kheenidd.",
+      "category": "Success",
+      "generated_at": "2026-07-04T20:44:08.823124"
+    },
+    {
+      "english": "Speak a little Welsh, today.",
+      "welsh": "Siaradwch ychydig Gymraeg, heddiw.",
+      "transliteration": "Sheeradookh ykhidikh Gimraig, hedeew.",
+      "category": "Success",
+      "generated_at": "2026-07-04T20:44:08.823136"
+    },
+    {
+      "english": "Every word, a new step.",
+      "welsh": "Pob gair, cam newydd.",
+      "transliteration": "Pob gair, kahm nuydd.",
+      "category": "Success",
+      "generated_at": "2026-07-04T20:44:08.823138"
+    },
+    {
+      "english": "Listen closely, learn more.",
+      "welsh": "Gwrandewch yn ofalus, dysgwch fwy.",
+      "transliteration": "Goorandookh uhn ovahlees, D uskookh mwee.",
+      "category": "Success",
+      "generated_at": "2026-07-04T20:44:08.823140"
+    },
+    {
+      "english": "Your voice, in Welsh.",
+      "welsh": "Eich llais, yn Gymraeg.",
+      "transliteration": "Eikh liss, uhn Gimraig.",
+      "category": "Success",
+      "generated_at": "2026-07-04T20:44:08.823141"
     }
   ],
-  "last_updated": "2026-07-04T18:03:59.496145"
+  "last_updated": "2026-07-04T20:44:08.823142"
 }
