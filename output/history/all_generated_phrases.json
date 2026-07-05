@@ -2939,7 +2939,42 @@
       "transliteration": "Shee-ar-a-d-ooch in a-ra-v, buh-duh-ch in valch.",
       "category": "Education",
       "generated_at": "2026-07-05T18:06:38.358974"
+    },
+    {
+      "english": "Sky, a bright blue canvas.",
+      "welsh": "Y nef, cynfas glas llachar.",
+      "transliteration": "Uh nef, cunfas glahz 'luh-char.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T20:48:22.614386"
+    },
+    {
+      "english": "Sunlight, a golden shimmer.",
+      "welsh": "Golau'r haul, disgleirdeb aur.",
+      "transliteration": "Goh-lie'r hahl, dis-glay-deb oyr.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T20:48:22.614395"
+    },
+    {
+      "english": "Mist rises, secrets unfolding.",
+      "welsh": "Niwl yn codi, cyfrinachau'n datblygu.",
+      "transliteration": "Nuh-vul un koh-dee, cun-fri-nah-khai'n dahd-bluh-guh.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T20:48:22.614397"
+    },
+    {
+      "english": "Wind howls, a wild song.",
+      "welsh": "Gwynt yn udo, cân wyllt.",
+      "transliteration": "Gwhint un ee-doh, kahn uh-willt.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T20:48:22.614398"
+    },
+    {
+      "english": "Storm brews, skies darken.",
+      "welsh": "Storm yn cynhyrfu, nefoedd yn du.",
+      "transliteration": "Storm un cun-huv-roo, neh-vodd un doo.",
+      "category": "Weather",
+      "generated_at": "2026-07-05T20:48:22.614399"
     }
   ],
-  "last_updated": "2026-07-05T18:06:38.358976"
+  "last_updated": "2026-07-05T20:48:22.614401"
 }
