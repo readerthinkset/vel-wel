@@ -3079,7 +3079,42 @@
       "transliteration": "Tym-her kwin-ness, o fe-oon.",
       "category": "Gratitude",
       "generated_at": "2026-07-06T16:58:09.259318"
+    },
+    {
+      "english": "The clock ticks, slowly onward.",
+      "welsh": "Y cloc yn tician, yn araf ymlaen.",
+      "transliteration": "Uh cloc un tician, un araf um-lain.",
+      "category": "Time",
+      "generated_at": "2026-07-06T18:57:06.968607"
+    },
+    {
+      "english": "Soon, the sun will rise.",
+      "welsh": "Yn fuan, bydd yr haul yn codi.",
+      "transliteration": "Un foo-an, budh ur ha-eel un cod-ee.",
+      "category": "Time",
+      "generated_at": "2026-07-06T18:57:06.968615"
+    },
+    {
+      "english": "A fleeting second, gone.",
+      "welsh": "Ail eiliad yn ffoi, wedi mynd.",
+      "transliteration": "Ail ay-lee-ad un foo-ee, wed-ee mynd.",
+      "category": "Time",
+      "generated_at": "2026-07-06T18:57:06.968617"
+    },
+    {
+      "english": "Just then, a whisper.",
+      "welsh": "Yna yn union, sibrwd.",
+      "transliteration": "Uh-na un ee-on, sib-rood.",
+      "category": "Time",
+      "generated_at": "2026-07-06T18:57:06.968618"
+    },
+    {
+      "english": "When will it be?",
+      "welsh": "Pryd y bydd?",
+      "transliteration": "Prud uh budh?",
+      "category": "Time",
+      "generated_at": "2026-07-06T18:57:06.968623"
     }
   ],
-  "last_updated": "2026-07-06T16:58:09.259319"
+  "last_updated": "2026-07-06T18:57:06.968624"
 }
