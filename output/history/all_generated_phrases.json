@@ -3114,7 +3114,42 @@
       "transliteration": "Prud uh budh?",
       "category": "Time",
       "generated_at": "2026-07-06T18:57:06.968623"
+    },
+    {
+      "english": "Your voice, a new song.",
+      "welsh": "D'lais, cân newydd.",
+      "transliteration": "D-lighs, kaan nuh-wid.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T21:22:46.701954"
+    },
+    {
+      "english": "Unlock the phrases, unlock the world.",
+      "welsh": "Datglo'r ymadroddion, datglo'r byd.",
+      "transliteration": "Dat-gloh-r uh-mad-rod-ee-on, dat-gloh-r bid.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T21:22:46.701961"
+    },
+    {
+      "english": "This moment, your Welsh adventure.",
+      "welsh": "Y foment hon, dy antur Gymraeg.",
+      "transliteration": "Uh voh-ment hon, duh an-tur Gum-raig.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T21:22:46.701962"
+    },
+    {
+      "english": "Embrace the journey, step by step.",
+      "welsh": "Cofleidiwch y daith, gam wrth gam.",
+      "transliteration": "Kof-ley-dee-uch uh dighth, gam urth gam.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T21:22:46.701964"
+    },
+    {
+      "english": "The language lives, within you.",
+      "welsh": "Mae'r iaith yn fyw, o'th fewn.",
+      "transliteration": "My-r yighth un viv, oh-voth vewn.",
+      "category": "Confidence",
+      "generated_at": "2026-07-06T21:22:46.701965"
     }
   ],
-  "last_updated": "2026-07-06T18:57:06.968624"
+  "last_updated": "2026-07-06T21:22:46.701966"
 }
