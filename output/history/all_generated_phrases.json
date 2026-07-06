@@ -3009,7 +3009,42 @@
       "transliteration": "Ble mae'r llay dee-o-gel ag-o-saf?",
       "category": "Emergency",
       "generated_at": "2026-07-06T02:11:50.171111"
+    },
+    {
+      "english": "A new idea, takes flight.",
+      "welsh": "Syniad newydd, yn hedfan.",
+      "transliteration": "Sin-ee-ad new-ith, in hed-van.",
+      "category": "Technology",
+      "generated_at": "2026-07-06T15:32:40.308514"
+    },
+    {
+      "english": "Your device, your world.",
+      "welsh": "Dy ddyfais, dy fyd.",
+      "transliteration": "Duh du-vice, duh vud.",
+      "category": "Technology",
+      "generated_at": "2026-07-06T15:32:40.308527"
+    },
+    {
+      "english": "Smart homes, coming soon.",
+      "welsh": "Cartrefi craff, cyn bo hir.",
+      "transliteration": "Car-trev-ee craf, kin bo heer.",
+      "category": "Technology",
+      "generated_at": "2026-07-06T15:32:40.308529"
+    },
+    {
+      "english": "Learning online, is easy.",
+      "welsh": "Dysgu ar-lein, yw'n hawdd.",
+      "transliteration": "Dus-goo ar-line, yoo'n hawd.",
+      "category": "Technology",
+      "generated_at": "2026-07-06T15:32:40.308530"
+    },
+    {
+      "english": "The cloud, holds everything.",
+      "welsh": "Y cymylau, yn dal popeth.",
+      "transliteration": "Uh cum-uh-lie, in dal pop-eth.",
+      "category": "Technology",
+      "generated_at": "2026-07-06T15:32:40.308531"
     }
   ],
-  "last_updated": "2026-07-06T02:11:50.171113"
+  "last_updated": "2026-07-06T15:32:40.308533"
 }
