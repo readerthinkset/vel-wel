@@ -2974,7 +2974,42 @@
       "transliteration": "Storm un cun-huv-roo, neh-vodd un doo.",
       "category": "Weather",
       "generated_at": "2026-07-05T20:48:22.614399"
+    },
+    {
+      "english": "Danger nearby, move quickly.",
+      "welsh": "Perygl gerllaw, symudwch yn sydyn.",
+      "transliteration": "Per-ighel ger-llaw, sym-ood-ikh in su-din.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T02:11:50.171098"
+    },
+    {
+      "english": "Something's wrong, I need assistance.",
+      "welsh": "Mae rhywbeth o'i le, angen cymorth arnaf.",
+      "transliteration": "Mae r-hoob-eth o-eeh lay, an-gen com-orth ar-naf.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T02:11:50.171107"
+    },
+    {
+      "english": "Stop! That's not allowed.",
+      "welsh": "Aros! Ni chaniateir hynny.",
+      "transliteration": "Ar-os! Nee chan-i-ateer hin-ee.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T02:11:50.171108"
+    },
+    {
+      "english": "I'm injured, please help me.",
+      "welsh": "Rwy'n anafedig, helpwch fi, os gwelwch yn dda.",
+      "transliteration": "Rween an-af-ed-ig, help-ookh fee, os guel-ookh in da.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T02:11:50.171110"
+    },
+    {
+      "english": "Where is the nearest safe place?",
+      "welsh": "Ble mae'r lle diogel agosaf?",
+      "transliteration": "Ble mae'r llay dee-o-gel ag-o-saf?",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T02:11:50.171111"
     }
   ],
-  "last_updated": "2026-07-05T20:48:22.614401"
+  "last_updated": "2026-07-06T02:11:50.171113"
 }
