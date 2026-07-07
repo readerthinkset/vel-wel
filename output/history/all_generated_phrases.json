@@ -3184,7 +3184,42 @@
       "transliteration": "Beth, duh ar-gum-hel-yad?",
       "category": "Restaurant",
       "generated_at": "2026-07-07T02:07:23.217419"
+    },
+    {
+      "english": "The swift swallow, dipping low.",
+      "welsh": "Wennol gyflym, dipio'n isel.",
+      "transliteration": "wenn-ohl ghuv-leem, dip-ee-oh-n ee-sel.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T14:33:11.583061"
+    },
+    {
+      "english": "A fuzzy bee, buzzing by.",
+      "welsh": "Gwenynen feddal, bwrlwm heibio.",
+      "transliteration": "gwen-en-en ved-dhal, burr-loom hah-bee-oh.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T14:33:11.583069"
+    },
+    {
+      "english": "The shy deer, in the woods.",
+      "welsh": "Carw swil, yn y goedwig.",
+      "transliteration": "car-oo shil, uhn uh goo-ed-wig.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T14:33:11.583071"
+    },
+    {
+      "english": "A striped tiger, silent stalk.",
+      "welsh": "Teigr streipiog, ysbeilio tawel.",
+      "transliteration": "tay-gur strey-pee-og, us-bay-lee-oh tah-well.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T14:33:11.583072"
+    },
+    {
+      "english": "The hopping frog, croaking loud.",
+      "welsh": "Broga neidio, crancio'n uchel.",
+      "transliteration": "brog-ah nay-dee-oh, cran-kee-oh-n oo-chel.",
+      "category": "Animals",
+      "generated_at": "2026-07-07T14:33:11.583073"
     }
   ],
-  "last_updated": "2026-07-07T02:07:23.217420"
+  "last_updated": "2026-07-07T14:33:11.583075"
 }
