@@ -3569,7 +3569,42 @@
       "transliteration": "Pob brad-eg, bid-dig-ol-y-ath ve-khan.",
       "category": "Growth",
       "generated_at": "2026-07-09T18:51:59.456791"
+    },
+    {
+      "english": "Listen closely, hear the stories.",
+      "welsh": "Gwrandewch yn astud, clywch y straeon.",
+      "transliteration": "Gwr-an-dewch-in as-tid, cloi-chuh y strai-on.",
+      "category": "Culture",
+      "generated_at": "2026-07-09T21:13:48.105273"
+    },
+    {
+      "english": "Taste the sea, feel the breeze.",
+      "welsh": "Blaswch y môr, teimlwch yr awel.",
+      "transliteration": "Blas-ooch y mor, taim-luch ur a-vel.",
+      "category": "Culture",
+      "generated_at": "2026-07-09T21:13:48.105284"
+    },
+    {
+      "english": "Explore the valleys, find your peace.",
+      "welsh": "Archwiliwch y cymoedd, dewch o hyd i'ch heddwch.",
+      "transliteration": "Ar-chill-ooch y kum-oydh, dey-ooch o haid ee-ch heth-ooch.",
+      "category": "Culture",
+      "generated_at": "2026-07-09T21:13:48.105286"
+    },
+    {
+      "english": "See the mountains, breathe the air.",
+      "welsh": "Gwelwch y mynyddoedd, anadlwch yr awyr.",
+      "transliteration": "Gwel-ooch y mun-ith-oydh, an-adl-ooch ur a-wir.",
+      "category": "Culture",
+      "generated_at": "2026-07-09T21:13:48.105287"
+    },
+    {
+      "english": "Speak the words, connect the world.",
+      "welsh": "Siaradwch y geiriau, cysylltwch y byd.",
+      "transliteration": "Shar-ad-ooch y gayr-eye-oo, kus-ul-tooch y bid.",
+      "category": "Culture",
+      "generated_at": "2026-07-09T21:13:48.105289"
     }
   ],
-  "last_updated": "2026-07-09T18:51:59.456793"
+  "last_updated": "2026-07-09T21:13:48.105290"
 }
