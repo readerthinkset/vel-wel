@@ -3744,7 +3744,42 @@
       "transliteration": "Dweer tow-el, in reh-deg y dif-af.",
       "category": "Patience",
       "generated_at": "2026-07-10T18:25:23.744993"
+    },
+    {
+      "english": "A bright new day, welcome.",
+      "welsh": "Dydd newydd gwych, croeso.",
+      "transliteration": "Dith new-ith goo-ich, croi-so.",
+      "category": "Greetings",
+      "generated_at": "2026-07-10T21:00:34.624178"
+    },
+    {
+      "english": "Come in, the kettle's on.",
+      "welsh": "Dewch i mewn, mae'r tegell ymlaen.",
+      "transliteration": "Dei-ch ee men, mie'r teg-ell um-lain.",
+      "category": "Greetings",
+      "generated_at": "2026-07-10T21:00:34.624188"
+    },
+    {
+      "english": "So good to meet you.",
+      "welsh": "Mor dda i gwrdd â chi.",
+      "transliteration": "Mor dda ee goo-rth aa chee.",
+      "category": "Greetings",
+      "generated_at": "2026-07-10T21:00:34.624190"
+    },
+    {
+      "english": "What a wonderful surprise!",
+      "welsh": "Am syndod hyfryd!",
+      "transliteration": "Am sun-dod hoh-vrid!",
+      "category": "Greetings",
+      "generated_at": "2026-07-10T21:00:34.624191"
+    },
+    {
+      "english": "Hope you're having a good one.",
+      "welsh": "Gobeithio dydd da sydd gennych.",
+      "transliteration": "Go-beith-ee-o dith da siddh gen-nuch.",
+      "category": "Greetings",
+      "generated_at": "2026-07-10T21:00:34.624192"
     }
   ],
-  "last_updated": "2026-07-10T18:25:23.744995"
+  "last_updated": "2026-07-10T21:00:34.624194"
 }
