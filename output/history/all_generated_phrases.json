@@ -3779,7 +3779,42 @@
       "transliteration": "Go-beith-ee-o dith da siddh gen-nuch.",
       "category": "Greetings",
       "generated_at": "2026-07-10T21:00:34.624192"
+    },
+    {
+      "english": "Breathe deep, feel the calm.",
+      "welsh": "Anadl ddofn, teimla'r tawelwch.",
+      "transliteration": "Anadl dovn, teymla'r tawelwch.",
+      "category": "Health",
+      "generated_at": "2026-07-11T01:47:05.545493"
+    },
+    {
+      "english": "Hydrate well, feel your best.",
+      "welsh": "Dioddef yn dda, teimla'n well.",
+      "transliteration": "Dioddef yn da, teymla'n well.",
+      "category": "Health",
+      "generated_at": "2026-07-11T01:47:05.545500"
+    },
+    {
+      "english": "Move your body, lift your mood.",
+      "welsh": "Symuda'r corff, dyrchafala'r hwyl.",
+      "transliteration": "Symuda'r korf, dyrchafala'r huyl.",
+      "category": "Health",
+      "generated_at": "2026-07-11T01:47:05.545502"
+    },
+    {
+      "english": "Eat vibrant foods, glow inside.",
+      "welsh": "Bwyta bwydydd bywiog, tywynna'n fewnol.",
+      "transliteration": "Bwyta bwydyd bywyoog, tywynna'n feewnol.",
+      "category": "Health",
+      "generated_at": "2026-07-11T01:47:05.545503"
+    },
+    {
+      "english": "Rest your mind, recharge fully.",
+      "welsh": "Gorffwysa'r meddwl, ailwefru'n llwyr.",
+      "transliteration": "Gorffwesa'r meddwl, aylwefru'n lhuur.",
+      "category": "Health",
+      "generated_at": "2026-07-11T01:47:05.545504"
     }
   ],
-  "last_updated": "2026-07-10T21:00:34.624194"
+  "last_updated": "2026-07-11T01:47:05.545506"
 }
