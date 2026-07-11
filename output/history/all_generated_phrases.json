@@ -3919,7 +3919,42 @@
       "transliteration": "Ych us-brid, yn tuh-win-ee mor lh-a-char.",
       "category": "Positive Life",
       "generated_at": "2026-07-11T17:56:09.716452"
+    },
+    {
+      "english": "Look up, see the stars.",
+      "welsh": "Edrychwch i fyny, gweld y sêr.",
+      "transliteration": "Ed-r-ook-ookh ee uh-vuh-nuh, weld uh sair.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T20:39:13.663401"
+    },
+    {
+      "english": "Listen close, hear the wind.",
+      "welsh": "Gwrandewch yn agos, clywch y gwynt.",
+      "transliteration": "Gwrand-eh-ookh uhn ag-ohs, cl-ee-ookh uh g-wint.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T20:39:13.663409"
+    },
+    {
+      "english": "Step forward, trust yourself.",
+      "welsh": "Camwch ymlaen, ymddiriedwch ynoch.",
+      "transliteration": "Cam-ookh uhm-lain, uhm-deer-ee-ookh uh-noch.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T20:39:13.663411"
+    },
+    {
+      "english": "Open your mind, learn new things.",
+      "welsh": "Agorwch eich meddwl, dysgwch bethau newydd.",
+      "transliteration": "Ag-or-ookh eich med-dool, d-usg-ookh beth-ai new-ith.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T20:39:13.663412"
+    },
+    {
+      "english": "Follow the path, find your way.",
+      "welsh": "Dilynwch y llwybr, dewch o hyd i'ch ffordd.",
+      "transliteration": "Dill-in-ookh uh l-oo-eebr, d-eh-ookh o heet ee-ch for-th.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T20:39:13.663413"
     }
   ],
-  "last_updated": "2026-07-11T17:56:09.716453"
+  "last_updated": "2026-07-11T20:39:13.663415"
 }
