@@ -4234,7 +4234,42 @@
       "transliteration": "My pob ay-leed yn kuy-reef, yn weer.",
       "category": "Time",
       "generated_at": "2026-07-13T18:45:42.025634"
+    },
+    {
+      "english": "A gentle sheep, grazing peacefully.",
+      "welsh": "Mam oen dawel, yn pori yn heddychlon.",
+      "transliteration": "Mam oen da-wel, in por-ee in heth-eech-lon.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:50:54.020941"
+    },
+    {
+      "english": "The lumbering bear, searching berries.",
+      "welsh": "Y bjørn trym, yn chwilio aeron.",
+      "transliteration": "Uh bjorn trum, in chwil-ee-o ay-ron.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:50:54.020950"
+    },
+    {
+      "english": "A swift salmon, leaping upstream.",
+      "welsh": "Eog cyflym, yn neidio yn erbyn.",
+      "transliteration": "Ay-og cum-flim, in nay-dee-o in erb-in.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:50:54.020952"
+    },
+    {
+      "english": "The clever fox, with sly eyes.",
+      "welsh": "Llwynog craff, â llygaid twyllodrus.",
+      "transliteration": "Lhuyn-og craf, a lhu-gyd thool-drus.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:50:54.020954"
+    },
+    {
+      "english": "A chattering squirrel, burying nuts.",
+      "welsh": "Gwiwer swnllyd, yn claddu cnau.",
+      "transliteration": "Gwi-wer soon-lhid, in clad-ee cna-oo.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:50:54.020955"
     }
   ],
-  "last_updated": "2026-07-13T18:45:42.025636"
+  "last_updated": "2026-07-13T20:50:54.020957"
 }
