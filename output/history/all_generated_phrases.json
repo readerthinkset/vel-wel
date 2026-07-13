@@ -4094,7 +4094,42 @@
       "transliteration": "Taymla'r dy-yar, cufurdda'r ow-eer.",
       "category": "Balance",
       "generated_at": "2026-07-12T20:36:23.541235"
+    },
+    {
+      "english": "What's the time, please?",
+      "welsh": "Beth yw'r amser, os gwelwch yn dda?",
+      "transliteration": "Beth yoo'r am-ser, os gwell-uch yn dda?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T01:52:07.819469"
+    },
+    {
+      "english": "I need a coffee, urgently.",
+      "welsh": "Dw i angen coffi, yn fawr iawn.",
+      "transliteration": "Doo wee an-gen coff-ee, yn vower y-own.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T01:52:07.819480"
+    },
+    {
+      "english": "This is quite interesting.",
+      "welsh": "Mae hyn yn ddiddorol iawn.",
+      "transliteration": "My hy-n yn d-ith-or-ol y-own.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T01:52:07.819481"
+    },
+    {
+      "english": "Where can I find a bus?",
+      "welsh": "Ble allaf ddod o hyd i fysus?",
+      "transliteration": "Ble al-af dod o hid ee bus-us?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T01:52:07.819482"
+    },
+    {
+      "english": "It's a bit chilly today.",
+      "welsh": "Mae hi ychydig yn oer heddiw.",
+      "transliteration": "My hee uch-id-ig yn oer hed-ee-oo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T01:52:07.819483"
     }
   ],
-  "last_updated": "2026-07-12T20:36:23.541236"
+  "last_updated": "2026-07-13T01:52:07.819485"
 }
