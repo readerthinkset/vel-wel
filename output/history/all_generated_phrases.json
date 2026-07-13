@@ -4199,7 +4199,42 @@
       "transliteration": "Duh wane, vuh lha-wen-ith.",
       "category": "Relationships",
       "generated_at": "2026-07-13T16:40:12.530726"
+    },
+    {
+      "english": "The moment arrives, softly.",
+      "welsh": "Daw'r munud, yn dawel.",
+      "transliteration": "Dow'r mun-id, yn dow-el.",
+      "category": "Time",
+      "generated_at": "2026-07-13T18:45:42.025621"
+    },
+    {
+      "english": "A pause, for thought.",
+      "welsh": "Seibiant, am feddwl.",
+      "transliteration": "Say-bee-ant, am ved-ool.",
+      "category": "Time",
+      "generated_at": "2026-07-13T18:45:42.025630"
+    },
+    {
+      "english": "The past fades, gently.",
+      "welsh": "Mae'r gorffennol yn diflannu, yn dyner.",
+      "transliteration": "My'r gor-fen-nol yn deef-lan-u, yn dun-er.",
+      "category": "Time",
+      "generated_at": "2026-07-13T18:45:42.025632"
+    },
+    {
+      "english": "Future whispers, secrets.",
+      "welsh": "Dyfodol yn canu, cyfrinachau.",
+      "transliteration": "Du-fod-ol yn kan-ee, kuy-freen-a-khay.",
+      "category": "Time",
+      "generated_at": "2026-07-13T18:45:42.025633"
+    },
+    {
+      "english": "Each second counts, truly.",
+      "welsh": "Mae pob eiliad yn cyfrif, yn wir.",
+      "transliteration": "My pob ay-leed yn kuy-reef, yn weer.",
+      "category": "Time",
+      "generated_at": "2026-07-13T18:45:42.025634"
     }
   ],
-  "last_updated": "2026-07-13T16:40:12.530728"
+  "last_updated": "2026-07-13T18:45:42.025636"
 }
