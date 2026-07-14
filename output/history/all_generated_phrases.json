@@ -4409,7 +4409,42 @@
       "transliteration": "Ay-liad ee'oo try-sor-ee, dee-olch.",
       "category": "Gratitude",
       "generated_at": "2026-07-14T18:06:20.737123"
+    },
+    {
+      "english": "A warm jumper, for winter days.",
+      "welsh": "Siwmper gynnes, i ddyddiau’r gaeaf.",
+      "transliteration": "SHUM-per GUN-es, ee DUTH-ee-a-er GAI-af.",
+      "category": "Clothes",
+      "generated_at": "2026-07-14T20:51:22.394052"
+    },
+    {
+      "english": "These trousers, fit just right.",
+      "welsh": "Y drowsers yma, yn cyd-fynd yn berffaith.",
+      "transliteration": "Uh DROW-serz UH-ma, un KUD-vind un PERF-ayth.",
+      "category": "Clothes",
+      "generated_at": "2026-07-14T20:51:22.394064"
+    },
+    {
+      "english": "My new shoes, look very smart.",
+      "welsh": "Fy esgidiau newydd, yn edrych yn daclus iawn.",
+      "transliteration": "Vee ES-gid-ee-ah NEW-ith, un ED-rukh un DAK-lus YOW-n.",
+      "category": "Clothes",
+      "generated_at": "2026-07-14T20:51:22.394065"
+    },
+    {
+      "english": "A bright t-shirt, for sunny weather.",
+      "welsh": "T-shirt llachar, ar gyfer tywydd heulog.",
+      "transliteration": "Tee-SHIRT LHAKH-ar, ar GUH-ver TUTH-ith HUY-log.",
+      "category": "Clothes",
+      "generated_at": "2026-07-14T20:51:22.394067"
+    },
+    {
+      "english": "That coat, is too big.",
+      "welsh": "Y côt honno, yn rhy fawr.",
+      "transliteration": "Uh KOHT HON-oh, un RHUTH FOWR.",
+      "category": "Clothes",
+      "generated_at": "2026-07-14T20:51:22.394068"
     }
   ],
-  "last_updated": "2026-07-14T18:06:20.737124"
+  "last_updated": "2026-07-14T20:51:22.394070"
 }
