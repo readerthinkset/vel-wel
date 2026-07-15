@@ -4549,7 +4549,42 @@
       "transliteration": "Dar-gan-vüdd-wch Güm-raig, dar-gan-vüdd-wch eich hün.",
       "category": "Motivation",
       "generated_at": "2026-07-15T15:40:16.906876"
+    },
+    {
+      "english": "A taste of home, perhaps?",
+      "welsh": "Blas o gartref, efallai?",
+      "transliteration": "Blas o gartref, ef-ai?",
+      "category": "Food",
+      "generated_at": "2026-07-15T18:10:44.778426"
+    },
+    {
+      "english": "This is delicious, truly.",
+      "welsh": "Mae hyn yn flasus, wir.",
+      "transliteration": "Mae hyn yn flas-us, wir.",
+      "category": "Food",
+      "generated_at": "2026-07-15T18:10:44.778436"
+    },
+    {
+      "english": "A little something, for you.",
+      "welsh": "Rhywbeth bach, i ti.",
+      "transliteration": "Rhoo-bith bach, ee tee.",
+      "category": "Food",
+      "generated_at": "2026-07-15T18:10:44.778438"
+    },
+    {
+      "english": "More, please, if you have it.",
+      "welsh": "Mwy, os gwelwch yn dda, os oes gennych chi.",
+      "transliteration": "Mwee, os gwel-uch yn da, os oes gen-uch ee.",
+      "category": "Food",
+      "generated_at": "2026-07-15T18:10:44.778439"
+    },
+    {
+      "english": "My favorite, is this.",
+      "welsh": "Fy hoff, yw hyn.",
+      "transliteration": "Fwee hoff, eew hyn.",
+      "category": "Food",
+      "generated_at": "2026-07-15T18:10:44.778440"
     }
   ],
-  "last_updated": "2026-07-15T15:40:16.906878"
+  "last_updated": "2026-07-15T18:10:44.778441"
 }
