@@ -5074,7 +5074,42 @@
       "transliteration": "Oys, op-shoon liss-ee-ol?",
       "category": "Restaurant",
       "generated_at": "2026-07-18T15:04:01.227235"
+    },
+    {
+      "english": "You've got this, really.",
+      "welsh": "Mae gen ti, wir.",
+      "transliteration": "Migh gen tee, weer.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T17:56:57.475587"
+    },
+    {
+      "english": "That sounds right, yes.",
+      "welsh": "Mae hynny'n swnio'n iawn, ie.",
+      "transliteration": "Migh hinnee'n swnio'n yown, ee-ah.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T17:56:57.475596"
+    },
+    {
+      "english": "Your progress shines, you see.",
+      "welsh": "Mae dy gynnydd yn disgleirio, weli di.",
+      "transliteration": "Migh duh ginnith unn dis-gligh-ree-oh, well-ee dee.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T17:56:57.475598"
+    },
+    {
+      "english": "Keep that sound, it's yours.",
+      "welsh": "Cadw'r swn yna, dy berchen.",
+      "transliteration": "Cad-oo'r swn unn-ah, duh per-chen.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T17:56:57.475600"
+    },
+    {
+      "english": "Just try one more time.",
+      "welsh": "Rhowch gynnig eto unwaith.",
+      "transliteration": "Rhoy-kh gunn-ig et-oh unn-wyth.",
+      "category": "Confidence",
+      "generated_at": "2026-07-18T17:56:57.475601"
     }
   ],
-  "last_updated": "2026-07-18T15:04:01.227236"
+  "last_updated": "2026-07-18T17:56:57.475602"
 }
