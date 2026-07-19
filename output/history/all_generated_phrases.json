@@ -5284,7 +5284,42 @@
       "transliteration": "CULCH LLawn, CAN-ol TAW-el.",
       "category": "Balance",
       "generated_at": "2026-07-19T18:00:46.432609"
+    },
+    {
+      "english": "Soon, a new dawn.",
+      "welsh": "Snio, codiad newydd.",
+      "transliteration": "SHNEE-oh, COD-ee-ad NEW-ith.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:38:51.297908"
+    },
+    {
+      "english": "Once, a long ago.",
+      "welsh": "Unwaith, hir yn ôl.",
+      "transliteration": "UN-wice, HEER in OHL.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:38:51.297919"
+    },
+    {
+      "english": "Now, a chance.",
+      "welsh": "Nawr, cyfle.",
+      "transliteration": "NOWR, CUM-fleh.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:38:51.297921"
+    },
+    {
+      "english": "After, a surprise.",
+      "welsh": "Ar ôl, syndod.",
+      "transliteration": "AHR OHL, SUN-dod.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:38:51.297922"
+    },
+    {
+      "english": "Before, the change.",
+      "welsh": "Cyn, y newid.",
+      "transliteration": "CUHN, uh NEW-id.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:38:51.297923"
     }
   ],
-  "last_updated": "2026-07-19T18:00:46.432611"
+  "last_updated": "2026-07-19T20:38:51.297925"
 }
