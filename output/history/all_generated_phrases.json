@@ -5424,7 +5424,42 @@
       "transliteration": "Kuh-nneeg kuh-sur, uhn da-wel.",
       "category": "Kindness",
       "generated_at": "2026-07-20T15:57:17.998037"
+    },
+    {
+      "english": "The air, crisp and clear.",
+      "welsh": "Yr awyr, yn bur iawn.",
+      "transliteration": "Ur ow-eer, un poor ee-own.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T18:54:24.505744"
+    },
+    {
+      "english": "Sunlight, dappled on the path.",
+      "welsh": "Goleuni haul, staeniau ar y llwybr.",
+      "transliteration": "Gol-een-ee howl, stah-nee-ow ar uh throo-eebr.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T18:54:24.505752"
+    },
+    {
+      "english": "A chill, creeping in.",
+      "welsh": "Oerfel, yn ymgripio.",
+      "transliteration": "Oy-er-fel, un um-grip-ee-o.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T18:54:24.505754"
+    },
+    {
+      "english": "Sky, painted with pink.",
+      "welsh": "Nefoedd, llun o binc.",
+      "transliteration": "Nef-oyth, iloon o pink.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T18:54:24.505755"
+    },
+    {
+      "english": "Frost, on the window pane.",
+      "welsh": "Rhew, ar y gwydr.",
+      "transliteration": "Hrew, ar uh goo-ee-dr.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T18:54:24.505756"
     }
   ],
-  "last_updated": "2026-07-20T15:57:17.998038"
+  "last_updated": "2026-07-20T18:54:24.505758"
 }
