@@ -5774,7 +5774,42 @@
       "transliteration": "Uh gril uhn kil-ee-o, uhn uh glas-welt.",
       "category": "Animals",
       "generated_at": "2026-07-22T15:46:48.785154"
+    },
+    {
+      "english": "Good morning, bright and early.",
+      "welsh": "Bore da, gwawrwyn.",
+      "transliteration": "Bor-eh da, goo-ahr-win.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T18:09:14.636623"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "welsh": "Am syndod hyfryd!",
+      "transliteration": "Am sin-dod huh-vrid!",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T18:09:14.636631"
+    },
+    {
+      "english": "This is a good start.",
+      "welsh": "Mae hyn yn ddechrau da.",
+      "transliteration": "My hy-n uhn deh-hrah da.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T18:09:14.636633"
+    },
+    {
+      "english": "Let's go, shall we?",
+      "welsh": "Awn ni, reit?",
+      "transliteration": "Own nee, rite?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T18:09:14.636634"
+    },
+    {
+      "english": "Where can I sit down?",
+      "welsh": "Ble gallaf eistedd?",
+      "transliteration": "Ble ga-laf ey-stidhd?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T18:09:14.636636"
     }
   ],
-  "last_updated": "2026-07-22T15:46:48.785156"
+  "last_updated": "2026-07-22T18:09:14.636637"
 }
