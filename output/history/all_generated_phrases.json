@@ -5844,7 +5844,42 @@
       "transliteration": "Gwis-godd hee dress nice ee-own.",
       "category": "Clothes",
       "generated_at": "2026-07-22T20:56:51.445667"
+    },
+    {
+      "english": "A warming soup, for a chilly day.",
+      "welsh": "Cawl cynnes, am ddiwrnod oer.",
+      "transliteration": "Cool can-ness, am deernod oh-er.",
+      "category": "Food",
+      "generated_at": "2026-07-23T01:53:44.071068"
+    },
+    {
+      "english": "Fresh bread, baked this morning.",
+      "welsh": "Bara croyw, pobi heddiw.",
+      "transliteration": "Bah-rah croyve, poh-bee heth-ee.",
+      "category": "Food",
+      "generated_at": "2026-07-23T01:53:44.071077"
+    },
+    {
+      "english": "Sweet berries, from the garden.",
+      "welsh": "Mefus melys, o’r ardd.",
+      "transliteration": "Meh-vees meh-lees, oh-r arth.",
+      "category": "Food",
+      "generated_at": "2026-07-23T01:53:44.071079"
+    },
+    {
+      "english": "A cheesy slice, of heaven.",
+      "welsh": "Darn melys, o hud.",
+      "transliteration": "Darn meh-lees, oh hood.",
+      "category": "Food",
+      "generated_at": "2026-07-23T01:53:44.071081"
+    },
+    {
+      "english": "Juicy apples, crisp and bright.",
+      "welsh": "Afalau suddlon, greniog.",
+      "transliteration": "Ah-vah-lie sooth-lon, greh-nee-og.",
+      "category": "Food",
+      "generated_at": "2026-07-23T01:53:44.071082"
     }
   ],
-  "last_updated": "2026-07-22T20:56:51.445669"
+  "last_updated": "2026-07-23T01:53:44.071083"
 }
