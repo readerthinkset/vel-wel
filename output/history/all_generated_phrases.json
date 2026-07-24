@@ -6019,7 +6019,42 @@
       "transliteration": "Ker-rig hun-av-ol, chwed-lay dan-von.",
       "category": "Holidays",
       "generated_at": "2026-07-23T20:52:35.803205"
+    },
+    {
+      "english": "Emergency, please, signal for help.",
+      "welsh": "Hwyl frys, wench, arwyddwch am gymorth.",
+      "transliteration": "Hool frees, wensh, ar-wydd-wch am cumorth.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T01:50:30.818938"
+    },
+    {
+      "english": "My phone died, urgently need power.",
+      "welsh": "Fy ffôn i, angen pŵer yn fuan.",
+      "transliteration": "Vee fon ee, an-gen po-er in foo-an.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T01:50:30.818949"
+    },
+    {
+      "english": "Can't breathe, need air, fast.",
+      "welsh": "Methu anadlu, angen awyr, yn gyflym.",
+      "transliteration": "Meth-oo an-ad-loo, an-gen ow-eer, in cum-lim.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T01:50:30.818951"
+    },
+    {
+      "english": "Overwhelmed, need a quiet space.",
+      "welsh": "Gorlenwi, angen lle dawel.",
+      "transliteration": "Gor-len-wee, an-gen llay da-well.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T01:50:30.818952"
+    },
+    {
+      "english": "Sudden dizziness, can't stand up.",
+      "welsh": "Penysgafn sydyn, methu sefyll.",
+      "transliteration": "Pen-us-gaf-n sud-in, meth-oo sef-ill.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T01:50:30.818953"
     }
   ],
-  "last_updated": "2026-07-23T20:52:35.803206"
+  "last_updated": "2026-07-24T01:50:30.818955"
 }
