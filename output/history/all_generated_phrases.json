@@ -6054,7 +6054,42 @@
       "transliteration": "Pen-us-gaf-n sud-in, meth-oo sef-ill.",
       "category": "Emergency",
       "generated_at": "2026-07-24T01:50:30.818953"
+    },
+    {
+      "english": "Dewdrops gleam, on spiderwebs.",
+      "welsh": "Perlau gwlith, ar rwyd gwenyn.",
+      "transliteration": "Per-lay gwleeth, ar rwyd gwen-in.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T07:20:54.489992"
+    },
+    {
+      "english": "Clouds drift, across the blue.",
+      "welsh": "Cymylau yn rolio, dros y glas.",
+      "transliteration": "Cum-uh-ly in ro-lee-oh, drohs y glahs.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T07:20:54.490004"
+    },
+    {
+      "english": "A single feather, on the breeze.",
+      "welsh": "Un pluen yn unig, ar y gwynt.",
+      "transliteration": "In ploo-en in un-ig, ar y gwint.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T07:20:54.490006"
+    },
+    {
+      "english": "Moss soft, on old stones.",
+      "welsh": "Mwsog meddal, ar hen gerrig.",
+      "transliteration": "Mus-og med-dal, ar hen ger-rig.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T07:20:54.490007"
+    },
+    {
+      "english": "Stars awaken, night's gentle hush.",
+      "welsh": "Seren yn deffro, distawrwydd nos.",
+      "transliteration": "Ser-en in def-ro, dis-tawr-wuth nohs.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T07:20:54.490008"
     }
   ],
-  "last_updated": "2026-07-24T01:50:30.818955"
+  "last_updated": "2026-07-24T07:20:54.490009"
 }
