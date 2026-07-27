@@ -6579,7 +6579,42 @@
       "transliteration": "Swee-gee-o, ond in sef-ill in uch-el.",
       "category": "Balance",
       "generated_at": "2026-07-27T14:35:25.611228"
+    },
+    {
+      "english": "Dawn dew, glistening bright.",
+      "welsh": "Dewyn bore, yn llewychu'n fyw.",
+      "transliteration": "DEH-win BOHR, in LHUH-wik-hin UNV VEEV.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T16:32:18.897567"
+    },
+    {
+      "english": "Sun peeking, through the leaves.",
+      "welsh": "Yr haul yn dyfalu, drwy'r dail.",
+      "transliteration": "Ur HOWL in DUPH-a-lee, DROO'r DYLE.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T16:32:18.897577"
+    },
+    {
+      "english": "Shadows lengthen, daylight fades.",
+      "welsh": "Cysgodion yn hirhau, golau dydd yn diflannu.",
+      "transliteration": "CUS-god-ee-on in HUR-hie, GOH-low DEETH in DIF-lan-oo.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T16:32:18.897578"
+    },
+    {
+      "english": "A light shower, a welcome drink.",
+      "welsh": "Cawod ysgafn, diod groesawus.",
+      "transliteration": "KA-wod US-gafn, DEE-od GROY-sa-wis.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T16:32:18.897580"
+    },
+    {
+      "english": "Air so mild, for a walk.",
+      "welsh": "Awyru'n ysgafn, i gerdded.",
+      "transliteration": "OW-ee-roon US-gafn, ee GHER-deth.",
+      "category": "Weather",
+      "generated_at": "2026-07-27T16:32:18.897581"
     }
   ],
-  "last_updated": "2026-07-27T14:35:25.611230"
+  "last_updated": "2026-07-27T16:32:18.897582"
 }
