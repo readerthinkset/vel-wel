@@ -6684,7 +6684,42 @@
       "transliteration": "Poom sin-noorr, boo in weer.",
       "category": "Numbers",
       "generated_at": "2026-07-29T01:44:32.672792"
+    },
+    {
+      "english": "What a lovely thing, to do.",
+      "welsh": "Beth mor braf, i wneud.",
+      "transliteration": "Beth mor brave, ee w'neyd.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-29T15:54:35.854879"
+    },
+    {
+      "english": "My thanks, are immense.",
+      "welsh": "Fy niolch, yn aruthrol.",
+      "transliteration": "Vee nee-olkh, een ae-roo-thol.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-29T15:54:35.854889"
+    },
+    {
+      "english": "You've been so good, to me.",
+      "welsh": "Rwyt ti, wedi bod mor dda, imi.",
+      "transliteration": "Rooy tee, wedee bod mor daa, im-ee.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-29T15:54:35.854891"
+    },
+    {
+      "english": "This is, truly special.",
+      "welsh": "Mae hyn, wir yn arbennig.",
+      "transliteration": "Mae hin, weer een ar-ben-neeg.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-29T15:54:35.854892"
+    },
+    {
+      "english": "Feeling blessed, right now.",
+      "welsh": "Yn teimlo gwrandaw, yn awr.",
+      "transliteration": "Een time-lo goo-rand-ow, een owr.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-29T15:54:35.854893"
     }
   ],
-  "last_updated": "2026-07-29T01:44:32.672793"
+  "last_updated": "2026-07-29T15:54:35.854895"
 }
