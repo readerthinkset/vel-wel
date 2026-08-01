@@ -7139,7 +7139,42 @@
       "transliteration": "Gwen-in un swn-i-o, un uh me-lion.",
       "category": "Nature",
       "generated_at": "2026-08-01T13:19:23.252189"
+    },
+    {
+      "english": "This little village, it's so charming.",
+      "welsh": "Y pentref bach yma, mae mor swynol.",
+      "transliteration": "Uh pen-tref bakh uh-mah, mae mor shwin-ol.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T15:09:00.276685"
+    },
+    {
+      "english": "That mountain view, breathtaking.",
+      "welsh": "Y golygfa fynydd, syfrdanol.",
+      "transliteration": "Uh gol-uhg-vah funn-ith, siv-dan-ol.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T15:09:00.276696"
+    },
+    {
+      "english": "May I have a moment, please?",
+      "welsh": "Ga i gyfle, os gwelwch yn dda?",
+      "transliteration": "Gai uh gurl-eh, os gwell-ookh unn thah?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T15:09:00.276698"
+    },
+    {
+      "english": "The music's so lively, isn't it?",
+      "welsh": "Mae'r gerddoriaeth mor fywiog, onid yw?",
+      "transliteration": "Maer ger-or-ee-ath mor fiv-yok, on-id ew?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T15:09:00.276699"
+    },
+    {
+      "english": "I'm feeling quite good, today.",
+      "welsh": "Dw i'n teimlo'n weddol iawn, heddiw.",
+      "transliteration": "Doo in teem-lon wed-hol yow-an, heth-ee-oo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T15:09:00.276701"
     }
   ],
-  "last_updated": "2026-08-01T13:19:23.252190"
+  "last_updated": "2026-08-01T15:09:00.276702"
 }
