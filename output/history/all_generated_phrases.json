@@ -7174,7 +7174,42 @@
       "transliteration": "Doo in teem-lon wed-hol yow-an, heth-ee-oo.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-01T15:09:00.276701"
+    },
+    {
+      "english": "My bag, it's gone. Find it, please.",
+      "welsh": "Fy sach, mae wedi diflannu. Dewch o hyd iddi, os gwelwch yn dda.",
+      "transliteration": "Vee sakh, mae weeth-ee dif-lan-ee. Doy-ch o hyth iddi, os gwel-uch in dhah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T18:02:31.065971"
+    },
+    {
+      "english": "The road ahead, is it blocked?",
+      "welsh": "Y ffordd o flaen, a yw hi wedi cau?",
+      "transliteration": "Uh fford o vlan, ah yee hee weeth-ee ki-oo?",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T18:02:31.065981"
+    },
+    {
+      "english": "Suddenly, a loud noise. What was that?",
+      "welsh": "Yn sydyn, sŵn uchel. Beth oedd hynny?",
+      "transliteration": "In sid-in, soon oo-chel. Beth ohth hin-ee?",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T18:02:31.065983"
+    },
+    {
+      "english": "I feel unwell, very weak now.",
+      "welsh": "Dw i'n teimlo'n wael, yn wan iawn nawr.",
+      "transliteration": "Dwee-n taim-lo-n wal, in wan ee-own nawr.",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T18:02:31.065984"
+    },
+    {
+      "english": "This area, is it safe to stay?",
+      "welsh": "Y rhan hon, a yw'n ddiogel i aros?",
+      "transliteration": "Uh rhan hon, ah ywn dhee-o-gel ee ah-ros?",
+      "category": "Emergency",
+      "generated_at": "2026-08-01T18:02:31.065985"
     }
   ],
-  "last_updated": "2026-08-01T15:09:00.276702"
+  "last_updated": "2026-08-01T18:02:31.065987"
 }
