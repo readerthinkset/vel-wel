@@ -7419,7 +7419,42 @@
       "transliteration": "Bron ah robin, coch buh-wee-og.",
       "category": "Colors",
       "generated_at": "2026-08-03T01:53:51.553435"
+    },
+    {
+      "english": "Your Welsh is blooming, brilliantly.",
+      "welsh": "Mae dy Gymraeg yn blodeuo, yn wych.",
+      "transliteration": "My dee GUM-raig un bloh-DEE-o, un gwich.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T10:14:29.516730"
+    },
+    {
+      "english": "Each sound, a new colour.",
+      "welsh": "Pob synnau, lliw newydd.",
+      "transliteration": "Pob SIN-ai, clio NEW-ith.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T10:14:29.516738"
+    },
+    {
+      "english": "You're building fluency, steadily.",
+      "welsh": "Rydych yn adeiladu hyfedredd, yn gyson.",
+      "transliteration": "RUD-eech un a-DEIL-a-doo HUV-redth, un guh-SON.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T10:14:29.516740"
+    },
+    {
+      "english": "Feel the rhythm, let it guide you.",
+      "welsh": "Teimla'r rhythm, gadewch iddo dy arwain.",
+      "transliteration": "TEYM-la'r rhythm, GA-dewch ID-oh doo AR-wine.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T10:14:29.516741"
+    },
+    {
+      "english": "Your efforts echo, beautifully.",
+      "welsh": "Mae dy ymdrechion yn adleisio, yn hyfryd.",
+      "transliteration": "My dee UM-trech-on un ad-leish-o, un HUH-vrid.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T10:14:29.516742"
     }
   ],
-  "last_updated": "2026-08-03T01:53:51.553441"
+  "last_updated": "2026-08-03T10:14:29.516744"
 }
