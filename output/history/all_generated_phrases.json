@@ -8049,7 +8049,42 @@
       "transliteration": "Rhed-y-ad yr av-on, had-aay yn tit-oo.",
       "category": "Holidays",
       "generated_at": "2026-08-07T02:09:00.847755"
+    },
+    {
+      "english": "The busy beaver, builds its dam.",
+      "welsh": "Y castor brysur, yn adeiladu ei argae.",
+      "transliteration": "Uh cast-or bruss-ur, un ad-eil-ah-dee ei ar-gay.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T13:02:48.334429"
+    },
+    {
+      "english": "A tiny wren, flits in the hedge.",
+      "welsh": "Y gôch y coed bach, yn symud yn y gwrych.",
+      "transliteration": "Uh goch uh coyd bach, un sim-ood un uh gwrich.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T13:02:48.334439"
+    },
+    {
+      "english": "The majestic stag, watches the valley.",
+      "welsh": "Y carw mawreddog, yn gwylio'r dyffryn.",
+      "transliteration": "Uh car-oo mawr-ed-dog, un gwill-ee-o'r duff-rin.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T13:02:48.334441"
+    },
+    {
+      "english": "A sleepy sloth, hangs from a branch.",
+      "welsh": "Y llŷchwynt diog, yn hongian ar gangen.",
+      "transliteration": "Uh llych-wint dee-og, un hong-ee-an ar gang-en.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T13:02:48.334442"
+    },
+    {
+      "english": "The graceful swan, glides on water.",
+      "welsh": "Yr alarch urddasol, yn llithro ar ddŵr.",
+      "transliteration": "Ur ar-larch ur-das-ol, un llith-ro ar ddoor.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T13:02:48.334443"
     }
   ],
-  "last_updated": "2026-08-07T02:09:00.847757"
+  "last_updated": "2026-08-07T13:02:48.334444"
 }
