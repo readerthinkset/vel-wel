@@ -8259,7 +8259,42 @@
       "transliteration": "Huhn-ee gus-wlt... wed-ee-ee gray-oo.",
       "category": "Success",
       "generated_at": "2026-08-08T12:47:16.181487"
+    },
+    {
+      "english": "A brief pause, then forward.",
+      "welsh": "Saib byr, yna yn mlaen.",
+      "transliteration": "Sibe bur, hna in mlain.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:39:49.673217"
+    },
+    {
+      "english": "Each day, a new story.",
+      "welsh": "Bob dydd, stori newydd.",
+      "transliteration": "Bob dih, stori nuydd.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:39:49.673226"
+    },
+    {
+      "english": "The long wait, almost over.",
+      "welsh": "Yr aros hir, bron â dod.",
+      "transliteration": "Ur aros hir, bron a dodh.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:39:49.673228"
+    },
+    {
+      "english": "Fleeting moments, treasure them.",
+      "welsh": "Eiliadau byrhoedlog, gwerthfawr.",
+      "transliteration": "Eyliadau burhoedlog, gwerthvawr.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:39:49.673229"
+    },
+    {
+      "english": "When the hour strikes, act.",
+      "welsh": "Pan drawodd yr awr, gweithredwch.",
+      "transliteration": "Pan drawodd ur awr, gweithredwch.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:39:49.673231"
     }
   ],
-  "last_updated": "2026-08-08T12:47:16.181489"
+  "last_updated": "2026-08-08T14:39:49.673232"
 }
