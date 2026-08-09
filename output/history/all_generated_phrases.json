@@ -8434,7 +8434,42 @@
       "transliteration": "Hwint… o ann-id-ig-rooth ys-gafyn.",
       "category": "Feelings",
       "generated_at": "2026-08-09T12:49:22.208159"
+    },
+    {
+      "english": "Sky, bruised and purple.",
+      "welsh": "Awyr, cleisiedig, porffor.",
+      "transliteration": "Eye-er, cly-iss-ee-dig, por-thor.",
+      "category": "Weather",
+      "generated_at": "2026-08-09T14:42:44.941997"
+    },
+    {
+      "english": "Sunlight, spills like honey.",
+      "welsh": "Golau haul, yn tasgu fel mêl.",
+      "transliteration": "Go-low high-el, un tass-koo vell mayl.",
+      "category": "Weather",
+      "generated_at": "2026-08-09T14:42:44.942005"
+    },
+    {
+      "english": "Drizzle, a soft sigh.",
+      "welsh": "Glaw mân, yn uchel-iad meddal.",
+      "transliteration": "Glow maan, un oo-chel-iad med-dal.",
+      "category": "Weather",
+      "generated_at": "2026-08-09T14:42:44.942007"
+    },
+    {
+      "english": "Wind, a playful tug.",
+      "welsh": "Gwynt, yn tynnu chwareus.",
+      "transliteration": "Gwint, un tun-oo chwar-ays.",
+      "category": "Weather",
+      "generated_at": "2026-08-09T14:42:44.942008"
+    },
+    {
+      "english": "Clouds, like sheep grazing.",
+      "welsh": "Cymylau, fel defaid yn pori.",
+      "transliteration": "Cum-uh-lye, vell deh-vigh un por-ee.",
+      "category": "Weather",
+      "generated_at": "2026-08-09T14:42:44.942009"
     }
   ],
-  "last_updated": "2026-08-09T12:49:22.208161"
+  "last_updated": "2026-08-09T14:42:44.942011"
 }
