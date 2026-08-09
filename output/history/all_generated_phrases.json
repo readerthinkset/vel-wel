@@ -8364,7 +8364,42 @@
       "transliteration": "Tuh-goo dy nuth, yn dun-er.",
       "category": "Finance",
       "generated_at": "2026-08-08T20:18:52.592474"
+    },
+    {
+      "english": "Lovely sound, that.",
+      "welsh": "Sain hyfryd, yna.",
+      "transliteration": "Saɪn hərɪd, ənɑː.",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T00:58:09.269394"
+    },
+    {
+      "english": "You're getting there.",
+      "welsh": "Rydych chi'n cyrraedd.",
+      "transliteration": "Rədɪx ʃiːn kərɑɪð.",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T00:58:09.269404"
+    },
+    {
+      "english": "That feels natural.",
+      "welsh": "Mae hynny'n teimlo'n naturiol.",
+      "transliteration": "Mae hɪnɪn teɪmlon natʊrɪɔl.",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T00:58:09.269406"
+    },
+    {
+      "english": "Keep going strong.",
+      "welsh": "Parhewch yn gryf.",
+      "transliteration": "Parhɛvx ɪn grəf.",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T00:58:09.269407"
+    },
+    {
+      "english": "A good word, that.",
+      "welsh": "Gair da, yna.",
+      "transliteration": "Gaɪr da, ənɑː.",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T00:58:09.269408"
     }
   ],
-  "last_updated": "2026-08-08T20:18:52.592475"
+  "last_updated": "2026-08-09T00:58:09.269410"
 }
