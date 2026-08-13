@@ -9134,7 +9134,42 @@
       "transliteration": "Pen-der-fin-iad tah-well, in kuhm-rrid goo-reyd-ee-ah.",
       "category": "Strength",
       "generated_at": "2026-08-13T15:06:16.770766"
+    },
+    {
+      "english": "The bold badger, digs deep.",
+      "welsh": "Y badger dewr, yn cloddio'n ddwfn.",
+      "transliteration": "Uh badger dewr, uh'n clod-ee-o'n dwf'n.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T17:59:23.464591"
+    },
+    {
+      "english": "A quick rabbit, darts away.",
+      "welsh": "Cwningen gyflym, yn llamu'n sydyn.",
+      "transliteration": "Coo-ning-en cu-clim, uh'n llam-ee'n sud-in.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T17:59:23.464600"
+    },
+    {
+      "english": "The patient spider, spins its web.",
+      "welsh": "Y pry copyn amyneddgar, yn gwehyddu ei rwyd.",
+      "transliteration": "Uh pri corp-in am-in-eth-gar, uh'n gweh-hud-ee'n ay rwyd.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T17:59:23.464601"
+    },
+    {
+      "english": "A noisy parrot, talks a lot.",
+      "welsh": "Pariot swnllyd, yn siarad yn helaeth.",
+      "transliteration": "Par-i-ot sun-lyd, uh'n sha-rad uh'n hel-ayth.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T17:59:23.464603"
+    },
+    {
+      "english": "The strong ox, pulls the cart.",
+      "welsh": "Ych cryf, yn tynnu'r trol.",
+      "transliteration": "Uch cryf, uh'n tun-oo'r trol.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T17:59:23.464604"
     }
   ],
-  "last_updated": "2026-08-13T15:06:16.770767"
+  "last_updated": "2026-08-13T17:59:23.464605"
 }
