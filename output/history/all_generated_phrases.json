@@ -9519,7 +9519,42 @@
       "transliteration": "Dull new-ith, an-gen-hray-dee-ol.",
       "category": "Work",
       "generated_at": "2026-08-15T20:12:49.708586"
+    },
+    {
+      "english": "The sky weeps, a soft weeping.",
+      "welsh": "Mae'r awyr yn wylo, crio bach.",
+      "transliteration": "Mae'r aw-eer in oo-ee-lo, cree-o bach.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T00:42:40.533081"
+    },
+    {
+      "english": "Sunbeams dance, on the dewy grass.",
+      "welsh": "Ymbelydredd haul, ar y glaswellt gwym.",
+      "transliteration": "Um-bel-redd ha-ool, ar ee glas-wellt goo-im.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T00:42:40.533090"
+    },
+    {
+      "english": "A sudden gust, a playful shove.",
+      "welsh": "Chwyth sydyn, ysgogiad chwareus.",
+      "transliteration": "Chwoo-ith syd-in, us-go-giad chwa-re-us.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T00:42:40.533092"
+    },
+    {
+      "english": "The world breathes, a damp quiet.",
+      "welsh": "Mae'r byd yn anadlu, tawelwch gwlyb.",
+      "transliteration": "Mae'r bid in an-ad-loo, ta-wel-ooch gwlib.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T00:42:40.533093"
+    },
+    {
+      "english": "Grey skies watch, a patient gaze.",
+      "welsh": "Mae'r nefoedd lwyd yn gwylio, syllu amyneddgar.",
+      "transliteration": "Mae'r nef-o-edh lwoyd in goo-ee-lo, syl-loo am-in-eth-gar.",
+      "category": "Weather",
+      "generated_at": "2026-08-16T00:42:40.533095"
     }
   ],
-  "last_updated": "2026-08-15T20:12:49.708587"
+  "last_updated": "2026-08-16T00:42:40.533096"
 }
