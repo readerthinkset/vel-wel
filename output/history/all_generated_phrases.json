@@ -10044,7 +10044,42 @@
       "transliteration": "Mae'r gaan yma, yn rhwydh.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-19T12:44:34.910413"
+    },
+    {
+      "english": "The sun rises, on a happy day.",
+      "welsh": "Mae'r haul yn codi, ar ddiwrnod hapus.",
+      "transliteration": "Myr hah-ool uhn KOH-dee, ahr DEE-noord HAH-peess.",
+      "category": "Happiness",
+      "generated_at": "2026-08-19T14:42:16.070995"
+    },
+    {
+      "english": "A gentle rain, refreshes the soul.",
+      "welsh": "Glaw cynnes, yn adfywio'r enaid.",
+      "transliteration": "Glaow KWIN-ness, uhn ad-FEE-oh-r EY-naid.",
+      "category": "Happiness",
+      "generated_at": "2026-08-19T14:42:16.071004"
+    },
+    {
+      "english": "Music plays, in the quiet.",
+      "welsh": "Mae cerddoriaeth yn chwarae, yn yr hilod.",
+      "transliteration": "My kerd-or-RY-ath uhn CHWAR-eye, uhn yr HEE-lod.",
+      "category": "Happiness",
+      "generated_at": "2026-08-19T14:42:16.071006"
+    },
+    {
+      "english": "A friendly nod, makes you smile.",
+      "welsh": "Yn wên gyfeillgar, yn rhoi gwên.",
+      "transliteration": "Un WAYN gy-feyl-GAR, uhn ROY GWEN.",
+      "category": "Happiness",
+      "generated_at": "2026-08-19T14:42:16.071007"
+    },
+    {
+      "english": "The birds are singing, a sweet tune.",
+      "welsh": "Mae'r adar yn canu, cân felys.",
+      "transliteration": "Myr AH-dar uhn KAN-oo, KOHN FEL-iss.",
+      "category": "Happiness",
+      "generated_at": "2026-08-19T14:42:16.071008"
     }
   ],
-  "last_updated": "2026-08-19T12:44:34.910415"
+  "last_updated": "2026-08-19T14:42:16.071010"
 }
