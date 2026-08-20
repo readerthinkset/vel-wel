@@ -10289,7 +10289,42 @@
       "transliteration": "Dat-god-ooch uh va-ner, ee-ch gay-ree-ow Gŭm-ryeg.",
       "category": "Motivation",
       "generated_at": "2026-08-20T17:32:00.485080"
+    },
+    {
+      "english": "Sudden noise, what was that?",
+      "welsh": "Swn sydyn, beth oedd hynny?",
+      "transliteration": "Soon sud-in, bethoyth hun-ny?",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T20:19:15.292336"
+    },
+    {
+      "english": "I need water, quickly please.",
+      "welsh": "Angen dŵr, yn gyflym os gwelwch yn dda.",
+      "transliteration": "Ang-en doo-r, in kuh-flim os gwel-ookh in thah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T20:19:15.292344"
+    },
+    {
+      "english": "This way, follow me now.",
+      "welsh": "Yma 'na, dilynwch fi nawr.",
+      "transliteration": "Uh-ma nah, dil-in-ookh vee nowr.",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T20:19:15.292346"
+    },
+    {
+      "english": "I feel a bit dizzy.",
+      "welsh": "Dw i'n teimlo ychydig yn benysgafn.",
+      "transliteration": "Doo een taym-lo uch-id-ig in ben-uhs-gaf-n.",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T20:19:15.292347"
+    },
+    {
+      "english": "Where can I get help?",
+      "welsh": "Ble alla i gael cymorth?",
+      "transliteration": "Ble al-la ee gail cum-orth?",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T20:19:15.292348"
     }
   ],
-  "last_updated": "2026-08-20T17:32:00.485081"
+  "last_updated": "2026-08-20T20:19:15.292349"
 }
