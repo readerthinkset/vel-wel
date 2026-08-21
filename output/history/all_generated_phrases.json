@@ -10464,7 +10464,42 @@
       "transliteration": "Dis-glay-r-deb cor-ee-drin, ad-en-ith glee-sion.",
       "category": "Colors",
       "generated_at": "2026-08-21T17:31:29.623643"
+    },
+    {
+      "english": "One voice, echoes far.",
+      "welsh": "Un llais, mae'n adleisio'n bell.",
+      "transliteration": "In lise, mayn adleeshon bell.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:15:23.398792"
+    },
+    {
+      "english": "Two wings, soar high.",
+      "welsh": "Dwy adain, hedfan yn uchel.",
+      "transliteration": "Dwee adain, hedvan in uchel.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:15:23.398801"
+    },
+    {
+      "english": "Three seeds, will grow.",
+      "welsh": "Tri hadau, fydd yn tyfu.",
+      "transliteration": "Tree hadai, vith in tigu.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:15:23.398803"
+    },
+    {
+      "english": "Four rivers, flow free.",
+      "welsh": "Pedair afon, llifo'n rhydd.",
+      "transliteration": "Pedair avon, livoon rith.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:15:23.398804"
+    },
+    {
+      "english": "Five lights, guide us.",
+      "welsh": "Pum golau, arwain ni.",
+      "transliteration": "Pim golai, arwein nee.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:15:23.398805"
     }
   ],
-  "last_updated": "2026-08-21T17:31:29.623645"
+  "last_updated": "2026-08-21T20:15:23.398806"
 }
