@@ -10394,7 +10394,42 @@
       "transliteration": "Um-ad-rodd hun-a... clix-ee nowr.",
       "category": "Success",
       "generated_at": "2026-08-21T12:45:28.573831"
+    },
+    {
+      "english": "This evening, what's delightful?",
+      "welsh": "Yr hwyr hwn, beth sydd ddymunol?",
+      "transliteration": "Ur hweer hoon, beth syth dum-un-ol?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-21T14:43:42.924454"
+    },
+    {
+      "english": "A taste, of home cooking?",
+      "welsh": "Blas, o goginio cartref?",
+      "transliteration": "Blas, o gog-in-ee-o cart-rev?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-21T14:43:42.924465"
+    },
+    {
+      "english": "Something light, perhaps?",
+      "welsh": "Rhywbeth ysgafn, efallai?",
+      "transliteration": "Rhoo-bith es-gafnn, ef-fly?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-21T14:43:42.924466"
+    },
+    {
+      "english": "That sounds, absolutely delicious.",
+      "welsh": "Mae hynny'n swnio, yn hynod flasus.",
+      "transliteration": "My hin-nith soon, unn hin-nod vlass-us.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-21T14:43:42.924467"
+    },
+    {
+      "english": "Could I have, some bread?",
+      "welsh": "Gawn i gael, rhywfaint o fara?",
+      "transliteration": "Gown ee gall, rhoo-vaint o var-ra?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-21T14:43:42.924468"
     }
   ],
-  "last_updated": "2026-08-21T12:45:28.573833"
+  "last_updated": "2026-08-21T14:43:42.924470"
 }
