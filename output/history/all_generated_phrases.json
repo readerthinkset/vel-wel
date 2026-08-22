@@ -10639,7 +10639,42 @@
       "transliteration": "Pan dowr am-ser, goo-rand-eh.",
       "category": "Time",
       "generated_at": "2026-08-22T17:23:04.669626"
+    },
+    {
+      "english": "Sky, a vast blue ocean.",
+      "welsh": "Nef, gefel las mawr.",
+      "transliteration": "Nef, gev-el las maur.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T20:12:37.367989"
+    },
+    {
+      "english": "Air, cool and refreshing.",
+      "welsh": "Awyr, cŵl a adfyw.",
+      "transliteration": "A-wir, kool a ad-iv.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T20:12:37.368001"
+    },
+    {
+      "english": "Sunshine, warming the stones.",
+      "welsh": "Goleuni haul, cynhesu'r cerrig.",
+      "transliteration": "Go-len-i ha-il, kin-hes-ir ker-rig.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T20:12:37.368003"
+    },
+    {
+      "english": "A soft rain, kissing the leaves.",
+      "welsh": "Glaw tyner, cusanu'r dail.",
+      "transliteration": "Gla-oo tin-er, kus-an-ir da-il.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T20:12:37.368005"
+    },
+    {
+      "english": "Wind, rustling the dry grass.",
+      "welsh": "Gwynt, swnio'r glaswellt sych.",
+      "transliteration": "Gwint, sun-io'r glas-welt sich.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T20:12:37.368006"
     }
   ],
-  "last_updated": "2026-08-22T17:23:04.669628"
+  "last_updated": "2026-08-22T20:12:37.368008"
 }
