@@ -10604,7 +10604,42 @@
       "transliteration": "Rhoy-mun, nah el-leer tor-ree.",
       "category": "Relationships",
       "generated_at": "2026-08-22T14:29:51.310469"
+    },
+    {
+      "english": "Right now, the world is quiet.",
+      "welsh": "Yn awr, mae'r byd yn dawel.",
+      "transliteration": "Un howr, mae'r byd un dow-el.",
+      "category": "Time",
+      "generated_at": "2026-08-22T17:23:04.669614"
+    },
+    {
+      "english": "A little while longer, we can stay.",
+      "welsh": "Am ychydig, gallwn aros.",
+      "transliteration": "Um ykhidj, gal-oon a-ros.",
+      "category": "Time",
+      "generated_at": "2026-08-22T17:23:04.669623"
+    },
+    {
+      "english": "Very soon, something new begins.",
+      "welsh": "Yn fuan iawn, mae rhywbeth newydd yn dechrau.",
+      "transliteration": "Un foo-an i-own, mae rhiw-beth neuv-idd un dekh-ra.",
+      "category": "Time",
+      "generated_at": "2026-08-22T17:23:04.669624"
+    },
+    {
+      "english": "Just yesterday, we were dreaming.",
+      "welsh": "Ddoe yn unig, roeddem yn breuddwydio.",
+      "transliteration": "Doh-eh un-ig, roy-dem un brei-thwid-i-o.",
+      "category": "Time",
+      "generated_at": "2026-08-22T17:23:04.669625"
+    },
+    {
+      "english": "When the moment strikes, listen.",
+      "welsh": "Pan ddaw'r amser, gwrandewch.",
+      "transliteration": "Pan dowr am-ser, goo-rand-eh.",
+      "category": "Time",
+      "generated_at": "2026-08-22T17:23:04.669626"
     }
   ],
-  "last_updated": "2026-08-22T14:29:51.310471"
+  "last_updated": "2026-08-22T17:23:04.669628"
 }
