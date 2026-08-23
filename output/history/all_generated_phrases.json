@@ -10674,7 +10674,42 @@
       "transliteration": "Gwint, sun-io'r glas-welt sich.",
       "category": "Weather",
       "generated_at": "2026-08-22T20:12:37.368006"
+    },
+    {
+      "english": "A fluffy lamb, bleating softly.",
+      "welsh": "Oen tyner, yn meeo'n dawel.",
+      "transliteration": "Oyn tuh-ner, uhn may-on dower.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T00:43:29.727194"
+    },
+    {
+      "english": "The noisy crow, caws loudly.",
+      "welsh": "Brân swnllyd, yn galw'n uchel.",
+      "transliteration": "Brahn soon-luhd, uhn gal-oo-n uh-khel.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T00:43:29.727203"
+    },
+    {
+      "english": "A sleek dolphin, leaps the waves.",
+      "welsh": "Dolfen llyfn, yn neidio'r tonnau.",
+      "transliteration": "Dol-fen luhv-en, uhn nay-dee-or ton-eye.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T00:43:29.727204"
+    },
+    {
+      "english": "The slow tortoise, carries its home.",
+      "welsh": "Crwban cynnar, yn cario'i gartref.",
+      "transliteration": "Kroo-ban kuhn-nar, uhn ka-ree-ee gar-trev.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T00:43:29.727205"
+    },
+    {
+      "english": "A colourful parrot, squawks brightly.",
+      "welsh": "Parot lliwgar, yn sgrechian yn fyw.",
+      "transliteration": "Pa-rot luh-oo-gar, uhn skrech-ee-an uhn vuh-oo.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T00:43:29.727207"
     }
   ],
-  "last_updated": "2026-08-22T20:12:37.368008"
+  "last_updated": "2026-08-23T00:43:29.727208"
 }
