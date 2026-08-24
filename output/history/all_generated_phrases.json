@@ -10849,7 +10849,42 @@
       "transliteration": "Gor-kuh-d-ee-ooch eech tr-eye-d, tey-mloo-ch 'r dhah-yar gad-arn.",
       "category": "Health",
       "generated_at": "2026-08-24T00:42:16.167449"
+    },
+    {
+      "english": "My aching jaw, it grinds.",
+      "welsh": "Fy ninc, yn clecian.",
+      "transliteration": "Vee neenk, uhn cleck-ahn.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T12:48:56.965973"
+    },
+    {
+      "english": "Her delicate wrist, it aches.",
+      "welsh": "Ei arddwrn, yn poeni.",
+      "transliteration": "Ay ar-dhoorn, uhn poh-nee.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T12:48:56.965981"
+    },
+    {
+      "english": "His rough palm, it itches.",
+      "welsh": "Ei dyrn, yn cosi.",
+      "transliteration": "Ay deern, uhn co-shee.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T12:48:56.965983"
+    },
+    {
+      "english": "My stiff ankle, it hurts.",
+      "welsh": "Fy mangre, yn brifo.",
+      "transliteration": "Vee mahn-gree, uhn bree-voh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T12:48:56.965984"
+    },
+    {
+      "english": "Her pale forehead, it sweats.",
+      "welsh": "Ei dalcen, yn chwysu.",
+      "transliteration": "Ay dhal-cen, uhn ch-hooh-soo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T12:48:56.965985"
     }
   ],
-  "last_updated": "2026-08-24T00:42:16.167450"
+  "last_updated": "2026-08-24T12:48:56.965987"
 }
