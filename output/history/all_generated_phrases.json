@@ -11514,7 +11514,42 @@
       "transliteration": "Myr pat-rum ee-ma, un wedd-ol fayth-gar.",
       "category": "Shopping",
       "generated_at": "2026-08-28T07:58:49.918622"
+    },
+    {
+      "english": "Sudden storm, seek shelter, fast.",
+      "welsh": "Storm sydyn, chwilio lloches, yn gyflym.",
+      "transliteration": "Stor-um sid-un, chwi-li-o llo-ches, un guh-lim.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T21:45:34.220843"
+    },
+    {
+      "english": "Ground is shaking, run now.",
+      "welsh": "Y ddaear yn crynu, rhedeg nawr.",
+      "transliteration": "Uh dai-ar un kruh-nuh, reh-deg nower.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T21:45:34.220853"
+    },
+    {
+      "english": "I've fallen, need a hand.",
+      "welsh": "Dw i wedi syrthio, angen help.",
+      "transliteration": "Doo ee weh-dee sur-thyo, an-gen help.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T21:45:34.220855"
+    },
+    {
+      "english": "Water rising, get to high ground.",
+      "welsh": "Dŵr yn codi, mynd i dir uwch.",
+      "transliteration": "Dwoor un koh-dee, mynd ee deear ooch.",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T21:45:34.220857"
+    },
+    {
+      "english": "Lost my bearings, can you guide?",
+      "welsh": "Wedi colli fy ffordd, galli di dywys?",
+      "transliteration": "Weh-dee kol-lee vi forrth, gal-lee dee duh-woos?",
+      "category": "Emergency",
+      "generated_at": "2026-08-28T21:45:34.220858"
     }
   ],
-  "last_updated": "2026-08-28T07:58:49.918624"
+  "last_updated": "2026-08-28T21:45:34.220860"
 }
