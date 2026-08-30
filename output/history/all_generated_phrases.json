@@ -11899,7 +11899,42 @@
       "transliteration": "HOL-ookH BOP-eth, dar-GAN-vith-ookH AT-eb-on.",
       "category": "Creativity",
       "generated_at": "2026-08-30T16:08:37.879785"
+    },
+    {
+      "english": "Welcome, friend, to Wales.",
+      "welsh": "Croeso, ffrind, i Gymru.",
+      "transliteration": "Croh-so, frind, ee Gmr-ee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T18:01:39.088736"
+    },
+    {
+      "english": "What a view, wow.",
+      "welsh": "Pa olygfa, do.",
+      "transliteration": "Pa ol-ig-va, doh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T18:01:39.088743"
+    },
+    {
+      "english": "Let's find a pub.",
+      "welsh": "Dewch i ddod o hyd i dafarn.",
+      "transliteration": "Deh-ch ee dodh oh hid ee taf-arn.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T18:01:39.088745"
+    },
+    {
+      "english": "The rain is here.",
+      "welsh": "Mae'r glaw yma.",
+      "transliteration": "Mae'r glah-oo ee-mah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T18:01:39.088746"
+    },
+    {
+      "english": "This is lovely, really.",
+      "welsh": "Mae hyn yn hyfryd, wir.",
+      "transliteration": "Mae hyn on huv-rid, wir.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-30T18:01:39.088748"
     }
   ],
-  "last_updated": "2026-08-30T16:08:37.879787"
+  "last_updated": "2026-08-30T18:01:39.088749"
 }
