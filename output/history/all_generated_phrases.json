@@ -12214,7 +12214,42 @@
       "transliteration": "BID-oogh un PORTH-laad TOW-el, BOB AM-ser.",
       "category": "Kindness",
       "generated_at": "2026-09-01T16:08:28.189692"
+    },
+    {
+      "english": "Slow down, breathe out, release.",
+      "welsh": "Arafwch, cymerwch anadl allan, rhyddhewch.",
+      "transliteration": "Ara-vooch, kum-er-ockh an-adl a-thlan, rhee-heew-ech.",
+      "category": "Health",
+      "generated_at": "2026-09-01T17:48:05.517679"
+    },
+    {
+      "english": "Feel the sun, warm your face.",
+      "welsh": "Teimlwch yr haul, cynhyrwch eich wyneb.",
+      "transliteration": "Teym-looch yr ha-ool, kun-hur-ockh eich owy-neb.",
+      "category": "Health",
+      "generated_at": "2026-09-01T17:48:05.517690"
+    },
+    {
+      "english": "A quiet moment, just for you.",
+      "welsh": "Eiliad dawel, i chi yn unig.",
+      "transliteration": "Ay-leed daw-el, ee chee yn oo-neeg.",
+      "category": "Health",
+      "generated_at": "2026-09-01T17:48:05.517693"
+    },
+    {
+      "english": "Drink water, feel refreshed.",
+      "welsh": "Yfwch ddŵr, teimlwch wedi eich adfywio.",
+      "transliteration": "Uh-vooch tho-oor, teym-looch weh-dee eech ad-hvee-oh.",
+      "category": "Health",
+      "generated_at": "2026-09-01T17:48:05.517696"
+    },
+    {
+      "english": "Gentle movement, clear your head.",
+      "welsh": "Symudiad ysgafn, cliriwch eich pen.",
+      "transliteration": "Sum-uh-dyad us-gafn, klee-ree-ockh eich pen.",
+      "category": "Health",
+      "generated_at": "2026-09-01T17:48:05.517699"
     }
   ],
-  "last_updated": "2026-09-01T16:08:28.189694"
+  "last_updated": "2026-09-01T17:48:05.517701"
 }
