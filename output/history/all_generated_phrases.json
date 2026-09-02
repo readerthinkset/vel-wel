@@ -12354,7 +12354,42 @@
       "transliteration": "Luh-veer ayn for-d, droo drus-fowr, guh-dan gil-ith.",
       "category": "Friendship",
       "generated_at": "2026-09-02T17:51:23.951998"
+    },
+    {
+      "english": "The tiny mouse, scurries home.",
+      "welsh": "Y llygoden fach, yn rhedeg adref.",
+      "transliteration": "Uh luh-GOH-den VAKH, uh-N REH-ding ad-REHV.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T19:39:38.615043"
+    },
+    {
+      "english": "A proud peacock, fans its tail.",
+      "welsh": "Cenaw balch, yn agor ei gynffon.",
+      "transliteration": "KEH-now BALKH, uh-N AG-or ey GUNKH-on.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T19:39:38.615053"
+    },
+    {
+      "english": "The watchful owl, hoots at night.",
+      "welsh": "Dy'lluan wyliadwrus, yn ufalu'n hwyr.",
+      "transliteration": "DUH-lhooh-an wuh-lyad-UH-roos, uh-N UFF-al-oon HWEER.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T19:39:38.615054"
+    },
+    {
+      "english": "A playful kitten, chases a ball.",
+      "welsh": "Cath fach chwareus, yn mynd ar drywydd pêl.",
+      "transliteration": "KATH VAKH KHWA-reus, uh-N MEND ar DRUH-wid PEHL.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T19:39:38.615055"
+    },
+    {
+      "english": "The mighty elephant, remembers much.",
+      "welsh": "Eliffant mawr, yn cofio llawer.",
+      "transliteration": "EH-liff-ant MAOWR, uh-N KOH-vee LHAH-ver.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T19:39:38.615057"
     }
   ],
-  "last_updated": "2026-09-02T17:51:23.952001"
+  "last_updated": "2026-09-02T19:39:38.615058"
 }
