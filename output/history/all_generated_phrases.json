@@ -12424,7 +12424,42 @@
       "transliteration": "Gwrth-rikh hu-vreeith, ydee hyn!",
       "category": "Shopping",
       "generated_at": "2026-09-03T02:05:24.909607"
+    },
+    {
+      "english": "A gentle breeze, stirs the leaves.",
+      "welsh": "Gwynt mwyn, yn symud y dail.",
+      "transliteration": "Gweent muyn, un sim-ood uh dayl.",
+      "category": "Weather",
+      "generated_at": "2026-09-03T15:52:06.980163"
+    },
+    {
+      "english": "The clouds gather, a soft grey.",
+      "welsh": "Y cymylau, yn casglu llwydni.",
+      "transliteration": "Uh kum-uh-low, un kas-glee lloy-dnee.",
+      "category": "Weather",
+      "generated_at": "2026-09-03T15:52:06.980173"
+    },
+    {
+      "english": "A bright sun, warms the fields.",
+      "welsh": "Haul llachar, yn cynhesu'r caeau.",
+      "transliteration": "Hah-ool llah-char, un kun-hes-ur kay-eye.",
+      "category": "Weather",
+      "generated_at": "2026-09-03T15:52:06.980175"
+    },
+    {
+      "english": "Raindrops fall, a quiet rhythm.",
+      "welsh": "Diferion glaw, yn dawnsio'n dawel.",
+      "transliteration": "Dif-er-yon glow, un downs-ee-o'n dow-el.",
+      "category": "Weather",
+      "generated_at": "2026-09-03T15:52:06.980176"
+    },
+    {
+      "english": "The air is heavy, with moisture.",
+      "welsh": "Yr awyr yn drwm, o leithder.",
+      "transliteration": "Ur ow-eer un drum, oh layth-der.",
+      "category": "Weather",
+      "generated_at": "2026-09-03T15:52:06.980177"
     }
   ],
-  "last_updated": "2026-09-03T02:05:24.909608"
+  "last_updated": "2026-09-03T15:52:06.980179"
 }
