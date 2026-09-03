@@ -12494,7 +12494,42 @@
       "transliteration": "Doo-er llon-ith, med-ool doovn.",
       "category": "Balance",
       "generated_at": "2026-09-03T17:47:41.238258"
+    },
+    {
+      "english": "Observe keenly, see the pattern.",
+      "welsh": "Sylwch yn astud, gweld y patrwm.",
+      "transliteration": "Syl-wch-un as-tud, gweld-u pat-rum.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:41:55.511669"
+    },
+    {
+      "english": "Imagine freely, create wonder.",
+      "welsh": "Dychmygwch yn rhydd, creu rhyfeddod.",
+      "transliteration": "Dych-myg-wch yn rhith-uth, cre-u rhif-e-dod.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:41:55.511683"
+    },
+    {
+      "english": "Walk gently, tread with care.",
+      "welsh": "Cerddwch yn ysgafn, camwch â gofal.",
+      "transliteration": "Ker-duch-un ys-gaf-n, kam-wch a go-fal.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:41:55.511685"
+    },
+    {
+      "english": "Speak softly, share kindness.",
+      "welsh": "Siaradwch yn dawel, rhannwch garedigrwydd.",
+      "transliteration": "Sha-ra-duch yn da-wel, rhan-nuch ga-re-dig-rwydd.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:41:55.511686"
+    },
+    {
+      "english": "Explore bravely, discover joy.",
+      "welsh": "Archwiliwch yn ddewr, darganfyddwch llawenydd.",
+      "transliteration": "Ar-chil-i-wch yn dew-r, dar-gan-fith-uch la-wen-y-dd.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:41:55.511687"
     }
   ],
-  "last_updated": "2026-09-03T17:47:41.238260"
+  "last_updated": "2026-09-03T19:41:55.511689"
 }
