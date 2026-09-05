@@ -12879,7 +12879,42 @@
       "transliteration": "Sbarc o o-baith, yn tan-io'r en-aid.",
       "category": "Strength",
       "generated_at": "2026-09-05T18:52:25.326079"
+    },
+    {
+      "english": "Hello there, new friend.",
+      "welsh": "Shwmae, ffrind newydd.",
+      "transliteration": "Shoo-my, frind nee-id.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:49:09.251455"
+    },
+    {
+      "english": "Just a quick hello.",
+      "welsh": "Dim ond hello byr.",
+      "transliteration": "Dim ond hel-oh bir.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:49:09.251464"
+    },
+    {
+      "english": "Lovely to meet you.",
+      "welsh": "Hyfryd eich cwrdd.",
+      "transliteration": "Huv-rid eich coord.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:49:09.251466"
+    },
+    {
+      "english": "How's your day?",
+      "welsh": "Sut mae dy ddiwrnod?",
+      "transliteration": "Sit my dih dee-urnod?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:49:09.251467"
+    },
+    {
+      "english": "Everything alright?",
+      "welsh": "Popeth yn iawn?",
+      "transliteration": "Pop-eth en ee-own?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:49:09.251468"
     }
   ],
-  "last_updated": "2026-09-05T18:52:25.326080"
+  "last_updated": "2026-09-05T21:49:09.251470"
 }
