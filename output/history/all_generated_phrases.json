@@ -12774,7 +12774,42 @@
       "transliteration": "Teyth n-e-with, in detch-ra now-r.",
       "category": "Purpose",
       "generated_at": "2026-09-05T02:02:12.246765"
+    },
+    {
+      "english": "Dawn breaks, gently now.",
+      "welsh": "Gwawr yn torri, yn serchog nawr.",
+      "transliteration": "Gwa-oor în tor-ree, în ser-chog na-oor.",
+      "category": "Time",
+      "generated_at": "2026-09-05T14:41:07.940664"
+    },
+    {
+      "english": "Midday sun, bright and warm.",
+      "welsh": "Canol dydd, haul llachar a chynnes.",
+      "transliteration": "Can-ol deeth, ha-ool lî-char a chín-nes.",
+      "category": "Time",
+      "generated_at": "2026-09-05T14:41:07.940673"
+    },
+    {
+      "english": "Evening shadows, stretching long.",
+      "welsh": "Cysgodion cynnar, yn ymestyn hir.",
+      "transliteration": "Cus-god-ee-on cín-nar, în üm-stes-teen heer.",
+      "category": "Time",
+      "generated_at": "2026-09-05T14:41:07.940674"
+    },
+    {
+      "english": "Night falls, stars appear.",
+      "welsh": "Nos yn disgyn, sér yn ymddangos.",
+      "transliteration": "Nos în dees-gîn, sayr în üm-dang-gos.",
+      "category": "Time",
+      "generated_at": "2026-09-05T14:41:07.940675"
+    },
+    {
+      "english": "A moment's peace, enjoyed.",
+      "welsh": "Eiliad o dawelwch, yn cael ei fwynhau.",
+      "transliteration": "Ay-leed o da-wel-oogh, în ca-eel ay fwoyn-ha-ee.",
+      "category": "Time",
+      "generated_at": "2026-09-05T14:41:07.940676"
     }
   ],
-  "last_updated": "2026-09-05T02:02:12.246767"
+  "last_updated": "2026-09-05T14:41:07.940677"
 }
