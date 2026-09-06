@@ -13054,7 +13054,42 @@
       "transliteration": "Ow-ee-ren in-is, skir-see-ow mween.",
       "category": "Holidays",
       "generated_at": "2026-09-06T18:56:32.457057"
+    },
+    {
+      "english": "Alert! Strangers near. Stay alert.",
+      "welsh": "Brys! Dieithriaid yn agos. Cadwch llygad.",
+      "transliteration": "Bress! Dyeeth-rye-aid yn agos. Cad-ooch luh-gad.",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T21:51:54.719760"
+    },
+    {
+      "english": "My belongings, stolen! Can you help?",
+      "welsh": "Fy nghyflenwi, wedi eu dwyn! Allwch chi helpu?",
+      "transliteration": "Vuh n-goo-flen-wee, wed-ee ee dwun! Al-ooch chee help-oo?",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T21:51:54.719772"
+    },
+    {
+      "english": "Sudden illness. Need medical attention.",
+      "welsh": "Salwch sydyn. Angen sylw meddygol.",
+      "transliteration": "Sal-oogh suh-dun. Ang-en suhl-v med-ee-gol.",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T21:51:54.719774"
+    },
+    {
+      "english": "Trouble approaching. We must move.",
+      "welsh": "Rhyw drafferth yn dod. Rhaid symud.",
+      "transliteration": "Ruh-oo traf-erth yn dod. Rhydee sum-ood.",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T21:51:54.719775"
+    },
+    {
+      "english": "The path is blocked. Find another.",
+      "welsh": "Mae'r llwybr wedi ei gloi. Dewch o hyd i un arall.",
+      "transliteration": "Mye luh-broo wed-ee ay gloy. De-ooch o hoed ee un ar-al.",
+      "category": "Emergency",
+      "generated_at": "2026-09-06T21:51:54.719777"
     }
   ],
-  "last_updated": "2026-09-06T18:56:32.457059"
+  "last_updated": "2026-09-06T21:51:54.719778"
 }
