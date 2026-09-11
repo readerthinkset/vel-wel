@@ -13649,7 +13649,42 @@
       "transliteration": "Cus-godh tuhl-luan, doovn a tuch-will.",
       "category": "Colors",
       "generated_at": "2026-09-11T02:05:00.551219"
+    },
+    {
+      "english": "Ah, it's you, good to see your face.",
+      "welsh": "Ah, chi rŵan, da gen i weld dy wyneb di.",
+      "transliteration": "Ah, chee roo-an, da gen ee weld duh oo-ayned dee.",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T15:57:36.447163"
+    },
+    {
+      "english": "Come in, let's have a chat, shall we?",
+      "welsh": "Tyrd i mewn, awn ni i sgwrsio, ai?",
+      "transliteration": "Turd ee men, awn nee ee skoors-ee-o, ai?",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T15:57:36.447172"
+    },
+    {
+      "english": "Fancy seeing you, what brings you this way?",
+      "welsh": "Dychymygio dy weld di, beth sydd â ti yma?",
+      "transliteration": "Duh-khum-ee-go duh weld dee, beth sidh ah tee ee-ma?",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T15:57:36.447174"
+    },
+    {
+      "english": "Look who it is, a pleasant surprise indeed.",
+      "welsh": "Edrych pwy sydd yma, syndod dymunol yn wir.",
+      "transliteration": "Ed-rooch pwee sidh ee-ma, sun-dod dum-un-ol in weer.",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T15:57:36.447176"
+    },
+    {
+      "english": "Hello there, my friend, what news have you?",
+      "welsh": "Shwmae 'na, fy ffrind, beth sydd â newyddion gennyt?",
+      "transliteration": "Shhoo-my na, vuh freend, beth sidh ah new-ith-on gen-nit?",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T15:57:36.447177"
     }
   ],
-  "last_updated": "2026-09-11T02:05:00.551220"
+  "last_updated": "2026-09-11T15:57:36.447179"
 }
