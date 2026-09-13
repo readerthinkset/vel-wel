@@ -13999,7 +13999,42 @@
       "transliteration": "Med-ooll taw-el, cal-on heth-uch-lon.",
       "category": "Health",
       "generated_at": "2026-09-13T02:06:48.564112"
+    },
+    {
+      "english": "Breathe deep, calm your soul.",
+      "welsh": "Anadlwch yn ddwfn, tawelwch eich enaid.",
+      "transliteration": "Anadl-uch yn dwf-n, taw-el-uch eich en-aid.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T15:42:10.956372"
+    },
+    {
+      "english": "See the colours, paint the dawn.",
+      "welsh": "Gwelwch y lliwiau, peintiwch y wawr.",
+      "transliteration": "Gwel-wch y lli-wi-au, pein-ti-wch y wawr.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T15:42:10.956381"
+    },
+    {
+      "english": "Feel the sun, warm your skin.",
+      "welsh": "Teimlwch yr haul, cynheswch eich croen.",
+      "transliteration": "Teim-lwch yr ha-wl, cyn-hes-wch eich cro-en.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T15:42:10.956383"
+    },
+    {
+      "english": "Hear the music, dance your feet.",
+      "welsh": "Clywch y gerddoriaeth, dawnsiwch eich traed.",
+      "transliteration": "Cly-wch y ger-or-i-eth, da-wn-si-wch eich tra-ed.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T15:42:10.956384"
+    },
+    {
+      "english": "Taste the rain, a fresh start.",
+      "welsh": "Blaswch y glaw, dechrau newydd.",
+      "transliteration": "Blas-wch y glaw, dech-ra-u new-ydd.",
+      "category": "Directions",
+      "generated_at": "2026-09-13T15:42:10.956385"
     }
   ],
-  "last_updated": "2026-09-13T02:06:48.564114"
+  "last_updated": "2026-09-13T15:42:10.956387"
 }
