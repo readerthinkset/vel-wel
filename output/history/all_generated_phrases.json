@@ -14419,7 +14419,42 @@
       "transliteration": "Uhn wane mahkh, wyt uhn dye-ahl.",
       "category": "Relationships",
       "generated_at": "2026-09-15T20:04:23.979487"
+    },
+    {
+      "english": "Clouds drift, like silent thoughts.",
+      "welsh": "Cymylau'n nofio, fel meddyliau mud.",
+      "transliteration": "Cum-yl-ai noon-yoh, fel med-digh-lee-oo mood.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T22:33:32.455113"
+    },
+    {
+      "english": "Rain whispers, secrets on the roof.",
+      "welsh": "Glaw'n sibryddu, gyfrinachau ar y to.",
+      "transliteration": "Glow'n sib-rid-doo, guh-vree-nach-ai ar uh toh.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T22:33:32.455122"
+    },
+    {
+      "english": "Sunlight paints, a golden smile.",
+      "welsh": "Golau haul yn peintio, gwên aur.",
+      "transliteration": "Goh-lie howl unn peyn-tee-oh, gwen ohr.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T22:33:32.455123"
+    },
+    {
+      "english": "Wind sighs, through the tall grass.",
+      "welsh": "Gwynt yn ocheneidio, trwy'r glaswellt tal.",
+      "transliteration": "Gwint unn oh-chen-ay-dee-oh, troo'r glas-wellt tal.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T22:33:32.455124"
+    },
+    {
+      "english": "A chill bites, the evening air.",
+      "welsh": "Oerfel yn brathu, awyr y nos.",
+      "transliteration": "Oh-er-vel unn brath-oo, ow-eer uh nos.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T22:33:32.455126"
     }
   ],
-  "last_updated": "2026-09-15T20:04:23.979489"
+  "last_updated": "2026-09-15T22:33:32.455127"
 }
