@@ -14664,7 +14664,42 @@
       "transliteration": "Clywch uh mun-ith-oyth, yn shar-ad Gum-ryeg.",
       "category": "Purpose",
       "generated_at": "2026-09-17T16:20:52.892504"
+    },
+    {
+      "english": "That's a strong start, yes.",
+      "welsh": "Dechrau cryf, wir.",
+      "transliteration": "Deh-khrau kruh, wir.",
+      "category": "Confidence",
+      "generated_at": "2026-09-17T18:08:42.815417"
+    },
+    {
+      "english": "Listen closely, feel the flow.",
+      "welsh": "Gwrandewch yn agos, teimlwch y llif.",
+      "transliteration": "Gwr-an-dekh uhn ah-gos, teym-lukh uh lhif.",
+      "category": "Confidence",
+      "generated_at": "2026-09-17T18:08:42.815429"
+    },
+    {
+      "english": "Your Welsh is coming through.",
+      "welsh": "Daw eich Cymraeg trwodd.",
+      "transliteration": "Daw eych Kum-ryegh tru-oith.",
+      "category": "Confidence",
+      "generated_at": "2026-09-17T18:08:42.815431"
+    },
+    {
+      "english": "A good sound, that one.",
+      "welsh": "Synnwch da, hwnnw.",
+      "transliteration": "Sin-nukh da, hun-nu.",
+      "category": "Confidence",
+      "generated_at": "2026-09-17T18:08:42.815432"
+    },
+    {
+      "english": "You're finding the rhythm.",
+      "welsh": "Rwyt ti'n dod o hyd i'r rhythm.",
+      "transliteration": "Roo-it tee'n doh o heeth ee'r rhythm.",
+      "category": "Confidence",
+      "generated_at": "2026-09-17T18:08:42.815433"
     }
   ],
-  "last_updated": "2026-09-17T16:20:52.892505"
+  "last_updated": "2026-09-17T18:08:42.815435"
 }
