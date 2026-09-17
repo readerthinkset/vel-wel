@@ -14594,7 +14594,42 @@
       "transliteration": "An-adl, hed-ooch, duv-nhow, hed.",
       "category": "Mindfulness",
       "generated_at": "2026-09-16T22:30:17.642775"
+    },
+    {
+      "english": "Listen, a strange sound.",
+      "welsh": "Gwrandewch, syniad dieithr.",
+      "transliteration": "Gwr-an-dewch, sin-iad dee-eethr.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T02:27:48.210597"
+    },
+    {
+      "english": "The air, feels heavy.",
+      "welsh": "Yr awyr, yn teimlo'n drwm.",
+      "transliteration": "Ur ow-eer, un taim-lo'n trum.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T02:27:48.210609"
+    },
+    {
+      "english": "Something's moving, over there.",
+      "welsh": "Rhywbeth yn symud, dyna.",
+      "transliteration": "Rhoo-beth un sim-ood, din-a.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T02:27:48.210611"
+    },
+    {
+      "english": "Quick, a path is clear.",
+      "welsh": "Yn gyflym, llwybr yn glir.",
+      "transliteration": "Un guh-flim, luh-brun glir.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T02:27:48.210612"
+    },
+    {
+      "english": "We must hide, now.",
+      "welsh": "Rhaid cuddio, nawr.",
+      "transliteration": "Rh-ide coo-dee-o, nowr.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T02:27:48.210614"
     }
   ],
-  "last_updated": "2026-09-16T22:30:17.642777"
+  "last_updated": "2026-09-17T02:27:48.210618"
 }
