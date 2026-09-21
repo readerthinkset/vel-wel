@@ -15364,7 +15364,42 @@
       "transliteration": "Swin dis-tah, oh oo-i-bod.",
       "category": "Feelings",
       "generated_at": "2026-09-21T20:52:00.602029"
+    },
+    {
+      "english": "Time flows, like a river.",
+      "welsh": "Amser yn llifo, fel afon.",
+      "transliteration": "Am-ser yn hlee-vo, fel a-von.",
+      "category": "Time",
+      "generated_at": "2026-09-21T22:56:10.227761"
+    },
+    {
+      "english": "A blink, and it's gone.",
+      "welsh": "Gwyrch, ac mae wedi mynd.",
+      "transliteration": "Gweerch, ac my wed-ee mynd.",
+      "category": "Time",
+      "generated_at": "2026-09-21T22:56:10.227769"
+    },
+    {
+      "english": "The clock ticks, onward.",
+      "welsh": "Y gloc yn tician, ymlaen.",
+      "transliteration": "Uh gloc-en tee-kee-an, um-lynn.",
+      "category": "Time",
+      "generated_at": "2026-09-21T22:56:10.227771"
+    },
+    {
+      "english": "Seize the instant, now.",
+      "welsh": "Dal y foment, yn awr.",
+      "transliteration": "Dal uh vo-ment, en owr.",
+      "category": "Time",
+      "generated_at": "2026-09-21T22:56:10.227772"
+    },
+    {
+      "english": "Time waits, for no one.",
+      "welsh": "Amser yn aros, i neb.",
+      "transliteration": "Am-ser yn a-ros, ee neb.",
+      "category": "Time",
+      "generated_at": "2026-09-21T22:56:10.227773"
     }
   ],
-  "last_updated": "2026-09-21T20:52:00.602030"
+  "last_updated": "2026-09-21T22:56:10.227775"
 }
