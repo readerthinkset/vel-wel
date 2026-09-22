@@ -15539,7 +15539,42 @@
       "transliteration": "An-gen air fres, fen-es-tree ag-or?",
       "category": "Emergency",
       "generated_at": "2026-09-22T20:02:50.223909"
+    },
+    {
+      "english": "Ah, look, it's you, good to see you.",
+      "welsh": "Ah, dyma ti, 'rwy'n falch o'th weld.",
+      "transliteration": "Ah, duh-muh tee, 'rwin valkh ohth veld.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T22:33:20.418041"
+    },
+    {
+      "english": "Well, hello there, what a lovely moment.",
+      "welsh": "Wel, helo, beth am foment hyfryd.",
+      "transliteration": "Wel, heh-loh, beth am fo-ment huh-vrid.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T22:33:20.418051"
+    },
+    {
+      "english": "Fancy a chat, then? Come on in.",
+      "welsh": "Garech sgwrs, yna? Dewch i mewn.",
+      "transliteration": "Ga-rekh sgurs, uh-nuh? Duh-kh ee mwyn.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T22:33:20.418053"
+    },
+    {
+      "english": "A pleasant surprise, really. Come closer.",
+      "welsh": "Syndod dymunol, wirioneddol. Nesed.",
+      "transliteration": "Sin-dod duh-mun-ol, wir-ee-on-dol. Neh-sed.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T22:33:20.418054"
+    },
+    {
+      "english": "So, you've arrived. Splendid, absolutely splendid.",
+      "welsh": "Felly, rydych chi wedi cyrraedd. Rhagorol, yn wir.",
+      "transliteration": "Fel-ee, ruh-dikhk hee weh-dee kuh-ry-eddh. Rhah-go-rol, uhn wir.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T22:33:20.418055"
     }
   ],
-  "last_updated": "2026-09-22T20:02:50.223910"
+  "last_updated": "2026-09-22T22:33:20.418056"
 }
