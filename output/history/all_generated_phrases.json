@@ -15504,7 +15504,42 @@
       "transliteration": "SHAR-ad-ooch yn DUH-ner, yn CLIR.",
       "category": "Self Improvement",
       "generated_at": "2026-09-22T18:03:01.505687"
+    },
+    {
+      "english": "Fire nearby, smell smoke.",
+      "welsh": "Tân gerllaw, drewg ysmyg.",
+      "transliteration": "Tan ger-llaw, drewg us-muhg.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T20:02:50.223894"
+    },
+    {
+      "english": "Foot is twisted, can't walk.",
+      "welsh": "Troed wedi troi, methu cerdded.",
+      "transliteration": "Troyed we-dhee troi, meth-ee kerd-ed.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T20:02:50.223905"
+    },
+    {
+      "english": "Lost my glasses, can't see.",
+      "welsh": "Colli'n sbectol, methu gweld.",
+      "transliteration": "Col-lee'n spect-ol, meth-ee gweld.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T20:02:50.223907"
+    },
+    {
+      "english": "Sudden sharp pain, here.",
+      "welsh": "Poen sydyn miniog, yma.",
+      "transliteration": "Poyn suh-din min-yohg, uh-ma.",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T20:02:50.223908"
+    },
+    {
+      "english": "Need fresh air, windows open?",
+      "welsh": "Angen aer ffres, ffenestri agor?",
+      "transliteration": "An-gen air fres, fen-es-tree ag-or?",
+      "category": "Emergency",
+      "generated_at": "2026-09-22T20:02:50.223909"
     }
   ],
-  "last_updated": "2026-09-22T18:03:01.505689"
+  "last_updated": "2026-09-22T20:02:50.223910"
 }
