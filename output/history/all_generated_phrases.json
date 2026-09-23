@@ -15714,7 +15714,42 @@
       "transliteration": "Gwi-wer un swn, un drin-go’r de-rwen.",
       "category": "Nature",
       "generated_at": "2026-09-23T20:00:41.913876"
+    },
+    {
+      "english": "A blooming flower, brightens the path.",
+      "welsh": "Blodyn yn blodeuo, yn disgleirio'r llwybr.",
+      "transliteration": "Bluh-din un bluh-die-o, un dis-glee-ir the lhooybr.",
+      "category": "Happiness",
+      "generated_at": "2026-09-23T22:34:42.436114"
+    },
+    {
+      "english": "A warm hearth, a cozy feeling.",
+      "welsh": "Tân cynnes, teimlad glwys.",
+      "transliteration": "Tahn kun-nes, tigh-mhad gluh-is.",
+      "category": "Happiness",
+      "generated_at": "2026-09-23T22:34:42.436124"
+    },
+    {
+      "english": "A shared joke, a ripple of mirth.",
+      "welsh": "Jôc rydyn ni'n ei rannu, bwlch o ddifyr.",
+      "transliteration": "Jok ruh-dun nee ayn rahn-nuh, buhlkh oh duh-vihr.",
+      "category": "Happiness",
+      "generated_at": "2026-09-23T22:34:42.436125"
+    },
+    {
+      "english": "The moon watches, over peaceful dreams.",
+      "welsh": "Y lleuad yn gwylio, dros freuddwydion heddychlon.",
+      "transliteration": "Uh yuh luh-uhd un gwuh-lee-o, dros fruy-dwid-yon hehd-hukh-lon.",
+      "category": "Happiness",
+      "generated_at": "2026-09-23T22:34:42.436127"
+    },
+    {
+      "english": "A sweet berry, picked with care.",
+      "welsh": "Mafon melys, wedi'i godi'n ofalus.",
+      "transliteration": "Maf-on mel-iss, wed-ee god-ee oh-vah-liss.",
+      "category": "Happiness",
+      "generated_at": "2026-09-23T22:34:42.436128"
     }
   ],
-  "last_updated": "2026-09-23T20:00:41.913878"
+  "last_updated": "2026-09-23T22:34:42.436129"
 }
