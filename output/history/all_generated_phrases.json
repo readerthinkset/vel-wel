@@ -15819,7 +15819,42 @@
       "transliteration": "Poom ton-nay, in tor-ree ar uh lan.",
       "category": "Numbers",
       "generated_at": "2026-09-24T16:35:31.236180"
+    },
+    {
+      "english": "Hear the rivers, sing your name.",
+      "welsh": "Clyw'r afonydd, yn canu dy enw.",
+      "transliteration": "Cloo-eer av-on-ee-th, in can-ee dee en-oo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T18:23:54.673107"
+    },
+    {
+      "english": "Taste the hearth, warm with words.",
+      "welsh": "Blaswch y fan, cynnes â geiriau.",
+      "transliteration": "Blas-ooch ee van, kin-ess ah gair-ee-ah.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T18:23:54.673120"
+    },
+    {
+      "english": "Feel the soil, under your feet.",
+      "welsh": "Teimlwch y pridd, o dan dy draed.",
+      "transliteration": "Time-look ee prid, oh dan dee trad.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T18:23:54.673121"
+    },
+    {
+      "english": "See the stars, in Cymraeg bright.",
+      "welsh": "Gwelwch y sêr, yn llachar Cymraeg.",
+      "transliteration": "Gwel-ooch ee sair, in thlach-ar Cum-raig.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T18:23:54.673121"
+    },
+    {
+      "english": "Whisper secrets, to the wind.",
+      "welsh": "Cussanwch gyfrinachau, i'r gwynt.",
+      "transliteration": "Cuss-an-ooch cum-ree-nach-eye, ee-r gwint.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T18:23:54.673122"
     }
   ],
-  "last_updated": "2026-09-24T16:35:31.236182"
+  "last_updated": "2026-09-24T18:23:54.673124"
 }
