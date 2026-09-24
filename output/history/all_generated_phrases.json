@@ -15749,7 +15749,42 @@
       "transliteration": "Maf-on mel-iss, wed-ee god-ee oh-vah-liss.",
       "category": "Happiness",
       "generated_at": "2026-09-23T22:34:42.436128"
+    },
+    {
+      "english": "Hear the lamb's bleat, on the green slope.",
+      "welsh": "Clyw'r oen yn me'e, ar y llethr gwyrdd.",
+      "transliteration": "Kloo'r oyn un may'eh, ar uhh leth-r goor'th.",
+      "category": "Culture",
+      "generated_at": "2026-09-24T02:16:01.024443"
+    },
+    {
+      "english": "Taste the fresh bread, from the village oven.",
+      "welsh": "Blas y bara ffres, o'r ffwrn bentref.",
+      "transliteration": "Blahs uhh bah-rah fres, oh'r foor'n bent-rev.",
+      "category": "Culture",
+      "generated_at": "2026-09-24T02:16:01.024453"
+    },
+    {
+      "english": "See the sheepdog work, with keen eyes.",
+      "welsh": "Gwel y ci defaid, weithio'n astud.",
+      "transliteration": "Gwel uhh key de-vigh'th, wey-thee'on as-teed.",
+      "category": "Culture",
+      "generated_at": "2026-09-24T02:16:01.024455"
+    },
+    {
+      "english": "Feel the mist lift, on the high moor.",
+      "welsh": "Teimla'r niwl yn codi, ar y pwmr uchel.",
+      "transliteration": "Taym-lah'r neel un ko-dee, ar uhh poor oo-chel.",
+      "category": "Culture",
+      "generated_at": "2026-09-24T02:16:01.024456"
+    },
+    {
+      "english": "Watch the coracle glide, on the calm river.",
+      "welsh": "Gwylia'r gych yn llithro, ar yr afon heddychlon.",
+      "transliteration": "Gweel-ee'ah'r gukh un hleeth-ro, ar ur ah-von heth-ee-khlon.",
+      "category": "Culture",
+      "generated_at": "2026-09-24T02:16:01.024458"
     }
   ],
-  "last_updated": "2026-09-23T22:34:42.436129"
+  "last_updated": "2026-09-24T02:16:01.024459"
 }
