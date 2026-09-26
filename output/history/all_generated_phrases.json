@@ -16134,7 +16134,42 @@
       "transliteration": "Gad-ewch ee'r ton-naow ol-chee dro-soch.",
       "category": "Balance",
       "generated_at": "2026-09-26T02:34:55.261451"
+    },
+    {
+      "english": "Could we, start with soup?",
+      "welsh": "Allwn ni, ddechrau â chawl?",
+      "transliteration": "Al-oon nee, de-chra ai choowl?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T15:53:50.615230"
+    },
+    {
+      "english": "This looks, really fresh.",
+      "welsh": "Mae hyn, yn edrych yn ffres iawn.",
+      "transliteration": "Mae hin, en ed-rik en ffres yown.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T15:53:50.615240"
+    },
+    {
+      "english": "Is that, local produce?",
+      "welsh": "Ydy hynny, o gynhyrchion lleol?",
+      "transliteration": "Uh-dee hin-uh, o geun-ur-khion lyo-ol?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T15:53:50.615241"
+    },
+    {
+      "english": "A moment, to decide.",
+      "welsh": "Eiliad, i benderfynu.",
+      "transliteration": "Ay-leed, ee ben-der-fin-oo.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T15:53:50.615242"
+    },
+    {
+      "english": "What's good, to drink?",
+      "welsh": "Beth sy'n dda, i'w yfed?",
+      "transliteration": "Beth sin daa, ee-oo y-ved?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T15:53:50.615244"
     }
   ],
-  "last_updated": "2026-09-26T02:34:55.261452"
+  "last_updated": "2026-09-26T15:53:50.615245"
 }
