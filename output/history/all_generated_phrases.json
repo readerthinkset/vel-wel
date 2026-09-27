@@ -16274,7 +16274,42 @@
       "transliteration": "Ay-lee-ad da-wel, sin-ee-ad mawr.",
       "category": "Creativity",
       "generated_at": "2026-09-26T22:16:48.028422"
+    },
+    {
+      "english": "Unfold the map, find a new route.",
+      "welsh": "Datgoglan y map, dewch o hyd i lwybr newydd.",
+      "transliteration": "Dat-go-glan uh map, deych o hid ee luybr ne-widd.",
+      "category": "Directions",
+      "generated_at": "2026-09-27T02:33:23.359955"
+    },
+    {
+      "english": "Sketch the outline, fill in the shade.",
+      "welsh": "Lluniwch y braslun, llenwch y cysgod.",
+      "transliteration": "Lluh-nee-uch uh bras-luhn, llen-uch uh cus-god.",
+      "category": "Directions",
+      "generated_at": "2026-09-27T02:33:23.359969"
+    },
+    {
+      "english": "Gather the berries, for the pie.",
+      "welsh": "Casglwch y beriau, ar gyfer y pastai.",
+      "transliteration": "Cas-gluch uh ber-ee-ow, ar guh-ver uh pas-tye.",
+      "category": "Directions",
+      "generated_at": "2026-09-27T02:33:23.359971"
+    },
+    {
+      "english": "Trace the lines, connect the dots.",
+      "welsh": "Olrhainwch y llinellau, cysylltwch y dotiau.",
+      "transliteration": "Ol-rhine-nuch uh lin-el-ow, cus-ul-tuch uh dot-ee-ow.",
+      "category": "Directions",
+      "generated_at": "2026-09-27T02:33:23.359973"
+    },
+    {
+      "english": "Whisper a secret, to the moon.",
+      "welsh": "Siaradwch gyfrinach, i'r lleuad.",
+      "transliteration": "Shar-ad-uch gUH-frin-ach, eer luy-ad.",
+      "category": "Directions",
+      "generated_at": "2026-09-27T02:33:23.359975"
     }
   ],
-  "last_updated": "2026-09-26T22:16:48.028424"
+  "last_updated": "2026-09-27T02:33:23.359977"
 }
