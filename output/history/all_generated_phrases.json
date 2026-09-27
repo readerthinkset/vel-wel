@@ -16344,7 +16344,42 @@
       "transliteration": "Tuv-ooch vel koh-den gah-darn.",
       "category": "Common Expressions",
       "generated_at": "2026-09-27T16:29:47.537531"
+    },
+    {
+      "english": "Sky, a canvas of grey.",
+      "welsh": "Awyr, cynfas llwyd.",
+      "transliteration": "Ay-er, kin-fas lloyd.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:15:37.904005"
+    },
+    {
+      "english": "Sun dips low, evening calls.",
+      "welsh": "Haul suddo isel, nos yn galw.",
+      "transliteration": "Howl sod-o ee-sel, nos en gal-oo.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:15:37.904016"
+    },
+    {
+      "english": "Mist rises, from the valleys.",
+      "welsh": "Ni-wl yn codi, o'r dyffrynoedd.",
+      "transliteration": "Nee-ool en kod-ee, o'r dif-rin-oyth.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:15:37.904018"
+    },
+    {
+      "english": "Thunder rumbles, far away.",
+      "welsh": "Taranau'n swnio, ymhell.",
+      "transliteration": "Tar-an-aye'n soon-ee-o, im-hel.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:15:37.904019"
+    },
+    {
+      "english": "Hailstones rattle, on the roof.",
+      "welsh": "Cregyn rhew yn clatter, ar y to.",
+      "transliteration": "Kreg-in rh-ew en clat-er, ar ee toh.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:15:37.904021"
     }
   ],
-  "last_updated": "2026-09-27T16:29:47.537533"
+  "last_updated": "2026-09-27T18:15:37.904022"
 }
