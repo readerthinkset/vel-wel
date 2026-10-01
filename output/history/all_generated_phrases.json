@@ -17044,7 +17044,42 @@
       "transliteration": "Hoo-ee-ooch i foo-rth, i lan-ai an-hiss-biss.",
       "category": "Holidays",
       "generated_at": "2026-10-01T21:38:54.568189"
+    },
+    {
+      "english": "The meaning, lands now.",
+      "welsh": "Ystyr, glanio nawr.",
+      "transliteration": "Uh-stir, glan-ee-oh nor.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:34:43.287270"
+    },
+    {
+      "english": "You hear it, right?",
+      "welsh": "Ti'n ei glywed, iawn?",
+      "transliteration": "Tee'n ay gly-wid, yow-an?",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:34:43.287280"
+    },
+    {
+      "english": "That sentence, flows.",
+      "welsh": "Frawddeg honno, yn llifo.",
+      "transliteration": "Frov-dveg hon-no, uhn hlee-vo.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:34:43.287282"
+    },
+    {
+      "english": "A new sound, takes hold.",
+      "welsh": "Sain newydd, yn gafael.",
+      "transliteration": "Sain new-idd, uhn ga-vail.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:34:43.287284"
+    },
+    {
+      "english": "Your ear, sharpens.",
+      "welsh": "Dy glust, yn hogi.",
+      "transliteration": "Duh glust, uhn hog-ee.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:34:43.287285"
     }
   ],
-  "last_updated": "2026-10-01T21:38:54.568190"
+  "last_updated": "2026-10-01T23:34:43.287286"
 }
