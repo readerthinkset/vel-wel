@@ -17464,7 +17464,42 @@
       "transliteration": "Gwir-th-leess kin-tahf, in dis-gly-ree-o.",
       "category": "Happiness",
       "generated_at": "2026-10-04T03:26:24.610317"
+    },
+    {
+      "english": "Unfold the scroll, reveal the tale.",
+      "welsh": "Dadorchuddiwch yr sgrol, datgelwch y stori.",
+      "transliteration": "Dador-khud-yoo-chur ur skrol, dat-gel-oosh ur stoi-ri.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T16:31:37.000425"
+    },
+    {
+      "english": "Mend the rip, make it whole.",
+      "welsh": "Trwsiwch y rhwyg, gwnewch yn gyfan.",
+      "transliteration": "Troo-syoo-chur y hrooyg, goon-eych in gi-van.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T16:31:37.000434"
+    },
+    {
+      "english": "Ignite the spark, begin the fire.",
+      "welsh": "Enynwch y sbarc, dechreuwch y tân.",
+      "transliteration": "En-yun-oosh y sbarc, dech-rey-ooch y taan.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T16:31:37.000436"
+    },
+    {
+      "english": "Weave the thread, form the cloth.",
+      "welsh": "Gwnïwch y edau, ffurfiwch y brethyn.",
+      "transliteration": "Goon-yoo-chur y ed-ayw, foor-vee-oosh y breth-in.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T16:31:37.000437"
+    },
+    {
+      "english": "Plant the seed, watch it grow.",
+      "welsh": "Plannwch yr hedyn, gwyliwch ef yn tyfu.",
+      "transliteration": "Plan-nooch ur hed-in, gool-yee-oosh ef in ti-voo.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T16:31:37.000438"
     }
   ],
-  "last_updated": "2026-10-04T03:26:24.610319"
+  "last_updated": "2026-10-04T16:31:37.000440"
 }
