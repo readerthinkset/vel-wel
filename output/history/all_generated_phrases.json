@@ -17709,7 +17709,42 @@
       "transliteration": "Gad ih Cymraeg, lee-wee-o dih feth-dil-ai.",
       "category": "Motivation",
       "generated_at": "2026-10-05T23:05:37.452539"
+    },
+    {
+      "english": "Quickly, a strong current.",
+      "welsh": "Yn gyflym, cerrynt cryf.",
+      "transliteration": "Un giff-lymm, kerr-int creet-iv.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T01:02:56.448893"
+    },
+    {
+      "english": "The bridge, is it stable?",
+      "welsh": "Y bont, a ydyw'n gadarn?",
+      "transliteration": "Uh bont, ah ud-iss gadd-arn?",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T01:02:56.448902"
+    },
+    {
+      "english": "Watch out, for falling rocks.",
+      "welsh": "Edrychwch allan, am roliau.",
+      "transliteration": "Ed-rick-oosh all-ahn, um roll-ee-oo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T01:02:56.448904"
+    },
+    {
+      "english": "I've lost my way, help me.",
+      "welsh": "Gollwng fy ffordd, cynorthwywch fi.",
+      "transliteration": "Goll-oong ff vord, kin-orth-wee-oo ff ee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T01:02:56.448906"
+    },
+    {
+      "english": "Is anyone there, hearing this?",
+      "welsh": "Oes rhywun yna, yn clywed hyn?",
+      "transliteration": "Oys ree-oon uh-nah, un kloo-ved hin?",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T01:02:56.448907"
     }
   ],
-  "last_updated": "2026-10-05T23:05:37.452540"
+  "last_updated": "2026-10-06T01:02:56.448908"
 }
