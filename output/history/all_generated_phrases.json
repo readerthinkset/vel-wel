@@ -18024,7 +18024,42 @@
       "transliteration": "Ar oyl hin-y, daoo'r dis-ta-rooth.",
       "category": "Time",
       "generated_at": "2026-10-07T21:50:41.125752"
+    },
+    {
+      "english": "A happy greeting, to you.",
+      "welsh": "Cyfarchiad llawen, i ti.",
+      "transliteration": "Cuv-arch-iad hla-wen, ee tee.",
+      "category": "Greetings",
+      "generated_at": "2026-10-07T23:56:39.972539"
+    },
+    {
+      "english": "A good day, begins now.",
+      "welsh": "Dydd da, yn dechrau nawr.",
+      "transliteration": "Dith da, un detch-rau nower.",
+      "category": "Greetings",
+      "generated_at": "2026-10-07T23:56:39.972547"
+    },
+    {
+      "english": "Welcome, come closer.",
+      "welsh": "Croeso, dewch yn nes.",
+      "transliteration": "Croys-o, de-uch un nes.",
+      "category": "Greetings",
+      "generated_at": "2026-10-07T23:56:39.972548"
+    },
+    {
+      "english": "Joyful meeting, for us.",
+      "welsh": "Cwrdd llawen, i ni.",
+      "transliteration": "Cowerth hla-wen, ee nee.",
+      "category": "Greetings",
+      "generated_at": "2026-10-07T23:56:39.972549"
+    },
+    {
+      "english": "Shine brightly, today.",
+      "welsh": "Disglair yn fyw, heddiw.",
+      "transliteration": "Dis-glair un veev, heth-ee-oo.",
+      "category": "Greetings",
+      "generated_at": "2026-10-07T23:56:39.972551"
     }
   ],
-  "last_updated": "2026-10-07T21:50:41.125754"
+  "last_updated": "2026-10-07T23:56:39.972553"
 }
