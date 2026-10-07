@@ -17989,7 +17989,42 @@
       "transliteration": "Lla-wen-ith ur Eist-eth-vod, llen-wee kerd-or-ee-ath.",
       "category": "Culture",
       "generated_at": "2026-10-07T19:52:51.430193"
+    },
+    {
+      "english": "The clock winds down, slowly.",
+      "welsh": "Mae'r cloc yn dirwyn i lawr, yn araf.",
+      "transliteration": "Mae'r cloc yn dir-win i la-oor, yn a-raf.",
+      "category": "Time",
+      "generated_at": "2026-10-07T21:50:41.125740"
+    },
+    {
+      "english": "Soon, the birds will sing.",
+      "welsh": "Yn fuan, cân y fioled.",
+      "transliteration": "Yn foo-an, kaan y vee-o-led.",
+      "category": "Time",
+      "generated_at": "2026-10-07T21:50:41.125748"
+    },
+    {
+      "english": "A long moment, shared.",
+      "welsh": "Eiliad hir, yn rhannu.",
+      "transliteration": "Ay-leed heer, yn ra-hoo.",
+      "category": "Time",
+      "generated_at": "2026-10-07T21:50:41.125749"
+    },
+    {
+      "english": "Now, breathe it in.",
+      "welsh": "Nawr, anadlu'n ddwfn.",
+      "transliteration": "Naoor, a-na-dloo'n doofn.",
+      "category": "Time",
+      "generated_at": "2026-10-07T21:50:41.125751"
+    },
+    {
+      "english": "Afterwards, the quiet settles.",
+      "welsh": "Ar ôl hynny, daw'r distawrwydd.",
+      "transliteration": "Ar oyl hin-y, daoo'r dis-ta-rooth.",
+      "category": "Time",
+      "generated_at": "2026-10-07T21:50:41.125752"
     }
   ],
-  "last_updated": "2026-10-07T19:52:51.430194"
+  "last_updated": "2026-10-07T21:50:41.125754"
 }
