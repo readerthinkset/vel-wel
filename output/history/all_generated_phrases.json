@@ -18059,7 +18059,42 @@
       "transliteration": "Dis-glair un veev, heth-ee-oo.",
       "category": "Greetings",
       "generated_at": "2026-10-07T23:56:39.972551"
+    },
+    {
+      "english": "Light spills, across the floor.",
+      "welsh": "Golau'n treiddio, dros y llawr.",
+      "transliteration": "Go-lie 'n treh-dee-oh, dros uh lhaur.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-08T03:36:36.729744"
+    },
+    {
+      "english": "Another day, beckons me out.",
+      "welsh": "Diwrnod arall, yn fy ngwawdio i allan.",
+      "transliteration": "Dee-ur-nod a-rall, uhn vuh ngwa-dee-oh ee a-lhan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-08T03:36:36.729756"
+    },
+    {
+      "english": "My feet, find the cool rug.",
+      "welsh": "Fy nhraed, yn canfod y ryg cŵl.",
+      "transliteration": "Vuh n-trah-ed, uhn ka-vod uh rug koo-l.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-08T03:36:36.729758"
+    },
+    {
+      "english": "A quiet hum, the house awakes.",
+      "welsh": "Sŵn tawel, mae'r tŷ'n deffro.",
+      "transliteration": "Soo-n ta-wel, mae'r tee'n deff-ro.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-08T03:36:36.729759"
+    },
+    {
+      "english": "Warm water, washes over me.",
+      "welsh": "Dŵr cynnes, yn fy ngolchi i.",
+      "transliteration": "Doo-r kuh-n-nes, uhn vuh ngol-chee ee.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-08T03:36:36.729761"
     }
   ],
-  "last_updated": "2026-10-07T23:56:39.972553"
+  "last_updated": "2026-10-08T03:36:36.729763"
 }
