@@ -18479,7 +18479,42 @@
       "transliteration": "Duh khwer-thin, yoo vuh sahyne hoff.",
       "category": "Friendship",
       "generated_at": "2026-10-10T17:01:58.921880"
+    },
+    {
+      "english": "What's, your finest stew?",
+      "welsh": "Beth, eich stiw gorau?",
+      "transliteration": "Beth, eich stiw gorau?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-10T20:31:20.594865"
+    },
+    {
+      "english": "A hint, of the mountains?",
+      "welsh": "A sôn, o'r mynyddoedd?",
+      "transliteration": "A sôn, o'r mynyddoedd?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-10T20:31:20.594880"
+    },
+    {
+      "english": "May I, try a bite?",
+      "welsh": "Ga i, flasu ychydig?",
+      "transliteration": "Ga i, flasu ychydig?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-10T20:31:20.594882"
+    },
+    {
+      "english": "This aroma, is captivating.",
+      "welsh": "Y persawr yma, yn hudol.",
+      "transliteration": "Uh persawr huma, yn hudol.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-10T20:31:20.594883"
+    },
+    {
+      "english": "A table, for quiet dining?",
+      "welsh": "Bwrdd, i ginio tawel?",
+      "transliteration": "Bwrdd, i ginio tawel?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-10T20:31:20.594885"
     }
   ],
-  "last_updated": "2026-10-10T17:01:58.921881"
+  "last_updated": "2026-10-10T20:31:20.594887"
 }
