@@ -18514,7 +18514,42 @@
       "transliteration": "Bwrdd, i ginio tawel?",
       "category": "Restaurant",
       "generated_at": "2026-10-10T20:31:20.594885"
+    },
+    {
+      "english": "Valley mist, rising gently.",
+      "welsh": "Niwl y dyffryn, yn codi'n dawel.",
+      "transliteration": "Nyeul uh deefreen, uhn kohdee'n dow-el.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-10T23:06:50.679564"
+    },
+    {
+      "english": "River song, flowing onward.",
+      "welsh": "Cân y nant, yn llifo ymlaen.",
+      "transliteration": "Kaan uh nant, uhn llee-vo uhm-line.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-10T23:06:50.679598"
+    },
+    {
+      "english": "Old stone walls, standing strong.",
+      "welsh": "Muriau hen fainc, yn sefyll yn gadarn.",
+      "transliteration": "Meer-eye-o hen vinek, uhn sev-ull uhn gad-arn.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-10T23:06:50.679601"
+    },
+    {
+      "english": "Forest path, calling softly.",
+      "welsh": "Llwybr y goedwig, yn galw'n dyner.",
+      "transliteration": "Hloo-eebruh uh goo-id-wig, uhn gal-voo'n din-er.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-10T23:06:50.679603"
+    },
+    {
+      "english": "Sheep on the hillside, grazing slow.",
+      "welsh": "Defaid ar y lleth, yn pori'n araf.",
+      "transliteration": "Deh-vade ar uhh leth, uhn por-ee'n ar-af.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-10T23:06:50.679604"
     }
   ],
-  "last_updated": "2026-10-10T20:31:20.594887"
+  "last_updated": "2026-10-10T23:06:50.679606"
 }
