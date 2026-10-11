@@ -18654,7 +18654,42 @@
       "transliteration": "cuh-sun-ee-ud weh-deeth-ee dhal... dah yown.",
       "category": "Success",
       "generated_at": "2026-10-11T18:45:54.253820"
+    },
+    {
+      "english": "Listen closely, catch the whisper.",
+      "welsh": "Gwrandewch yn agos, daliwch y sïn.",
+      "transliteration": "Gwr-and-ewch-in-a-gos, dal-i-wch-uh-seen.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T20:50:56.657541"
+    },
+    {
+      "english": "Open your eyes, see the marvel.",
+      "welsh": "Agorwch eich llygaid, gweld y rhyfedd.",
+      "transliteration": "A-gor-wch-eich-luh-gath, gweld-uh-rhe-ved.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T20:50:56.657552"
+    },
+    {
+      "english": "Step forward, embrace the change.",
+      "welsh": "Camwch ymlaen, cofleidiwch y newid.",
+      "transliteration": "Kam-wch-um-lain, co-flay-dee-wch-uh-nay-wid.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T20:50:56.657553"
+    },
+    {
+      "english": "Look around, find the beauty.",
+      "welsh": "Edrychwch o gwmpas, dewch o hyd i'r harddwch.",
+      "transliteration": "Ed-rch-wch-o-gumm-pass, de-wch-o-hith-ee-r-har-duth.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T20:50:56.657554"
+    },
+    {
+      "english": "Think deeply, ponder the meaning.",
+      "welsh": "Meddyliwch yn ddwfn, myfyriwch ar yr ystyr.",
+      "transliteration": "Med-thil-i-wch-in-doovn, muh-vurr-i-wch-ar-ur-uh-stur.",
+      "category": "Directions",
+      "generated_at": "2026-10-11T20:50:56.657555"
     }
   ],
-  "last_updated": "2026-10-11T18:45:54.253822"
+  "last_updated": "2026-10-11T20:50:56.657557"
 }
