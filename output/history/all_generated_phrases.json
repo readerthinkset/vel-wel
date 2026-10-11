@@ -18549,7 +18549,42 @@
       "transliteration": "Deh-vade ar uhh leth, uhn por-ee'n ar-af.",
       "category": "Common Expressions",
       "generated_at": "2026-10-10T23:06:50.679604"
+    },
+    {
+      "english": "Sweet sound, fills the air.",
+      "welsh": "Sŵn melys, yn llenwi'r awyr.",
+      "transliteration": "Soon mel-is, in len-ee'r ow-eer.",
+      "category": "Music",
+      "generated_at": "2026-10-11T02:56:43.097340"
+    },
+    {
+      "english": "A single voice, begins.",
+      "welsh": "Llais unig, yn dechrau.",
+      "transliteration": "Lice oo-nig, in dech-ra.",
+      "category": "Music",
+      "generated_at": "2026-10-11T02:56:43.097352"
+    },
+    {
+      "english": "Drumbeat, a steady pulse.",
+      "welsh": "Cur-drym, cur sefydlog.",
+      "transliteration": "Cur-drum, cur se-ved-log.",
+      "category": "Music",
+      "generated_at": "2026-10-11T02:56:43.097353"
+    },
+    {
+      "english": "Quiet hum, then a swell.",
+      "welsh": "Cynch tawel, wedyn codiad.",
+      "transliteration": "Kinch ta-wel, wed-in co-dee-ad.",
+      "category": "Music",
+      "generated_at": "2026-10-11T02:56:43.097354"
+    },
+    {
+      "english": "Notes climb, like ivy.",
+      "welsh": "Nodau'n dringo, fel eiddew.",
+      "transliteration": "No-da'n drin-go, vel ey-dew.",
+      "category": "Music",
+      "generated_at": "2026-10-11T02:56:43.097355"
     }
   ],
-  "last_updated": "2026-10-10T23:06:50.679606"
+  "last_updated": "2026-10-11T02:56:43.097357"
 }
