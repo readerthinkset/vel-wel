@@ -19424,7 +19424,42 @@
       "transliteration": "Beth, ee dal uh dith?",
       "category": "Restaurant",
       "generated_at": "2026-10-16T02:17:06.248726"
+    },
+    {
+      "english": "The curious otter, dives deep.",
+      "welsh": "Yr oddyn chwilfrydig, yn plymio'n ddwfn.",
+      "transliteration": "Ur odd-in chiv-rul-dig, un plim-ee-o'n dhuv-n.",
+      "category": "Animals",
+      "generated_at": "2026-10-16T16:10:09.976807"
+    },
+    {
+      "english": "A gentle deer, nibbles grass.",
+      "welsh": "Carw cynnil, yn tyfu glaswellt.",
+      "transliteration": "Car-oo cun-nil, un tui-oo glas-velth.",
+      "category": "Animals",
+      "generated_at": "2026-10-16T16:10:09.976819"
+    },
+    {
+      "english": "The playful otter, slides downstream.",
+      "welsh": "Yr oddyn chwareus, yn llithro i lawr yr afon.",
+      "transliteration": "Ur odd-in chwar-ey-us, un llith-ro ee la-oor ur av-on.",
+      "category": "Animals",
+      "generated_at": "2026-10-16T16:10:09.976821"
+    },
+    {
+      "english": "A chirping sparrow, sings a song.",
+      "welsh": "Aderyn prin, yn canu cân.",
+      "transliteration": "Ad-er-in prin, un can-oo caan.",
+      "category": "Animals",
+      "generated_at": "2026-10-16T16:10:09.976823"
+    },
+    {
+      "english": "The sleek seal, swims in the sea.",
+      "welsh": "Morloi esmwyth, yn nofio yn y môr.",
+      "transliteration": "Mor-loi es-mooyth, un nov-ee-o un i mor.",
+      "category": "Animals",
+      "generated_at": "2026-10-16T16:10:09.976824"
     }
   ],
-  "last_updated": "2026-10-16T02:17:06.248728"
+  "last_updated": "2026-10-16T16:10:09.976826"
 }
