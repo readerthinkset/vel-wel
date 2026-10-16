@@ -19389,7 +19389,42 @@
       "transliteration": "Ruh-dim un a-deyl-a-doo, ein bid ein hoon.",
       "category": "Relationships",
       "generated_at": "2026-10-15T22:47:57.794151"
+    },
+    {
+      "english": "This, is a pleasant surprise.",
+      "welsh": "Mae hyn, yn syndod pleserus.",
+      "transliteration": "My hyn, in sun-nod pless-ur-us.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:17:06.248709"
+    },
+    {
+      "english": "May I, have the bill, please?",
+      "welsh": "Ga i, y bil, os gwelwch yn dda?",
+      "transliteration": "Guy ee, uh bil, oss well-ooch in thye?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:17:06.248721"
+    },
+    {
+      "english": "That sauce, is quite exquisite.",
+      "welsh": "Mae'r saws, yn weddol fendigedig.",
+      "transliteration": "My'r saws, in wed-dol ven-dig-ed-ig.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:17:06.248724"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "welsh": "Rydyn ni'n barod, i archebu nawr.",
+      "transliteration": "Rith-un nee'n bar-od, ee arch-eb-oo nower.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:17:06.248725"
+    },
+    {
+      "english": "What's, the catch of the day?",
+      "welsh": "Beth, yw dal y dydd?",
+      "transliteration": "Beth, ee dal uh dith?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:17:06.248726"
     }
   ],
-  "last_updated": "2026-10-15T22:47:57.794153"
+  "last_updated": "2026-10-16T02:17:06.248728"
 }
