@@ -19774,7 +19774,42 @@
       "transliteration": "Hwa-oor dunn-er, ne-weth o-baith in curr-aith.",
       "category": "Inner Peace",
       "generated_at": "2026-10-18T02:09:31.317669"
+    },
+    {
+      "english": "Morning mist, hangs low.",
+      "welsh": "Niwl bore, yn gostwng.",
+      "transliteration": "N-yool bor-eh, yn gos-toong.",
+      "category": "Weather",
+      "generated_at": "2026-10-18T15:27:28.132441"
+    },
+    {
+      "english": "The sun, peeks through.",
+      "welsh": "Yr haul, yn dyrchafu.",
+      "transliteration": "Ur howl, yn dyer-chah-vee.",
+      "category": "Weather",
+      "generated_at": "2026-10-18T15:27:28.132451"
+    },
+    {
+      "english": "A sudden shower, then gone.",
+      "welsh": "Glaw sydyn, wedyn diflannu.",
+      "transliteration": "Glow sood-in, wed-in dif-lan-oo.",
+      "category": "Weather",
+      "generated_at": "2026-10-18T15:27:28.132452"
+    },
+    {
+      "english": "The air, smells of earth.",
+      "welsh": "Yr awyr, yn arogli pridd.",
+      "transliteration": "Ur ow-eer, yn ar-og-lee prid.",
+      "category": "Weather",
+      "generated_at": "2026-10-18T15:27:28.132454"
+    },
+    {
+      "english": "Wind whispers, through the trees.",
+      "welsh": "Gwynt yn susio, trwy'r coed.",
+      "transliteration": "Gwint yn sus-ee-oh, troo'r coyd.",
+      "category": "Weather",
+      "generated_at": "2026-10-18T15:27:28.132455"
     }
   ],
-  "last_updated": "2026-10-18T02:09:31.317671"
+  "last_updated": "2026-10-18T15:27:28.132457"
 }
