@@ -2,11 +2,11 @@ name: VELOCITY WELSH - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '40 12 * * *'
+    - cron: '40 14 * * *'
+    - cron: '40 17 * * *'
+    - cron: '40 20 * * *'
+    - cron: '40 0 * * *'
 
   workflow_dispatch:
 
