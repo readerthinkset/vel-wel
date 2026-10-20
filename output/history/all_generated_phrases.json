@@ -20124,7 +20124,42 @@
       "transliteration": "Ay ween loid-an, gol-ay-od yr us-tav-el.",
       "category": "Body Parts",
       "generated_at": "2026-10-20T17:30:49.795798"
+    },
+    {
+      "english": "Danger unseen, move carefully.",
+      "welsh": "Perygl cudd, symud yn ofalus.",
+      "transliteration": "Per-igl kith-d, sim-ood in off-a-lis.",
+      "category": "Emergency",
+      "generated_at": "2026-10-20T18:44:43.544380"
+    },
+    {
+      "english": "Something's wrong, deeply wrong.",
+      "welsh": "Mae rhywbeth o'i le, yn ddwfn.",
+      "transliteration": "My ree-bith oh-ee lay, in doo-fin.",
+      "category": "Emergency",
+      "generated_at": "2026-10-20T18:44:43.544391"
+    },
+    {
+      "english": "Hold on tight, here we go.",
+      "welsh": "Daliwch yn dynn, dyma ni.",
+      "transliteration": "Dahl-yookh in din, dim-a nee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-20T18:44:43.544392"
+    },
+    {
+      "english": "Is the exit clear, ahead?",
+      "welsh": "Ydy'r allanfa'n glir, o flaen?",
+      "transliteration": "Uth-r al-an-va'n gleer, oh vlayn?",
+      "category": "Emergency",
+      "generated_at": "2026-10-20T18:44:43.544393"
+    },
+    {
+      "english": "A loud crack, overhead.",
+      "welsh": "Swn uchel, uwchben.",
+      "transliteration": "Soon oo-chel, ooch-ben.",
+      "category": "Emergency",
+      "generated_at": "2026-10-20T18:44:43.544393"
     }
   ],
-  "last_updated": "2026-10-20T17:30:49.795800"
+  "last_updated": "2026-10-20T18:44:43.544395"
 }
