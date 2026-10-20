@@ -20194,7 +20194,42 @@
       "transliteration": "Pent-rev bahch ee-own, am-ser in a-ross.",
       "category": "Travel",
       "generated_at": "2026-10-20T20:51:20.638704"
+    },
+    {
+      "english": "Listen well, learn more.",
+      "welsh": "Gwrandewch yn dda, dysgwch fwy.",
+      "transliteration": "Gwr-an-dewch in dha, dis-goch mwee.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T23:23:51.228693"
+    },
+    {
+      "english": "Say it clearly, be understood.",
+      "welsh": "Dywedwch yn glir, byddwch yn ddeall.",
+      "transliteration": "Dwed-wch in glir, bidh-wch in dhyal.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T23:23:51.228703"
+    },
+    {
+      "english": "Read aloud, practice makes perfect.",
+      "welsh": "Darllenwch yn uchel, ymarferiad sy’n berffaith.",
+      "transliteration": "Dar-llen-wch in u-chel, y-mar-fer-iad sin per-fath.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T23:23:51.228705"
+    },
+    {
+      "english": "Write it down, remember it.",
+      "welsh": "Ysgrifennwch ef i lawr, cof iwch ef.",
+      "transliteration": "Us-gri-ven-wch ef ee lauv, cof iwch ef.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T23:23:51.228706"
+    },
+    {
+      "english": "Look it up, find the meaning.",
+      "welsh": "Edrychwch amdano, dewch o hyd i'r ystyr.",
+      "transliteration": "Ed-r-uch-wch am-da-no, dewch o hyd ee'r us-tur.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T23:23:51.228707"
     }
   ],
-  "last_updated": "2026-10-20T20:51:20.638706"
+  "last_updated": "2026-10-20T23:23:51.228709"
 }
