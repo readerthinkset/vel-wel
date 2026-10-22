@@ -20439,7 +20439,42 @@
       "transliteration": "Tor-ree teer, gwr-an-deych.",
       "category": "Success",
       "generated_at": "2026-10-22T05:17:57.235412"
+    },
+    {
+      "english": "Beautifully spoken, truly.",
+      "welsh": "Wedi ei siarad yn hyfryd, wir.",
+      "transliteration": "Wee-dih ee shah-red uhn huh-vrid, weer.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T17:36:57.076853"
+    },
+    {
+      "english": "That rhythm, perfect.",
+      "welsh": "Yn y rhythm hwnnw, perffaith.",
+      "transliteration": "Uhnn uh rith-uhm hun-oo, per-fayth.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T17:36:57.076865"
+    },
+    {
+      "english": "You're shaping it, well done.",
+      "welsh": "Rwyt ti'n ei lunio, da iawn.",
+      "transliteration": "Roo-it tee'n ay lee-nee-oh, dah ee-own.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T17:36:57.076866"
+    },
+    {
+      "english": "A strong consonant, found.",
+      "welsh": "Consonant cryf, wedi'i ganfod.",
+      "transliteration": "Con-son-ant cruff, wee-dih gan-fod.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T17:36:57.076867"
+    },
+    {
+      "english": "Hear the melody, yes.",
+      "welsh": "Clyw'r alaw, ie.",
+      "transliteration": "Cluh-vuh al-ah-vee, ee-eh.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T17:36:57.076867"
     }
   ],
-  "last_updated": "2026-10-22T05:17:57.235414"
+  "last_updated": "2026-10-22T17:36:57.076869"
 }
