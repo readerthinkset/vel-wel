@@ -20684,7 +20684,42 @@
       "transliteration": "Ched-dar suh-dun, uhn weer.",
       "category": "Food",
       "generated_at": "2026-10-23T18:43:36.014393"
+    },
+    {
+      "english": "This flavour, is new to me.",
+      "welsh": "Y blas yma, mae'n newydd i mi.",
+      "transliteration": "Uh vlass uh-ma, mae'n neh-vooth ee mee.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T20:38:24.922717"
+    },
+    {
+      "english": "A gentle spice, perhaps?",
+      "welsh": "Sbeis ysgafn, efallai?",
+      "transliteration": "Speece uhs-gahvn, eh-fal-eye?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T20:38:24.922728"
+    },
+    {
+      "english": "Could I have, some water, please?",
+      "welsh": "Ga i, ychydig o ddŵr, os gwelwch chi?",
+      "transliteration": "Gah ee, uh-khid-ig oh thoor, os gwell-ukh khee?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T20:38:24.922731"
+    },
+    {
+      "english": "What’s special, today?",
+      "welsh": "Beth sydd, arbennig, heddiw?",
+      "transliteration": "Beth sidh, ar-ben-ig, heth-ee-oo?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T20:38:24.922732"
+    },
+    {
+      "english": "This feels, very authentic.",
+      "welsh": "Mae hyn, yn teimlo'n ddilys iawn.",
+      "transliteration": "Mae huyn, uhn time-lon dhil-is yown.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T20:38:24.922733"
     }
   ],
-  "last_updated": "2026-10-23T18:43:36.014395"
+  "last_updated": "2026-10-23T20:38:24.922735"
 }
