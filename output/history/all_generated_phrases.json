@@ -20719,7 +20719,42 @@
       "transliteration": "Mae huyn, uhn time-lon dhil-is yown.",
       "category": "Restaurant",
       "generated_at": "2026-10-23T20:38:24.922733"
+    },
+    {
+      "english": "A lone flute, calls out.",
+      "welsh": "Unawd ffliwt, yn galw.",
+      "transliteration": "Uh-nawd ffloot, uhn ga-luh.",
+      "category": "Music",
+      "generated_at": "2026-10-23T23:29:11.501242"
+    },
+    {
+      "english": "The piano, whispers secrets.",
+      "welsh": "Y pianô, yn sibrwd cyfrinachau.",
+      "transliteration": "Uh pee-ah-noh, uhn sib-rud kuh-vree-nah-khai.",
+      "category": "Music",
+      "generated_at": "2026-10-23T23:29:11.501250"
+    },
+    {
+      "english": "A sudden drum, beat.",
+      "welsh": "Tympan sydyn, curiad.",
+      "transliteration": "Tuhm-pahn suh-dun, kur-ee-ad.",
+      "category": "Music",
+      "generated_at": "2026-10-23T23:29:11.501252"
+    },
+    {
+      "english": "Guitar strings, shimmer brightly.",
+      "welsh": "Tôn gitâr, yn disgleirio'n fywiog.",
+      "transliteration": "Tohn git-ar, uhn dis-gly-ree-on fuh-vee-og.",
+      "category": "Music",
+      "generated_at": "2026-10-23T23:29:11.501253"
+    },
+    {
+      "english": "Violins weep, a gentle sorrow.",
+      "welsh": "Ffidlau'n wylo, tristwch cynnil.",
+      "transliteration": "Ffid-lai-on wuh-lo, tris-tukh kuhn-nil.",
+      "category": "Music",
+      "generated_at": "2026-10-23T23:29:11.501255"
     }
   ],
-  "last_updated": "2026-10-23T20:38:24.922735"
+  "last_updated": "2026-10-23T23:29:11.501256"
 }
