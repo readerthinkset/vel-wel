@@ -20754,7 +20754,42 @@
       "transliteration": "Ffid-lai-on wuh-lo, tris-tukh kuhn-nil.",
       "category": "Music",
       "generated_at": "2026-10-23T23:29:11.501255"
+    },
+    {
+      "english": "A robin sings, in the hedge.",
+      "welsh": "Aderyn meibion, yn yr ysgubor.",
+      "transliteration": "Ah-deh-rin mayb-ee-on, un yrr us-goo-bor.",
+      "category": "Nature",
+      "generated_at": "2026-10-24T04:58:35.381134"
+    },
+    {
+      "english": "The grass grows, long and green.",
+      "welsh": "Y glaswellt yn tyfu, yn hir a gwyrdd.",
+      "transliteration": "Uh glahs-welt un tih-voo, un heer ah gwirrh.",
+      "category": "Nature",
+      "generated_at": "2026-10-24T04:58:35.381146"
+    },
+    {
+      "english": "A busy bee, seeks nectar.",
+      "welsh": "Gwenynen brysur, yn chwilio neithdar.",
+      "transliteration": "Gwen-in-en bruss-ir, un chwil-ee-oh nayth-dar.",
+      "category": "Nature",
+      "generated_at": "2026-10-24T04:58:35.381147"
+    },
+    {
+      "english": "The earth smells, after rain.",
+      "welsh": "Y ddaear yn arogli, ar ôl glaw.",
+      "transliteration": "Uh dai-ar un ah-rog-lee, ar ohl glaw.",
+      "category": "Nature",
+      "generated_at": "2026-10-24T04:58:35.381149"
+    },
+    {
+      "english": "A butterfly flutters, on the flower.",
+      "welsh": "Broga bychan, yn hedeg ar y blodyn.",
+      "transliteration": "Bro-ga bich-an, un heh-deg ar uh blod-in.",
+      "category": "Nature",
+      "generated_at": "2026-10-24T04:58:35.381150"
     }
   ],
-  "last_updated": "2026-10-23T23:29:11.501256"
+  "last_updated": "2026-10-24T04:58:35.381152"
 }
