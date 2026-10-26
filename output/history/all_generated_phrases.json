@@ -21209,7 +21209,42 @@
       "transliteration": "Ay boch, in rhwist-roh ah sa-rrug.",
       "category": "Body Parts",
       "generated_at": "2026-10-26T20:09:50.825461"
+    },
+    {
+      "english": "Listen, catch the melody.",
+      "welsh": "Gwrandewch, daliwch y dôn.",
+      "transliteration": "Gwrandewch, dalee-khuh uh dohn.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T21:56:49.424794"
+    },
+    {
+      "english": "Imagine, build a world.",
+      "welsh": "Dychmygwch, adeiladwch fyd.",
+      "transliteration": "Duh-chmugg-ukh, ad-eilad-ukh vud.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T21:56:49.424801"
+    },
+    {
+      "english": "Try this, learn faster.",
+      "welsh": "Rhowch gynnig ar hyn, dysgwch yn gynt.",
+      "transliteration": "Roh-kh gunn-igg arr hurn, diss-ukh unn gunt.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T21:56:49.424803"
+    },
+    {
+      "english": "Speak out, share your thoughts.",
+      "welsh": "Dywedwch yn uchel, rhannwch eich syniadau.",
+      "transliteration": "Duh-wed-ukh unn oo-chel, rhan-nukh eich sunn-ee-ad-oo.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T21:56:49.424804"
+    },
+    {
+      "english": "Read this, understand more.",
+      "welsh": "Darllenwch hyn, deallwch yn well.",
+      "transliteration": "Dar-llen-ukh hurn, de-al-lukh unn well.",
+      "category": "Directions",
+      "generated_at": "2026-10-26T21:56:49.424805"
     }
   ],
-  "last_updated": "2026-10-26T20:09:50.825462"
+  "last_updated": "2026-10-26T21:56:49.424807"
 }
