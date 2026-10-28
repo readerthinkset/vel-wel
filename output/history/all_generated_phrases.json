@@ -21419,7 +21419,42 @@
       "transliteration": "Uh go-lau cunn-tav, ar vigh oo-neb.",
       "category": "Daily Routine",
       "generated_at": "2026-10-27T21:28:58.740351"
+    },
+    {
+      "english": "Danger ahead, stop now.",
+      "welsh": "Perygl o flaen, arhoswch nawr.",
+      "transliteration": "Per-ig-ul oh vlain, ar-hos-wch n-owr.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:59:40.549303"
+    },
+    {
+      "english": "The way is gone, lost.",
+      "welsh": "Mae'r ffordd wedi diflannu, ar goll.",
+      "transliteration": "Mighr fford ee-dhee dif-lan-ee, ar goll.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:59:40.549313"
+    },
+    {
+      "english": "Sound is fading, call out.",
+      "welsh": "Mae'r swn yn pylu, gwaeddwch allan.",
+      "transliteration": "Mighr s-oon un pil-ee, gwai-d-wch ath-lan.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:59:40.549315"
+    },
+    {
+      "english": "Sky is darkening, quickly.",
+      "welsh": "Mae'r awyr yn troi'n dywyll, yn gyflym.",
+      "transliteration": "Mighr ai-ur un troi'n du-will, un cun-flim.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:59:40.549316"
+    },
+    {
+      "english": "My breathing, is shallow.",
+      "welsh": "Mae fy anadl, yn denau.",
+      "transliteration": "Migh fy an-adl, un den-ai.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T23:59:40.549317"
     }
   ],
-  "last_updated": "2026-10-27T21:28:58.740353"
+  "last_updated": "2026-10-27T23:59:40.549319"
 }
