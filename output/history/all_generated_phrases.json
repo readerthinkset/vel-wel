@@ -21804,7 +21804,42 @@
       "transliteration": "Can-ol-bin-tee-o, a bid-hukh wyn dis-goo.",
       "category": "Perseverance",
       "generated_at": "2026-10-30T18:11:46.163818"
+    },
+    {
+      "english": "The old clock, it chimes.",
+      "welsh": "Yr hen gloc, mae'n canu.",
+      "transliteration": "Ur hen gloc, mae-n canu.",
+      "category": "Time",
+      "generated_at": "2026-10-30T19:42:12.960370"
+    },
+    {
+      "english": "A quick glance, then go.",
+      "welsh": "Edrych sydyn, wedyn ewch.",
+      "transliteration": "Edrych sud-in, wed-in ewch.",
+      "category": "Time",
+      "generated_at": "2026-10-30T19:42:12.960383"
+    },
+    {
+      "english": "Before the rain, we hurry.",
+      "welsh": "Cyn y glaw, rydyn ni'n rhuthro.",
+      "transliteration": "Cun y glaw, ryd-un ni-n ruth-ro.",
+      "category": "Time",
+      "generated_at": "2026-10-30T19:42:12.960385"
+    },
+    {
+      "english": "During the quiet, we think.",
+      "welsh": "Yn ystod y distawrwydd, meddylwn.",
+      "transliteration": "Un stod y dist-awr-wydd, med-dyl-un.",
+      "category": "Time",
+      "generated_at": "2026-10-30T19:42:12.960387"
+    },
+    {
+      "english": "After the lesson, we practice.",
+      "welsh": "Ar ôl y wers, ymarferwn.",
+      "transliteration": "Ar oyl y wers, ymarfer-un.",
+      "category": "Time",
+      "generated_at": "2026-10-30T19:42:12.960388"
     }
   ],
-  "last_updated": "2026-10-30T18:11:46.163820"
+  "last_updated": "2026-10-30T19:42:12.960390"
 }
