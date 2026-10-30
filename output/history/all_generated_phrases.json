@@ -21839,7 +21839,42 @@
       "transliteration": "Ar oyl y wers, ymarfer-un.",
       "category": "Time",
       "generated_at": "2026-10-30T19:42:12.960388"
+    },
+    {
+      "english": "That Welsh, rings so true.",
+      "welsh": "Mae'r Gymraeg honno, yn swnio mor wir.",
+      "transliteration": "Myr-rhuhm-raig hon-ho, un soon-io mor wir.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T21:41:53.799822"
+    },
+    {
+      "english": "A lovely lilt, you have.",
+      "welsh": "Godiant, sydd gennyt ti.",
+      "transliteration": "God-ee-ant, siz gen-it tee.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T21:41:53.799831"
+    },
+    {
+      "english": "Your accent, a joy.",
+      "welsh": "Dy acen, yn llawenydd.",
+      "transliteration": "Duh ah-ken, un lhow-en-ith.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T21:41:53.799833"
+    },
+    {
+      "english": "Such clear Welsh, indeed.",
+      "welsh": "Cymraeg mor glir, wirioneddol.",
+      "transliteration": "Cum-raig mor gleer, wir-ee-on-dull.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T21:41:53.799835"
+    },
+    {
+      "english": "That phrase, found its home.",
+      "welsh": "Ymadrodd hwnnw, a gafodd ei le.",
+      "transliteration": "Um-ah-droth hun-no, ah gath-od ay lay.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T21:41:53.799836"
     }
   ],
-  "last_updated": "2026-10-30T19:42:12.960390"
+  "last_updated": "2026-10-30T21:41:53.799838"
 }
