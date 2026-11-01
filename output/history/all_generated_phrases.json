@@ -22224,7 +22224,42 @@
       "transliteration": "Gwint in kar-i-o, sein-i-ai pell.",
       "category": "Weather",
       "generated_at": "2026-11-01T21:23:27.241108"
+    },
+    {
+      "english": "Follow the stream, to the sea.",
+      "welsh": "Dilyn y nant, i'r môr.",
+      "transliteration": "Dilyn y nant, ee'r moar.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T23:53:02.071087"
+    },
+    {
+      "english": "Find the rhythm, move your hands.",
+      "welsh": "Dewch o hyd i'r rhythm, symudwch eich dwylo.",
+      "transliteration": "Deu-ch o had ee'r rhythm, simood-uch eich doo-ee-lo.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T23:53:02.071098"
+    },
+    {
+      "english": "Grasp the concept, hold it tight.",
+      "welsh": "Cydiwch yn y syniad, daliwch yn dynn.",
+      "transliteration": "Kud-ee-wch yn y sin-iad, dal-ee-wch yn dunn.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T23:53:02.071100"
+    },
+    {
+      "english": "Unravel the mystery, bit by bit.",
+      "welsh": "Datodwch y dirgelwch, ychydig ar y tro.",
+      "transliteration": "Dat-od-uch y dir-gel-ooch, u-chid-ig ar y tro.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T23:53:02.071102"
+    },
+    {
+      "english": "Chasing the echo, back to the start.",
+      "welsh": "Esgusodwch yr adlais, yn ôl i'r dechrau.",
+      "transliteration": "Es-guss-od-ooch yr ad-lays, yn oal ee'r de-chrau.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T23:53:02.071103"
     }
   ],
-  "last_updated": "2026-11-01T21:23:27.241109"
+  "last_updated": "2026-11-01T23:53:02.071105"
 }
