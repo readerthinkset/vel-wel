@@ -22329,7 +22329,42 @@
       "transliteration": "Hoo-nahn-FOD-lon-ROOITH, LLAHNw TUNK-er, in GOL-chi.",
       "category": "Joy",
       "generated_at": "2026-11-02T21:55:44.189597"
+    },
+    {
+      "english": "What's the main, speciality?",
+      "welsh": "Beth ydy'r, brif arbenigedd?",
+      "transliteration": "Beth u'd-ur, breev ar-ben-ig-edd?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-02T22:54:05.205260"
+    },
+    {
+      "english": "A lighter, evening meal?",
+      "welsh": "Pryd ysgafnach, gyda'r nos?",
+      "transliteration": "Prid ysg-af-nach, guh-dur nos?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-02T22:54:05.205275"
+    },
+    {
+      "english": "Tell me, about the specials.",
+      "welsh": "Dywed wrthyf, am y pethau arbennig.",
+      "transliteration": "Duv-ed ur-thif, am uh pyth-ay ar-ben-ig.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-02T22:54:05.205276"
+    },
+    {
+      "english": "This wine, is it local?",
+      "welsh": "Y gwin yma, ydy o leol?",
+      "transliteration": "Uh gwin y-ma, u-dee oh lay-ol?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-02T22:54:05.205277"
+    },
+    {
+      "english": "A vegetarian, option, please?",
+      "welsh": "Opsiwn llysieuol, os gwelwch yn dda?",
+      "transliteration": "Op-shoon lhis-ay-ol, os guel-ooch un dda?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-02T22:54:05.205279"
     }
   ],
-  "last_updated": "2026-11-02T21:55:44.189599"
+  "last_updated": "2026-11-02T22:54:05.205281"
 }
