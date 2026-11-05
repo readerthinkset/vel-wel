@@ -22819,7 +22819,42 @@
       "transliteration": "Pum sbarc, yn deffro dy ddewrder.",
       "category": "Numbers",
       "generated_at": "2026-11-05T07:19:33.688536"
+    },
+    {
+      "english": "Swift swan, glides across the lake.",
+      "welsh": "Jwerys cyflym, yn llithro dros y llyn.",
+      "transliteration": "Jwerys cyflym, yn llithro dros y llyn",
+      "category": "Animals",
+      "generated_at": "2026-11-05T20:16:09.213816"
+    },
+    {
+      "english": "Rusty fox, listens, then slips into the reeds.",
+      "welsh": "Ffoks rhydlyd, yn gwrando, yna llithro i'r hesg.",
+      "transliteration": "Ffoks rhydlyd, yn gwrando, yna llithro i'r hesg",
+      "category": "Animals",
+      "generated_at": "2026-11-05T20:16:09.213832"
+    },
+    {
+      "english": "Brave boar, noses the ground, then trots on.",
+      "welsh": "Gwartheg ymladd, yn trwynio'r ddaear, yna trottio ymlaen.",
+      "transliteration": "Gwartheg ymladd, yn trwynio'r ddaear, yna trottio ymlaen",
+      "category": "Animals",
+      "generated_at": "2026-11-05T20:16:09.213833"
+    },
+    {
+      "english": "Tiger cub, blinks slowly, then pounces playfully.",
+      "welsh": "Ciw teigr, yn blincio'n araf, yna'n ymosod yn chwareus.",
+      "transliteration": "Ciw teigr, yn blincio'n araf, yna'n ymosod yn chwareus",
+      "category": "Animals",
+      "generated_at": "2026-11-05T20:16:09.213835"
+    },
+    {
+      "english": "Kingfisher, dives, sparks flash near the water.",
+      "welsh": "Gwas y frân, yn plymio, mae disgleiriau ger y dŵr.",
+      "transliteration": "Gwas y frân, yn plymio, mae disgleiriau ger y dŵr",
+      "category": "Animals",
+      "generated_at": "2026-11-05T20:16:09.213836"
     }
   ],
-  "last_updated": "2026-11-05T07:19:33.688538"
+  "last_updated": "2026-11-05T20:16:09.213837"
 }
