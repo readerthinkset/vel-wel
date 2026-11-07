@@ -23169,7 +23169,42 @@
       "transliteration": "Mae hwn yn edrych yn iawn, ar gyfer gwisgo bob dydd.",
       "category": "Shopping",
       "generated_at": "2026-11-07T06:31:11.034377"
+    },
+    {
+      "english": "Hello, glad you’re here, take a seat.",
+      "welsh": "Helo, falch eich bod yma, eisteddwch i lawr.",
+      "transliteration": "Helo, falch eich bod yma, eisteddwch i lawr.",
+      "category": "Greetings",
+      "generated_at": "2026-11-07T17:51:56.410748"
+    },
+    {
+      "english": "Hi there, come closer, let’s greet together.",
+      "welsh": "Helo, dewch yn nes, gadewch i ni gyfarch.",
+      "transliteration": "Helo, dewch yn nes, gadewch i ni gyfarch.",
+      "category": "Greetings",
+      "generated_at": "2026-11-07T17:51:56.410762"
+    },
+    {
+      "english": "Good to see you, warm welcome, today.",
+      "welsh": "Da gweld chi, croeso cynnes, heddiw.",
+      "transliteration": "Da gweld chi, croeso cynnes, heddiw.",
+      "category": "Greetings",
+      "generated_at": "2026-11-07T17:51:56.410764"
+    },
+    {
+      "english": "Hey friend, how’s your day going, then?",
+      "welsh": "Hei ffrind, sut mae eich diwrnod, wedyn?",
+      "transliteration": "Hei ffrind, sut mae eich diwrnod, wedyn?",
+      "category": "Greetings",
+      "generated_at": "2026-11-07T17:51:56.410766"
+    },
+    {
+      "english": "Welcome in, breathe easy, enjoy the moment.",
+      "welsh": "Croeso i mewn, anadlu’n rhwydd, mwynhewch y foment.",
+      "transliteration": "Croeso i mewn, anadlu’n rhwydd, mwynhewch y foment.",
+      "category": "Greetings",
+      "generated_at": "2026-11-07T17:51:56.410768"
     }
   ],
-  "last_updated": "2026-11-07T06:31:11.034378"
+  "last_updated": "2026-11-07T17:51:56.410770"
 }
