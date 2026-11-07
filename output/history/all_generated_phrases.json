@@ -23134,7 +23134,42 @@
       "transliteration": "Troi cwestiynau'n atebion, yn Gymraeg",
       "category": "Purpose",
       "generated_at": "2026-11-07T00:19:00.919050"
+    },
+    {
+      "english": "Where can I pay, please, at the counter?",
+      "welsh": "Ble alla i dalu, os gwelwch yn dda, wrth y cownter?",
+      "transliteration": "Ble alla i dalu, os gwelwch yn dda, wrth y cownter?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T06:31:11.034361"
+    },
+    {
+      "english": "Do you have this in, navy blue?",
+      "welsh": "Oes gennych chi hwn, mewn glas llynges?",
+      "transliteration": "Oes gennych chi hwn, mewn glas llynges?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T06:31:11.034372"
+    },
+    {
+      "english": "Could I see it, in person?",
+      "welsh": " A allaf ei weld, wyneb yn wyneb?",
+      "transliteration": "A allaf ei weld, wyneb yn wyneb?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T06:31:11.034374"
+    },
+    {
+      "english": "Is there a sale, today, on shoes?",
+      "welsh": "Oes yna ostyngiad, heddiw, ar esgidiau?",
+      "transliteration": "Oes yna ostyngiad, heddiw, ar esgidiau?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T06:31:11.034375"
+    },
+    {
+      "english": "This one looks right, for everyday wear.",
+      "welsh": "Mae hwn yn edrych yn iawn, ar gyfer gwisgo bob dydd.",
+      "transliteration": "Mae hwn yn edrych yn iawn, ar gyfer gwisgo bob dydd.",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T06:31:11.034377"
     }
   ],
-  "last_updated": "2026-11-07T00:19:00.919052"
+  "last_updated": "2026-11-07T06:31:11.034378"
 }
