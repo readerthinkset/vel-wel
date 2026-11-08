@@ -23379,7 +23379,42 @@
       "transliteration": "Camau araf, calon dawel, ffocws sefydlog.",
       "category": "Inner Peace",
       "generated_at": "2026-11-08T18:04:47.553469"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "welsh": "Ble mae'r stop bws, os gwelwch yn dda?",
+      "transliteration": "Ble mae'r stop bws, os gwelwch yn dda?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T19:09:14.255192"
+    },
+    {
+      "english": "I need directions, to the station.",
+      "welsh": "Mae angen cyfarwyddiadau arnaf, i'r orsaf.",
+      "transliteration": "Mae angen cyfarwyddiadau arnaf, i'r orsaf.",
+      "category": "Travel",
+      "generated_at": "2026-11-08T19:09:14.255205"
+    },
+    {
+      "english": "How much is a day pass, please?",
+      "welsh": "Faint yw tocyn diwrnod, os gwelwch yn dda?",
+      "transliteration": "Faint yw tocyn diwrnod, os gwelwch yn dda?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T19:09:14.255206"
+    },
+    {
+      "english": "Is there a beach nearby, right now?",
+      "welsh": "A oes traeth gerllaw, nawr?",
+      "transliteration": "A oes traeth gerllaw, nawr?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T19:09:14.255207"
+    },
+    {
+      "english": "Could I have water, please?",
+      "welsh": "A allaf gael dŵr, os gwelwch yn dda?",
+      "transliteration": "A allaf gael dŵr, os gwelwch yn dda?",
+      "category": "Travel",
+      "generated_at": "2026-11-08T19:09:14.255209"
     }
   ],
-  "last_updated": "2026-11-08T18:04:47.553470"
+  "last_updated": "2026-11-08T19:09:14.255210"
 }
