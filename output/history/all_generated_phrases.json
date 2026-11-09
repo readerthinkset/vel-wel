@@ -23519,7 +23519,42 @@
       "transliteration": "Ceisiwch eto, mae mân newidiadau’n meithrin hyder",
       "category": "Confidence",
       "generated_at": "2026-11-09T07:07:21.009607"
+    },
+    {
+      "english": "My shoulder, feels heavy today, please rest it.",
+      "welsh": "Mae fy ysgwydd, yn teimlo'n drwm heddiw, plîs gorffwysi.",
+      "transliteration": "Mae fy ysgwydd, yn teimlo'n drwm heddiw, plis gorffwysi.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-09T22:41:39.378489"
+    },
+    {
+      "english": "Your neck, aches a little, after that long drive.",
+      "welsh": "Mae dy wddf, yn brifo ychydig, ar ôl y daith hir.",
+      "transliteration": "Mae dy wddf, yn brifo ychydig, ar ôl y daith hir.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-09T22:41:39.378502"
+    },
+    {
+      "english": "His wrist, clicks softly, when he turns his hand.",
+      "welsh": "Mae ei arddwrn, yn clicio'n feddal, wrth droi ei law.",
+      "transliteration": "Mae ei arddwrn, yn clicio'n feddal, wrth droi ei law.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-09T22:41:39.378504"
+    },
+    {
+      "english": "My knuckles, sting a bit, from the rough work.",
+      "welsh": "Mae fy nysedd ar y cyd, yn pigo ychydig, o'r gwaith bras.",
+      "transliteration": "Mae fy nysedd ar y cyd, yn pigo ychydig, o'r gwaith bras.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-09T22:41:39.378505"
+    },
+    {
+      "english": "Your palm, feels sticky, did you touch glue?",
+      "welsh": "Mae dy gledr, yn teimlo'n ludiog, wnaethoch chi gyffwrdd â glud?",
+      "transliteration": "Mae dy gledr, yn teimlo'n ludiog, wnaethoch chi gyffwrdd â glud?",
+      "category": "Body Parts",
+      "generated_at": "2026-11-09T22:41:39.378506"
     }
   ],
-  "last_updated": "2026-11-09T07:07:21.009608"
+  "last_updated": "2026-11-09T22:41:39.378508"
 }
