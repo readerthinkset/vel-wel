@@ -23659,7 +23659,42 @@
       "transliteration": "Creu un frawddeg, gwirio hi, anadlu.",
       "category": "Education",
       "generated_at": "2026-11-10T02:55:47.227971"
+    },
+    {
+      "english": "It’s drizzling, then stopping, all at once.",
+      "welsh": "Mae hi’n tasgu, yna’n stopio, ar unwaith.",
+      "transliteration": "Mae hi’n tasgu, yna’n stopio, ar unwaith.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T08:03:12.908319"
+    },
+    {
+      "english": "The rain taps, then moves on quickly.",
+      "welsh": "Mae’r glaw yn tapio, yna’n symud ymlaen yn gyflym.",
+      "transliteration": "Mae’r glaw yn tapio, yna’n symud ymlaen yn gyflym.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T08:03:12.908329"
+    },
+    {
+      "english": "Fog clings close, hiding the far road.",
+      "welsh": "Mae’r niwl yn glynu, gan guddio’r ffordd bell.",
+      "transliteration": "Mae’r niwl yn glynu, gan guddio’r ffordd bell.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T08:03:12.908331"
+    },
+    {
+      "english": "The river glitters, under a passing cloud.",
+      "welsh": "Mae’r afon yn disgleirio, dan gwmwl sy’n mynd heibio.",
+      "transliteration": "Mae’r afon yn disgleirio, dan gwmwl sy’n mynd heibio.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T08:03:12.908332"
+    },
+    {
+      "english": "A cold front arrives, feelings turn sharp.",
+      "welsh": "Mae’r gwynt oer yn cyrraedd, mae’r teimladau’n finiog.",
+      "transliteration": "Mae’r gwynt oer yn cyrraedd, mae’r teimladau’n finiog.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T08:03:12.908333"
     }
   ],
-  "last_updated": "2026-11-10T02:55:47.227973"
+  "last_updated": "2026-11-10T08:03:12.908335"
 }
