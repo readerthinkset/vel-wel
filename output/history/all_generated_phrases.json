@@ -23764,7 +23764,42 @@
       "transliteration": "Anadla i mewn, gollwng y pryderon.",
       "category": "Positive Life",
       "generated_at": "2026-11-10T18:57:55.254606"
+    },
+    {
+      "english": "A calm cat, curls up quietly.",
+      "welsh": "Cath dawel, yn crynhoi’n dawel.",
+      "transliteration": "kat daw-eel, yn crynhoi’n dawel",
+      "category": "Animals",
+      "generated_at": "2026-11-10T20:42:59.778421"
+    },
+    {
+      "english": "A hungry dog, waits by the door.",
+      "welsh": "Ci llwglyd, yn aros wrth y drws.",
+      "transliteration": "ki l-lwg-lid, yn aros wrth y drws",
+      "category": "Animals",
+      "generated_at": "2026-11-10T20:42:59.778437"
+    },
+    {
+      "english": "A bright goldfish, circles the bowl.",
+      "welsh": "Pysgodyn aur llachar, yn cylchdroi’r bowlen.",
+      "transliteration": "pysgodyn aur l-lachar, yn cylchdroi’r bowlen",
+      "category": "Animals",
+      "generated_at": "2026-11-10T20:42:59.778439"
+    },
+    {
+      "english": "A clever squirrel, hides nuts in bark.",
+      "welsh": "Gwiwer clyfar, yn cuddio cnau yn y rhisgl.",
+      "transliteration": "gwiawr kl-yfar, yn cuddio cnau yn y rhisgl",
+      "category": "Animals",
+      "generated_at": "2026-11-10T20:42:59.778441"
+    },
+    {
+      "english": "A gentle rabbit, hops through the grass.",
+      "welsh": "Cwningen dyner, yn llamu trwy’r glaswellt.",
+      "transliteration": "kwi-nien d-yner, yn llamu trwy’r glaswellt",
+      "category": "Animals",
+      "generated_at": "2026-11-10T20:42:59.778443"
     }
   ],
-  "last_updated": "2026-11-10T18:57:55.254608"
+  "last_updated": "2026-11-10T20:42:59.778445"
 }
