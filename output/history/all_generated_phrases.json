@@ -23869,7 +23869,42 @@
       "transliteration": "gad ir mEDdwl arafir",
       "category": "Balance",
       "generated_at": "2026-11-11T00:25:48.673692"
+    },
+    {
+      "english": "Can I have the menu, please?",
+      "welsh": "Ga i gael y fwydlen, os gwelwch yn dda?",
+      "transliteration": "ga i gael y fwydlen, os gwelwch yn dda?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T05:52:16.547955"
+    },
+    {
+      "english": "How spicy is this dish?",
+      "welsh": "Pa mor sbeislyd yw'r pryd hwn?",
+      "transliteration": "pa mor sbeislyd yw'r pryd hwn?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T05:52:16.547970"
+    },
+    {
+      "english": "Is there anything gluten-free?",
+      "welsh": "Oes unrhyw beth heb glwten?",
+      "transliteration": "oes unrhyw beth heb glwten?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T05:52:16.547972"
+    },
+    {
+      "english": "Do you have a children's menu?",
+      "welsh": "Oes gennych fwydlen i blant?",
+      "transliteration": "oes gennych fwydlen i blant?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T05:52:16.547974"
+    },
+    {
+      "english": "I’m ready to order now, thanks.",
+      "welsh": "Rwy’n barod i archebu nawr, diolch.",
+      "transliteration": "rwy’n barod i archebu nawr, diolch.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T05:52:16.547976"
     }
   ],
-  "last_updated": "2026-11-11T00:25:48.673694"
+  "last_updated": "2026-11-11T05:52:16.547978"
 }
