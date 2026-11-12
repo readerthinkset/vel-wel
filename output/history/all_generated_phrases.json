@@ -24079,7 +24079,42 @@
       "transliteration": "Gall y-fori eich syn-nu, mewn f-fyrdd da",
       "category": "Hope",
       "generated_at": "2026-11-12T06:57:00.403432"
+    },
+    {
+      "english": "My phone buzzes, I check the message.",
+      "welsh": "Mae fy ffôn yn dirgrynu, dw i'n edrych.",
+      "transliteration": "Mae fy ffôn yn dirgrynu, dw i'n edrych.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:15:56.764028"
+    },
+    {
+      "english": "Turn on Wi‑Fi, then we sync.",
+      "welsh": "Trowch Wi‑Fi ymlaen, wedyn rydyn ni'n cydamseru.",
+      "transliteration": "Trowch Wi‑Fi ymlaen, wedyn rydyn ni'n cydamseru.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:15:56.764044"
+    },
+    {
+      "english": "I back up photos, just in case.",
+      "welsh": "Dw i'n gwneud copi wrth gefn o luniau, rhag ofn.",
+      "transliteration": "Dw i'n gwneud copi wrth gefn o luniau, rhag ofn.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:15:56.764047"
+    },
+    {
+      "english": "That app loads fast, it feels smooth.",
+      "welsh": "Mae'r app yna'n llwytho'n gyflym, mae'n llyfn.",
+      "transliteration": "Mae'r app yna'n llwytho'n gyflym, mae'n llyfn.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:15:56.764048"
+    },
+    {
+      "english": "Log in now, your account is ready.",
+      "welsh": "Mewngofnodwch nawr, mae'ch cyfrif yn barod.",
+      "transliteration": "Mewngofnodwch nawr, mae'ch cyfrif yn barod.",
+      "category": "Technology",
+      "generated_at": "2026-11-12T19:15:56.764050"
     }
   ],
-  "last_updated": "2026-11-12T06:57:00.403436"
+  "last_updated": "2026-11-12T19:15:56.764052"
 }
