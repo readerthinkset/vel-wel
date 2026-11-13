@@ -24324,7 +24324,42 @@
       "transliteration": "gofyn-noch gwestiwn, a dysgwch yn gyflym",
       "category": "Growth",
       "generated_at": "2026-11-13T20:45:50.071498"
+    },
+    {
+      "english": "Hi, how are you today?",
+      "welsh": "Helo, sut wyt ti heddiw?",
+      "transliteration": "he-lo, sut wyt ti heddiw",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:26:06.139156"
+    },
+    {
+      "english": "Good morning, hope you're well.",
+      "welsh": "Bore da, gobeithio dy fod yn iawn.",
+      "transliteration": "bo-re daa, go-beithio dy bod yn iawn",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:26:06.139169"
+    },
+    {
+      "english": "Good evening, it's nice to see you.",
+      "welsh": "Noswaith dda, mae'n braf dy weld.",
+      "transliteration": "nos-wai-th dda, mae'n braf dy weld",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:26:06.139172"
+    },
+    {
+      "english": "Thanks so much, I really appreciate it.",
+      "welsh": "Diolch yn fawr, dw i wir yn gwerthfawrogi.",
+      "transliteration": "diolch yn far, dw i wir yn gwerthfawrogi",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:26:06.139173"
+    },
+    {
+      "english": "You're welcome, anytime.",
+      "welsh": "Croeso, unrhyw bryd.",
+      "transliteration": "cro-e-so, a-nia-wn bryd",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T22:26:06.139175"
     }
   ],
-  "last_updated": "2026-11-13T20:45:50.071499"
+  "last_updated": "2026-11-13T22:26:06.139177"
 }
