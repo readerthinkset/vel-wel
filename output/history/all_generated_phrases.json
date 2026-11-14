@@ -24534,7 +24534,42 @@
       "transliteration": "Newyddion da—rydych chi yma o’r diwedd!",
       "category": "Greetings",
       "generated_at": "2026-11-14T21:12:52.695192"
+    },
+    {
+      "english": "Great, you’re doing it naturally now.",
+      "welsh": "Da iawn, rydych chi’n ei wneud yn naturiol.",
+      "transliteration": "da iawn, rydych chi'n ei wneud yn naturiol",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T23:38:29.218981"
+    },
+    {
+      "english": "Yes, nice pace, keep that going.",
+      "welsh": "Ie, pàce braf, daliwch ati.",
+      "transliteration": "ie, pace braf, daliwch ati",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T23:38:29.218999"
+    },
+    {
+      "english": "Good, you’re speaking clearly, well done.",
+      "welsh": "Da, rydych chi’n siarad yn glir, llongyfarchiadau.",
+      "transliteration": "da, rydych chi'n siarad yn glir, llongyfarchiadau",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T23:38:29.219001"
+    },
+    {
+      "english": "That was smoother, keep breathing easy.",
+      "welsh": "Roedd hynny’n fwy esmwyth, daliwch i anadlu.",
+      "transliteration": "roedd hynny'n fwy esmwyth, daliwch i anadlu",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T23:38:29.219003"
+    },
+    {
+      "english": "You’ve got the stress in place.",
+      "welsh": "Mae’r pwyslais gennych chi nawr.",
+      "transliteration": "mae’r pwyslais gennych chi nawr",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T23:38:29.219005"
     }
   ],
-  "last_updated": "2026-11-14T21:12:52.695194"
+  "last_updated": "2026-11-14T23:38:29.219021"
 }
