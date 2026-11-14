@@ -24464,7 +24464,42 @@
       "transliteration": "Ffonia fi, mi fydda i yno.",
       "category": "Relationships",
       "generated_at": "2026-11-14T17:23:24.287456"
+    },
+    {
+      "english": "Good morning, how are you today?",
+      "welsh": "Bore da, sut wyt ti heddiw?",
+      "transliteration": "BO-reh dah, suti wyt ti HED-ioo",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-14T18:57:24.930977"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "welsh": "Ble mae'r bws stop agosaf?",
+      "transliteration": "ble MAE er bus stop AG-osaf",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-14T18:57:24.930988"
+    },
+    {
+      "english": "I’m feeling tired, can we rest?",
+      "welsh": "Dw i'n teimlo'n flinedig, gallwn ni orffwys?",
+      "transliteration": "dwee'n TEIM-loon vli-NEH-dig, gall-wn ni or-FHUIS",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-14T18:57:24.930990"
+    },
+    {
+      "english": "Please speak more slowly, thanks.",
+      "welsh": "Siaria'n arafach, os gwelwch yn dda.",
+      "transliteration": "SIAR-ian a-raf-ach, os gwel-och yn dha",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-14T18:57:24.930991"
+    },
+    {
+      "english": "Is this seat free, please?",
+      "welsh": "A yw'r sedd hon yn rhydd?",
+      "transliteration": "a Yw er SEDD hon in RHIDD",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-14T18:57:24.930993"
     }
   ],
-  "last_updated": "2026-11-14T17:23:24.287459"
+  "last_updated": "2026-11-14T18:57:24.930995"
 }
