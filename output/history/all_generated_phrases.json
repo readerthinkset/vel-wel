@@ -24604,7 +24604,42 @@
       "transliteration": "fay win-eth-och chi vee ngwehl heth-dyoo",
       "category": "Gratitude",
       "generated_at": "2026-11-15T06:05:05.857078"
+    },
+    {
+      "english": "Turn right at the crossroads, then go straight.",
+      "welsh": "Trowch i’r dde wrth y groesffordd, yna ewch yn syth.",
+      "transliteration": "troych ee’r dde wrth y groesffordd, yna ewch yn syth",
+      "category": "Directions",
+      "generated_at": "2026-11-15T18:03:28.490666"
+    },
+    {
+      "english": "Take the first left, and keep walking.",
+      "welsh": "Cymerwch y tro cyntaf i’r chwith, a pharhewch i gerdded.",
+      "transliteration": "cymerwch y tro cyntaf i’r chwith, a pharhewch i gerdded",
+      "category": "Directions",
+      "generated_at": "2026-11-15T18:03:28.490678"
+    },
+    {
+      "english": "Go straight for two blocks, then stop.",
+      "welsh": "Ewch yn syth am ddau floc, yna stopiwch.",
+      "transliteration": "ewch yn syth am ddau bloc, yna stopiwch",
+      "category": "Directions",
+      "generated_at": "2026-11-15T18:03:28.490680"
+    },
+    {
+      "english": "Walk past the shop, then cross the road.",
+      "welsh": "Cerddwch heibio’r siop, yna croeswch y ffordd.",
+      "transliteration": "cerddwch heibio’r siop, yna croeswch y ffordd",
+      "category": "Directions",
+      "generated_at": "2026-11-15T18:03:28.490681"
+    },
+    {
+      "english": "Follow the signs, you’re nearly there.",
+      "welsh": "Dilynwch y arwyddion, rydych chi bron yno.",
+      "transliteration": "dilynwch y arwyddion, rydych chi bron yno",
+      "category": "Directions",
+      "generated_at": "2026-11-15T18:03:28.490683"
     }
   ],
-  "last_updated": "2026-11-15T06:05:05.857080"
+  "last_updated": "2026-11-15T18:03:28.490685"
 }
