@@ -24639,7 +24639,42 @@
       "transliteration": "dilynwch y arwyddion, rydych chi bron yno",
       "category": "Directions",
       "generated_at": "2026-11-15T18:03:28.490683"
+    },
+    {
+      "english": "Good morning, where is the station?",
+      "welsh": "Bore da, ble mae'r orsaf?",
+      "transliteration": "BOR-eh da, ble MAIR OR-saf?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:33:28.900133"
+    },
+    {
+      "english": "Please, is there a shop nearby?",
+      "welsh": "Oes siop gerllaw, os gwelwch yn dda?",
+      "transliteration": "OES siop ger-LAAW, os Gwe-lwch yn dda?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:33:28.900147"
+    },
+    {
+      "english": "What time does the bus arrive?",
+      "welsh": "Am faint mae'r bws yn cyrraedd?",
+      "transliteration": "am FANT mae'r bws yn kir-AETH?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:33:28.900148"
+    },
+    {
+      "english": "Could you help me find this street?",
+      "welsh": "Allwch chi fy helpu i ddod o hyd?",
+      "transliteration": "ALL-och chi vY HEU-lo i DOTH o HYD?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:33:28.900150"
+    },
+    {
+      "english": "I’m looking for a campsite tonight.",
+      "welsh": "Rwy'n chwilio am wersyll noson yma.",
+      "transliteration": "RYM CHWIL-io am WER-sill NO-son Y-ma",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:33:28.900151"
     }
   ],
-  "last_updated": "2026-11-15T18:03:28.490685"
+  "last_updated": "2026-11-15T19:33:28.900153"
 }
