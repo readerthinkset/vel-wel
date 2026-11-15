@@ -24674,7 +24674,42 @@
       "transliteration": "RYM CHWIL-io am WER-sill NO-son Y-ma",
       "category": "Travel",
       "generated_at": "2026-11-15T19:33:28.900151"
+    },
+    {
+      "english": "Where are the jackets, please?",
+      "welsh": "Ble mae'r siacedi, os gwelwch yn dda?",
+      "transliteration": "Ble mae'r siacedi, os gwelwch yn dda?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T21:33:20.042362"
+    },
+    {
+      "english": "Do you have it in black?",
+      "welsh": "Oes gennych chi ef yn ddu?",
+      "transliteration": "Oes gennych chi ef yn ddu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T21:33:20.042374"
+    },
+    {
+      "english": "How much for this scarf, please?",
+      "welsh": "Faint yw'r sgarff hwn, os gwelwch yn dda?",
+      "transliteration": "Faint yw'r sgarff hwn, os gwelwch yn dda?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T21:33:20.042376"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "welsh": "A gaf i roi cynnig arno, os gwelwch yn dda?",
+      "transliteration": "A gaf i roi cynnig arno, os gwelwch yn dda?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T21:33:20.042378"
+    },
+    {
+      "english": "Is there a discount today?",
+      "welsh": "Oes yna ostyngiad heddiw?",
+      "transliteration": "Oes yna ostyngiad heddiw?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T21:33:20.042379"
     }
   ],
-  "last_updated": "2026-11-15T19:33:28.900153"
+  "last_updated": "2026-11-15T21:33:20.042380"
 }
