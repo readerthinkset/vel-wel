@@ -24814,7 +24814,42 @@
       "transliteration": "Anadl feddal, calon sefydlog, tawelwch nawr.",
       "category": "Inner Peace",
       "generated_at": "2026-11-16T21:19:39.572108"
+    },
+    {
+      "english": "The wind picks up, quickly now.",
+      "welsh": "Mae'r gwynt yn cryfhau, yn gyflym.",
+      "transliteration": "Mae'r gwynt yn cryfhau, yn gyflym nawr.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:12:24.999041"
+    },
+    {
+      "english": "Cloud cover thickens, and everything looks grey.",
+      "welsh": "Mae'r gorchudd cymylau'n tewhau, mae popeth yn lwyd.",
+      "transliteration": "Mae'r gorchudd cymylau'n tewhau, mae popeth yn lwyd.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:12:24.999058"
+    },
+    {
+      "english": "The sun breaks through, for a moment.",
+      "welsh": "Mae'r haul yn torri trwodd, am eiliad.",
+      "transliteration": "Mae'r haul yn torri trwodd, am eiliad.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:12:24.999059"
+    },
+    {
+      "english": "Rain starts softly, then steadies.",
+      "welsh": "Mae hi'n dechrau glawio'n feddal, wedyn yn sefydlog.",
+      "transliteration": "Mae hi'n dechrau glawio'n feddal, wedyn yn sefydlog.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:12:24.999061"
+    },
+    {
+      "english": "It’s misty outside, roads are slippery.",
+      "welsh": "Mae'n niwlog y tu allan, mae'r ffyrdd yn llithrig.",
+      "transliteration": "Mae'n niwlog y tu allan, mae'r ffyrdd yn llithrig.",
+      "category": "Weather",
+      "generated_at": "2026-11-16T23:12:24.999062"
     }
   ],
-  "last_updated": "2026-11-16T21:19:39.572109"
+  "last_updated": "2026-11-16T23:12:24.999064"
 }
