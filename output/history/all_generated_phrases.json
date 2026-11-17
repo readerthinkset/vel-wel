@@ -24884,7 +24884,42 @@
       "transliteration": "Mae angen gwregys newydd arnaf, yn fuan.",
       "category": "Clothes",
       "generated_at": "2026-11-17T00:42:59.799781"
+    },
+    {
+      "english": "Nice work, keep going, you’re improving.",
+      "welsh": "Gwaith da, parhewch, rydych chi’n gwella.",
+      "transliteration": "gwaith da, parhewch, rydych chi’n gwella",
+      "category": "Success",
+      "generated_at": "2026-11-17T02:46:44.502748"
+    },
+    {
+      "english": "Good, now say it with confidence.",
+      "welsh": "Da, nawr dywedwch e gyda hyder.",
+      "transliteration": "da, nawr dywedwch e gyda hyder",
+      "category": "Success",
+      "generated_at": "2026-11-17T02:46:44.502762"
+    },
+    {
+      "english": "Great, that sounds natural—well done.",
+      "welsh": "Da iawn, mae hynny’n swnio’n naturiol.",
+      "transliteration": "da iawn, mae hynny’n swnio’n naturiol",
+      "category": "Success",
+      "generated_at": "2026-11-17T02:46:44.502764"
+    },
+    {
+      "english": "Yes, you’ve got the rhythm now.",
+      "welsh": "Ie, mae gennych chi’r rhythm nawr.",
+      "transliteration": "ie, mae gennych chi’r rhythm nawr",
+      "category": "Success",
+      "generated_at": "2026-11-17T02:46:44.502765"
+    },
+    {
+      "english": "Perfect timing, say it again, please.",
+      "welsh": "Amseriad perffaith, dywedwch e eto, os gwelwch.",
+      "transliteration": "amseriad perffaith, dywedwch e eto, os gwelwch",
+      "category": "Success",
+      "generated_at": "2026-11-17T02:46:44.502766"
     }
   ],
-  "last_updated": "2026-11-17T00:42:59.799783"
+  "last_updated": "2026-11-17T02:46:44.502768"
 }
