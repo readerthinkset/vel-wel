@@ -24849,7 +24849,42 @@
       "transliteration": "Mae'n niwlog y tu allan, mae'r ffyrdd yn llithrig.",
       "category": "Weather",
       "generated_at": "2026-11-16T23:12:24.999062"
+    },
+    {
+      "english": "Take off your coat, please.",
+      "welsh": "Tynnwch eich cot, os gwelwch yn dda.",
+      "transliteration": "Tynnwch eich cot, os gwelwch yn dda.",
+      "category": "Clothes",
+      "generated_at": "2026-11-17T00:42:59.799763"
+    },
+    {
+      "english": "I love this cardigan, so much.",
+      "welsh": "Mae gen i garffanidaid, rili rwbath arbennig.",
+      "transliteration": "Mae gen i garffanidaid, rili rw beth arbennig.",
+      "category": "Clothes",
+      "generated_at": "2026-11-17T00:42:59.799776"
+    },
+    {
+      "english": "These jeans, feel really comfortable today.",
+      "welsh": "Mae'r jîns hyn, yn teimlo'n gyfforddus iawn heddiw.",
+      "transliteration": "Mae'r jîns hyn, yn teimlo'n gyfforddus iawn heddiw.",
+      "category": "Clothes",
+      "generated_at": "2026-11-17T00:42:59.799778"
+    },
+    {
+      "english": "Your scarf looks perfect with that outfit.",
+      "welsh": "Mae dy sgarff yn edrych yn berffaith gyda'r wisg honno.",
+      "transliteration": "Mae dy sgarff yn edrych yn berffaith gyda'r wisg honno.",
+      "category": "Clothes",
+      "generated_at": "2026-11-17T00:42:59.799780"
+    },
+    {
+      "english": "I need a new belt, soon.",
+      "welsh": "Mae angen gwregys newydd arnaf, yn fuan.",
+      "transliteration": "Mae angen gwregys newydd arnaf, yn fuan.",
+      "category": "Clothes",
+      "generated_at": "2026-11-17T00:42:59.799781"
     }
   ],
-  "last_updated": "2026-11-16T23:12:24.999064"
+  "last_updated": "2026-11-17T00:42:59.799783"
 }
