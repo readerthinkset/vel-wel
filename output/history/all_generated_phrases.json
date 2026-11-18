@@ -25199,7 +25199,42 @@
       "transliteration": "Dewch â dŵr, dwi’n teimlo’n llewygu.",
       "category": "Emergency",
       "generated_at": "2026-11-18T21:42:35.494866"
+    },
+    {
+      "english": "Right now, let's start together.",
+      "welsh": "Nawr, gadewch i ni ddechrau gyda'n gilydd.",
+      "transliteration": "Naor, gadewch i ni ddechrau gyda’n gilydd",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:20:17.362959"
+    },
+    {
+      "english": "In a minute, I'm ready.",
+      "welsh": "Over munud, bydda i'n barod.",
+      "transliteration": "Over munud, bydda i’n barod",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:20:17.362972"
+    },
+    {
+      "english": "Hold on, I'm coming in ten.",
+      "welsh": "Arhoswch, dwi'n dod mewn deg munud.",
+      "transliteration": "Arhoswch, dwi’n dod mewn deg munud",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:20:17.362973"
+    },
+    {
+      "english": "Soon, the bus will arrive.",
+      "welsh": "Bydd y bws yn cyrraedd yn fuan.",
+      "transliteration": "Bydd y bws yn cyrraedd yn fuan",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:20:17.362974"
+    },
+    {
+      "english": "Wait, we'll leave after this.",
+      "welsh": "Arhoswch, rydyn ni'n gadael ar ôl hyn.",
+      "transliteration": "Arhoswch, rydyn ni’n gadael ar ôl hyn",
+      "category": "Time",
+      "generated_at": "2026-11-18T23:20:17.362975"
     }
   ],
-  "last_updated": "2026-11-18T21:42:35.494868"
+  "last_updated": "2026-11-18T23:20:17.362977"
 }
