@@ -25164,7 +25164,42 @@
       "transliteration": "Pan wyt ti’n chwerthin, mae fy niwrnod yn cynhesu.",
       "category": "Love",
       "generated_at": "2026-11-18T19:40:38.181549"
+    },
+    {
+      "english": "Help me, I’m lost in this area.",
+      "welsh": "Helpwch fi, rydw i ar goll yma.",
+      "transliteration": "Helpwch fi, rydw i ar goll yma.",
+      "category": "Emergency",
+      "generated_at": "2026-11-18T21:42:35.494842"
+    },
+    {
+      "english": "Stop! There’s an accident up ahead.",
+      "welsh": "Arhoswch! Mae damwain i fyny’r ffordd.",
+      "transliteration": "Arhoswch! Mae damwain i fyny’r ffordd.",
+      "category": "Emergency",
+      "generated_at": "2026-11-18T21:42:35.494860"
+    },
+    {
+      "english": "I need a doctor, please help now.",
+      "welsh": "Mae angen meddyg arna i, os gwelwch.",
+      "transliteration": "Mae angen meddyg arna i, os gwelwch.",
+      "category": "Emergency",
+      "generated_at": "2026-11-18T21:42:35.494862"
+    },
+    {
+      "english": "Call 999 now, it’s urgent.",
+      "welsh": "Ffoniwch 999 nawr, mae’n frys.",
+      "transliteration": "Ffoniwch 999 nawr, mae’n frys.",
+      "category": "Emergency",
+      "generated_at": "2026-11-18T21:42:35.494864"
+    },
+    {
+      "english": "Please bring water, I feel faint.",
+      "welsh": "Dewch â dŵr, dwi’n teimlo’n llewygu.",
+      "transliteration": "Dewch â dŵr, dwi’n teimlo’n llewygu.",
+      "category": "Emergency",
+      "generated_at": "2026-11-18T21:42:35.494866"
     }
   ],
-  "last_updated": "2026-11-18T19:40:38.181551"
+  "last_updated": "2026-11-18T21:42:35.494868"
 }
