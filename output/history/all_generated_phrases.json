@@ -25549,7 +25549,42 @@
       "transliteration": "Mae'r robin yn neidio, gan chwilio am fwydod yn y pridd.",
       "category": "Nature",
       "generated_at": "2026-11-20T21:41:39.229053"
+    },
+    {
+      "english": "My phone tracks my steps, daily.",
+      "welsh": "Mae fy ffôn yn olrhain fy nghamau, bob dydd.",
+      "transliteration": "Mae fy ffôn yn olrhain fy nghamau, bob dydd.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T23:00:37.961121"
+    },
+    {
+      "english": "This app helps me plan errands.",
+      "welsh": "Mae'r ap hwn yn fy helpu i gynllunio negeseuon siopa.",
+      "transliteration": "Mae'r ap hwn yn fy helpu i gynllunio negeseuon siopa.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T23:00:37.961133"
+    },
+    {
+      "english": "I scan the QR code, quickly.",
+      "welsh": "Rwy'n sganio'r cod QR, yn gyflym.",
+      "transliteration": "Rwy'n sganio'r cod QR, yn gyflym.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T23:00:37.961135"
+    },
+    {
+      "english": "My laptop boots up, in seconds.",
+      "welsh": "Mae fy ngliniadur yn cychwyn, mewn eiliadau.",
+      "transliteration": "Mae fy ngliniadur yn cychwyn, mewn eiliadau.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T23:00:37.961137"
+    },
+    {
+      "english": "I share files with one click.",
+      "welsh": "Rwy'n rhannu ffeiliau gyda un clic.",
+      "transliteration": "Rwy'n rhannu ffeiliau gyda un clic.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T23:00:37.961138"
     }
   ],
-  "last_updated": "2026-11-20T21:41:39.229054"
+  "last_updated": "2026-11-20T23:00:37.961140"
 }
