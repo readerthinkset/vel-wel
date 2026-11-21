@@ -25619,7 +25619,42 @@
       "transliteration": "ar ba AMSer mae'r bus O-laf?",
       "category": "Travel",
       "generated_at": "2026-11-21T01:06:13.660709"
+    },
+    {
+      "english": "I feel happy, and a bit teary.",
+      "welsh": "Rwy’n teimlo’n hapus, ychydig yn ddagreuol.",
+      "transliteration": "roo-ən teimlo’n ha-pus, ychydig yn dagh-reu-ol",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T06:51:26.048045"
+    },
+    {
+      "english": "My chest feels tight, but not bad.",
+      "welsh": "Mae fy mrest yn teimlo’n dynn, ond nid yn ddrwg.",
+      "transliteration": "mae fy mrest yn teimlo’n dynn, ond nid yn ddrwg",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T06:51:26.048067"
+    },
+    {
+      "english": "I feel safe, like I can exhale.",
+      "welsh": "Rwy’n teimlo’n ddiogel, fel y gallaf anadlu allan.",
+      "transliteration": "roο-ən teimlo’n ddiogel, fel y gallaf anadlu allan",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T06:51:26.048069"
+    },
+    {
+      "english": "I’m feeling a little shaky today.",
+      "welsh": "Rwy’n teimlo ychydig yn sigledig heddiw.",
+      "transliteration": "roο-ən teimlo ychydig yn si-ghu-ledig heddyw",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T06:51:26.048070"
+    },
+    {
+      "english": "Hope is there, quietly growing.",
+      "welsh": "Mae gobaith yno, yn tyfu’n dawel.",
+      "transliteration": "mae go-baith yno, yn ty-fu’n daw-el",
+      "category": "Feelings",
+      "generated_at": "2026-11-21T06:51:26.048071"
     }
   ],
-  "last_updated": "2026-11-21T01:06:13.660712"
+  "last_updated": "2026-11-21T06:51:26.048073"
 }
