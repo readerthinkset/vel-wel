@@ -25689,7 +25689,42 @@
       "transliteration": "ydych chi’n siarad saesneg pleez",
       "category": "Common Expressions",
       "generated_at": "2026-11-21T18:20:25.321765"
+    },
+    {
+      "english": "My head hurts today, I’m tired.",
+      "welsh": "Mae fy mhen yn brifo heddiw, rydw i’n flinedig.",
+      "transliteration": "Mae fy mhen yn brifo heddiw, rydw i'n flinedig.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:22:58.821025"
+    },
+    {
+      "english": "Your back feels sore, please rest.",
+      "welsh": "Mae dy gefn yn teimlo’n ddolurus, gorffwysa.",
+      "transliteration": "Mae dy gefn yn teimlo'n ddolurus, gorffwysa.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:22:58.821044"
+    },
+    {
+      "english": "My stomach growls, I need food.",
+      "welsh": "Mae fy stumog yn gweiddi, mae arna i angen bwyd.",
+      "transliteration": "Mae fy stumog yn gweiddi, mae arna i angen bwyd.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:22:58.821045"
+    },
+    {
+      "english": "His knee aches after running.",
+      "welsh": "Mae ei ben-glin yn brifo ar ôl rhedeg.",
+      "transliteration": "Mae ei ben-glin yn brifo ar ôl rhedeg.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:22:58.821047"
+    },
+    {
+      "english": "My shin feels bruised, it’s sore.",
+      "welsh": "Mae fy nghwmpas yn edrych fel cleis, mae’n brifo.",
+      "transliteration": "Mae fy nghwmpas yn edrych fel cleis, mae’n brifo.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T20:22:58.821048"
     }
   ],
-  "last_updated": "2026-11-21T18:20:25.321766"
+  "last_updated": "2026-11-21T20:22:58.821050"
 }
