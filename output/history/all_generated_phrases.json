@@ -25584,7 +25584,42 @@
       "transliteration": "Rwy'n rhannu ffeiliau gyda un clic.",
       "category": "Technology",
       "generated_at": "2026-11-20T23:00:37.961138"
+    },
+    {
+      "english": "Hello, where are we right now?",
+      "welsh": "Helo, ble ydyn ni nawr?",
+      "transliteration": "HEH-lo, ble ydyn ni NAWR?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:06:13.660690"
+    },
+    {
+      "english": "Is the ferry running today?",
+      "welsh": "Ydy'r fferi'n rhedeg heddiw?",
+      "transliteration": "IDIR fferi'n RE-deg HED-diw?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:06:13.660705"
+    },
+    {
+      "english": "How do I get to the harbor?",
+      "welsh": "Sut mae cyrraedd y porthladd?",
+      "transliteration": "suth MAI kir-AETH y PORTH-ladd?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:06:13.660707"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "welsh": "Ble alla i brynu tocyn?",
+      "transliteration": "ble A llA i bryn-REE tocyn?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:06:13.660708"
+    },
+    {
+      "english": "What time is the last bus?",
+      "welsh": "Ar ba amser mae'r bws olaf?",
+      "transliteration": "ar ba AMSer mae'r bus O-laf?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:06:13.660709"
     }
   ],
-  "last_updated": "2026-11-20T23:00:37.961140"
+  "last_updated": "2026-11-21T01:06:13.660712"
 }
