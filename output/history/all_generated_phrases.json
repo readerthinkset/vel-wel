@@ -25654,7 +25654,42 @@
       "transliteration": "mae go-baith yno, yn ty-fu’n daw-el",
       "category": "Feelings",
       "generated_at": "2026-11-21T06:51:26.048071"
+    },
+    {
+      "english": "Please say that again, slowly.",
+      "welsh": "Plîs, dywedwch hynny eto, yn araf.",
+      "transliteration": "pleez dywedwch hynny eto yn araf",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T18:20:25.321747"
+    },
+    {
+      "english": "Thank you, you’re very kind.",
+      "welsh": "Diolch, rydych chi’n garedig iawn.",
+      "transliteration": "diolch rydych chi’n garedig iawn",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T18:20:25.321760"
+    },
+    {
+      "english": "Excuse me, where’s the station?",
+      "welsh": "Mae gen i ymddiheuriad, ble mae’r orsaf?",
+      "transliteration": "mae gen i ymddiheuriad ble mae’r orsaf",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T18:20:25.321763"
+    },
+    {
+      "english": "I don’t understand, could you explain?",
+      "welsh": "Dydw i ddim yn deall, allwch chi egluro?",
+      "transliteration": "didw i ddim yn deall allwch chi egluro",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T18:20:25.321764"
+    },
+    {
+      "english": "Do you speak English, please?",
+      "welsh": "Ydych chi’n siarad Saesneg, plîs?",
+      "transliteration": "ydych chi’n siarad saesneg pleez",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T18:20:25.321765"
     }
   ],
-  "last_updated": "2026-11-21T06:51:26.048073"
+  "last_updated": "2026-11-21T18:20:25.321766"
 }
