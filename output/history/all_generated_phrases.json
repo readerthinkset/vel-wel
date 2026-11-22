@@ -25864,7 +25864,42 @@
       "transliteration": "A-ra- f ia, a-na-dla a-llan, ym-la-ciwch.",
       "category": "Patience",
       "generated_at": "2026-11-22T18:44:47.689988"
+    },
+    {
+      "english": "Do you have this in a medium?",
+      "welsh": "Oes gennych chi hwn mewn canolig?",
+      "transliteration": "Oes gennych chi hwn mewn canolig?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T20:35:03.195667"
+    },
+    {
+      "english": "What’s the price of these socks?",
+      "welsh": "Beth yw pris y sanau hyn?",
+      "transliteration": "Beth yw pris y sanau hyn?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T20:35:03.195684"
+    },
+    {
+      "english": "I’d like to pay by card.",
+      "welsh": "Hoffwn dalu â cherdyn.",
+      "transliteration": "Hoffwn dalu â cherdyn.",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T20:35:03.195685"
+    },
+    {
+      "english": "Can I see the size chart?",
+      "welsh": "A allaf weld y siart maint?",
+      "transliteration": "A allaf weld y siart maint?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T20:35:03.195686"
+    },
+    {
+      "english": "Do you have it in wool?",
+      "welsh": "Oes gennych chi hwn mewn gwlân?",
+      "transliteration": "Oes gennych chi hwn mewn gwlân?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T20:35:03.195687"
     }
   ],
-  "last_updated": "2026-11-22T18:44:47.689989"
+  "last_updated": "2026-11-22T20:35:03.195688"
 }
