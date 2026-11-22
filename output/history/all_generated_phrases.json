@@ -25899,7 +25899,42 @@
       "transliteration": "Oes gennych chi hwn mewn gwlân?",
       "category": "Shopping",
       "generated_at": "2026-11-22T20:35:03.195687"
+    },
+    {
+      "english": "Breakfast is ready, come and eat.",
+      "welsh": "Mae brecwast yn barod, dewch i fwyta.",
+      "transliteration": "Mae brecwast yn barod, dewch i fwyta.",
+      "category": "Food",
+      "generated_at": "2026-11-22T22:22:17.576010"
+    },
+    {
+      "english": "I’m craving something warm tonight.",
+      "welsh": "Dw i’n hiraethu am rywbeth cynnes heddiw.",
+      "transliteration": "Dw i’n hiraethu am rywbeth cynnes heddiw.",
+      "category": "Food",
+      "generated_at": "2026-11-22T22:22:17.576026"
+    },
+    {
+      "english": "This soup tastes like home.",
+      "welsh": "Mae’r cawl yma fel cartref.",
+      "transliteration": "Mae’r cawl yma fel cartref.",
+      "category": "Food",
+      "generated_at": "2026-11-22T22:22:17.576028"
+    },
+    {
+      "english": "Please pass the butter, thank you.",
+      "welsh": "Plis trosglwyddwch y menyn, diolch.",
+      "transliteration": "Plis trosglwyddwch y menyn, diolch.",
+      "category": "Food",
+      "generated_at": "2026-11-22T22:22:17.576030"
+    },
+    {
+      "english": "Can I have a little more gravy?",
+      "welsh": "A gaf i gael ychydig mwy o gravy?",
+      "transliteration": "A gaf i gael ychydig mwy o gravy?",
+      "category": "Food",
+      "generated_at": "2026-11-22T22:22:17.576031"
     }
   ],
-  "last_updated": "2026-11-22T20:35:03.195688"
+  "last_updated": "2026-11-22T22:22:17.576033"
 }
