@@ -25934,7 +25934,42 @@
       "transliteration": "A gaf i gael ychydig mwy o gravy?",
       "category": "Food",
       "generated_at": "2026-11-22T22:22:17.576031"
+    },
+    {
+      "english": "I’m really glad you’re here, today.",
+      "welsh": "Dw i wir yn falch eich bod chi yma, heddiw.",
+      "transliteration": "dee wir yn falch eich bod chi yma, heddiw",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T00:37:15.130896"
+    },
+    {
+      "english": "Can you help me for a moment?",
+      "welsh": "Allwch chi fy helpu, am eiliad?",
+      "transliteration": "allwch chi fy helpu, am eil-yad",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T00:37:15.130908"
+    },
+    {
+      "english": "I’m thirsty, could I have some water?",
+      "welsh": "Dw i’n sychedig, a allaf gael rhywfaint o ddŵr?",
+      "transliteration": "du i’n sychedig, a allaf gael rhywfaint o dŵr",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T00:37:15.130910"
+    },
+    {
+      "english": "Please, could we sit by the window?",
+      "welsh": "Os gwelwch yn dda, a allwn ni eistedd wrth y ffenestr?",
+      "transliteration": "os gwelwch yn dda, a allwn ni eistedd wrth y ffenestr",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T00:37:15.130912"
+    },
+    {
+      "english": "I like your new jacket, it fits well.",
+      "welsh": "Dw i’n hoffi eich siaced newydd, mae’n ffitio’n dda.",
+      "transliteration": "du i’n hoffi eich siaced newydd, mae’n ffitio’n dda",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T00:37:15.130913"
     }
   ],
-  "last_updated": "2026-11-22T22:22:17.576033"
+  "last_updated": "2026-11-23T00:37:15.130915"
 }
