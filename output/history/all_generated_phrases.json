@@ -26004,7 +26004,42 @@
       "transliteration": "gad i dy gwes-tyoo-noy fod yn DER-ner ak yn wir",
       "category": "Wisdom",
       "generated_at": "2026-11-23T07:14:59.325188"
+    },
+    {
+      "english": "Nice work, try that again.",
+      "welsh": "Da iawn, ceisia eto.",
+      "transliteration": "da Iawn, ceisia eto",
+      "category": "Success",
+      "generated_at": "2026-11-23T22:58:34.552035"
+    },
+    {
+      "english": "Great, you said it clearly.",
+      "welsh": "Gwych, dywedasoch yn glir.",
+      "transliteration": "gwych, dyweda-soch yn glir",
+      "category": "Success",
+      "generated_at": "2026-11-23T22:58:34.552048"
+    },
+    {
+      "english": "Listen, then repeat with ease.",
+      "welsh": "Gwrandaw, yna ailadrodd yn hawdd.",
+      "transliteration": "gwrandaw, yna ailadrodd yn hawdd",
+      "category": "Success",
+      "generated_at": "2026-11-23T22:58:34.552049"
+    },
+    {
+      "english": "Yes, that sounds right today.",
+      "welsh": "Ydy, mae hynny’n swnio’n iawn heddiw.",
+      "transliteration": "ydy, mae hynny'n swnio'n iawn heddiw",
+      "category": "Success",
+      "generated_at": "2026-11-23T22:58:34.552051"
+    },
+    {
+      "english": "Good job, keep moving forward.",
+      "welsh": "Braf, daliwch ati i fwrw ymlaen.",
+      "transliteration": "braf, daliwch ati i fwrw ymlaen",
+      "category": "Success",
+      "generated_at": "2026-11-23T22:58:34.552052"
     }
   ],
-  "last_updated": "2026-11-23T07:14:59.325189"
+  "last_updated": "2026-11-23T22:58:34.552054"
 }
