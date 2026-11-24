@@ -26179,7 +26179,42 @@
       "transliteration": "Da, anadl, ac yna siarad yn dawel.",
       "category": "Confidence",
       "generated_at": "2026-11-24T09:38:46.017426"
+    },
+    {
+      "english": "Help! There’s a fire, somewhere nearby.",
+      "welsh": "Help! Mae tân, yn rhywle gerllaw.",
+      "transliteration": "Helpae Tân, yn rhywle gerllaw.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T21:37:26.274496"
+    },
+    {
+      "english": "Call an ambulance, now, please!",
+      "welsh": "Ffoniwch ambiwlans, nawr, os gwelwch.",
+      "transliteration": "Ffonioch ambiulan, nawr, os gwelwch.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T21:37:26.274514"
+    },
+    {
+      "english": "Someone is trapped, in this room.",
+      "welsh": "Mae rhywun wedi cael ei gaethiwo, yn yr ystafell hon.",
+      "transliteration": "Mae rhywun wedi cael ei gaethiwo, yn yr ystafell hon.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T21:37:26.274517"
+    },
+    {
+      "english": "I can’t breathe well, please help.",
+      "welsh": "Dw i ddim yn gallu anadlu’n dda, helpwch fi.",
+      "transliteration": "Dw i ddim yn gallu anadlu’n dda, helpwch fi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T21:37:26.274518"
+    },
+    {
+      "english": "My heart is racing, I need help.",
+      "welsh": "Mae fy nghalon yn rwygo, help arnaf.",
+      "transliteration": "Mae fy nghalon yn rwygo, help arnaf.",
+      "category": "Emergency",
+      "generated_at": "2026-11-24T21:37:26.274520"
     }
   ],
-  "last_updated": "2026-11-24T09:38:46.017428"
+  "last_updated": "2026-11-24T21:37:26.274522"
 }
