@@ -26214,7 +26214,42 @@
       "transliteration": "Mae fy nghalon yn rwygo, help arnaf.",
       "category": "Emergency",
       "generated_at": "2026-11-24T21:37:26.274520"
+    },
+    {
+      "english": "Can we see the menu, please?",
+      "welsh": "Gawn ni weld y fwydlen, os gwelwch yn dda?",
+      "transliteration": "Gawn ni weld y fwydlen, os gwelwch yn dda?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T01:19:57.845011"
+    },
+    {
+      "english": "What would you recommend for me?",
+      "welsh": "Beth fyddai’n eich argymell i mi?",
+      "transliteration": "Beth fyddai’n eich argymell i mi?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T01:19:57.845025"
+    },
+    {
+      "english": "Is there a house special tonight?",
+      "welsh": "Oes pryd arbennig y tŷ heddiw?",
+      "transliteration": "Oes pryd arbennig y tŷ heddiw?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T01:19:57.845027"
+    },
+    {
+      "english": "How long does it take to cook?",
+      "welsh": "Pa mor hir mae’n cymryd i goginio?",
+      "transliteration": "Pa mor hir mae’n cymryd i goginio?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T01:19:57.845029"
+    },
+    {
+      "english": "Do you have any fresh bread?",
+      "welsh": "Oes gennych unrhyw fara ffres?",
+      "transliteration": "Oes gennych unrhyw fara ffres?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T01:19:57.845031"
     }
   ],
-  "last_updated": "2026-11-24T21:37:26.274522"
+  "last_updated": "2026-11-25T01:19:57.845033"
 }
