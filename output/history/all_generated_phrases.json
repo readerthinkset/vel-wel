@@ -26249,7 +26249,42 @@
       "transliteration": "Oes gennych unrhyw fara ffres?",
       "category": "Restaurant",
       "generated_at": "2026-11-25T01:19:57.845031"
+    },
+    {
+      "english": "I’m sorry, I didn’t mean harm.",
+      "welsh": "Mae’n ddrwg gen i, doedd gen i ddim bwriad.",
+      "transliteration": "Mayn ddrwg gen i, dodes gen i ddim bwriad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T03:23:09.909971"
+    },
+    {
+      "english": "Please, forgive me, I’ll do better.",
+      "welsh": "Os gwelwch yn dda, fy maddau i, fe wnaf yn well.",
+      "transliteration": "Os gwelwch yn dda, fy maddeu i, fe wnâf yn well.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T03:23:09.909983"
+    },
+    {
+      "english": "I spoke too sharply, I’m truly sorry.",
+      "welsh": "Ro’n i’n siarad yn rhy hallt, dw i wir yn sori.",
+      "transliteration": "Ro'n i’n siarad yn rhy hallt, dw i wir yn sori.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T03:23:09.909985"
+    },
+    {
+      "english": "I’ll make it right, step by step.",
+      "welsh": "Byddaf yn ei wneud yn iawn, cam wrth gam.",
+      "transliteration": "Byddaf yn ei wneud yn iawn, cam wrth gam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T03:23:09.909986"
+    },
+    {
+      "english": "I know I hurt you, I’m sorry.",
+      "welsh": "Dw i’n gwybod fy mod i wedi dy frifo, sori.",
+      "transliteration": "Dw i’n gwybod fy mod i wedi dy frifo, sori.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T03:23:09.909987"
     }
   ],
-  "last_updated": "2026-11-25T01:19:57.845033"
+  "last_updated": "2026-11-25T03:23:09.909989"
 }
