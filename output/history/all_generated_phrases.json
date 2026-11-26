@@ -26459,7 +26459,42 @@
       "transliteration": "Anadlwch yn araf, bydd dy feddwl yn llonydd.",
       "category": "Positive Life",
       "generated_at": "2026-11-26T02:38:48.559342"
+    },
+    {
+      "english": "Hello, it’s good to see you.",
+      "welsh": "Helo, mae’n braf gweld ti.",
+      "transliteration": "helo, mae'n braf gweld ti",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T07:57:57.177905"
+    },
+    {
+      "english": "Hi, welcome—come in when you’re ready.",
+      "welsh": "Helo, croeso—dewch i mewn pan fyddi’n barod.",
+      "transliteration": "helo, croeso-dewch i mewn pan fyddi'n barod",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T07:57:57.177919"
+    },
+    {
+      "english": "Good morning! How are you doing?",
+      "welsh": "Bore da! Sut wyt ti’n mynd?",
+      "transliteration": "bore da! sut wyt ti'n mynd",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T07:57:57.177921"
+    },
+    {
+      "english": "Good afternoon, welcome to my place.",
+      "welsh": "Prynhawn da, croeso i fy lle.",
+      "transliteration": "prynhawn da, croeso i fy lle",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T07:57:57.177923"
+    },
+    {
+      "english": "Good evening! Lovely to meet you.",
+      "welsh": "Noswaith dda! Rwy’n falch o’ch cwrdd.",
+      "transliteration": "noswaith dda! rwy'n falch o'ch cwrdd",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T07:57:57.177924"
     }
   ],
-  "last_updated": "2026-11-26T02:38:48.559344"
+  "last_updated": "2026-11-26T07:57:57.177927"
 }
