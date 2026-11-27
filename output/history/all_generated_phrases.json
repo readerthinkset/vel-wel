@@ -26585,7 +26585,28 @@
       "transliteration": "Oes caffi ar agor gerllaw?",
       "category": "Travel",
       "generated_at": "2026-11-27T11:40:05.956863"
+    },
+    {
+      "english": "I trust you with my worries.",
+      "welsh": "Rwy'n ymddiried ynot ti gyda'm pryderon.",
+      "transliteration": "Rwy'n ymddiried ynot ti gyda'm pryderon.",
+      "category": "Relationships",
+      "generated_at": "2026-11-27T19:19:56.490095"
+    },
+    {
+      "english": "Let’s talk, it helps us heal.",
+      "welsh": "Gawn ni siarad, mae'n ein helpu i wella.",
+      "transliteration": "Gawn ni siarad, mae'n ein helpui wella.",
+      "category": "Relationships",
+      "generated_at": "2026-11-27T19:19:56.490113"
+    },
+    {
+      "english": "I’m here, no matter what.",
+      "welsh": "Dw i yma, waeth beth sy’n digwydd.",
+      "transliteration": "Dw i yma, waeth beth sy’n digwydd.",
+      "category": "Relationships",
+      "generated_at": "2026-11-27T19:19:56.490114"
     }
   ],
-  "last_updated": "2026-11-27T11:40:05.956864"
+  "last_updated": "2026-11-27T19:19:56.490116"
 }
