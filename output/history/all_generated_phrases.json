@@ -26564,7 +26564,28 @@
       "transliteration": "Ti'n gwneud dyddiau cyffredin yn arbennig",
       "category": "Love",
       "generated_at": "2026-11-26T22:47:13.275618"
+    },
+    {
+      "english": "Do you take card, here?",
+      "welsh": "Ydych chi’n cymryd cerdyn, yma?",
+      "transliteration": "Ydych chi'n cymryd cerdyn, yma?",
+      "category": "Travel",
+      "generated_at": "2026-11-27T11:40:05.956845"
+    },
+    {
+      "english": "Where can I get a taxi?",
+      "welsh": "Ble alla i gael tacsi?",
+      "transliteration": "Ble allai gael tacsi?",
+      "category": "Travel",
+      "generated_at": "2026-11-27T11:40:05.956861"
+    },
+    {
+      "english": "Is there a café open nearby?",
+      "welsh": "Oes caffi ar agor gerllaw?",
+      "transliteration": "Oes caffi ar agor gerllaw?",
+      "category": "Travel",
+      "generated_at": "2026-11-27T11:40:05.956863"
     }
   ],
-  "last_updated": "2026-11-26T22:47:13.275620"
+  "last_updated": "2026-11-27T11:40:05.956864"
 }
