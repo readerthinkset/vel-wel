@@ -26627,7 +26627,28 @@
       "transliteration": "Mae'r siaced yn ddu, taclus a chlyd",
       "category": "Colors",
       "generated_at": "2026-11-28T03:43:30.060525"
+    },
+    {
+      "english": "Turn left at the traffic lights, then go.",
+      "welsh": "Trowch i'r chwith wrth y goleuadau traffig, yna ewch.",
+      "transliteration": "Trowch i'r chwith wrth y goleuadau traffig, yna ewch.",
+      "category": "Directions",
+      "generated_at": "2026-11-28T11:14:44.378424"
+    },
+    {
+      "english": "Keep going, don’t stop yet.",
+      "welsh": "Parhewch i fynd, peidiwch â stopio eto.",
+      "transliteration": "Parhewch i fynd, peidiwch â stopio eto.",
+      "category": "Directions",
+      "generated_at": "2026-11-28T11:14:44.378439"
+    },
+    {
+      "english": "Go straight ahead, you’ll reach it.",
+      "welsh": "Ewch yn syth ymlaen, cewch chi gyrraedd.",
+      "transliteration": "Ewch yn syth ymlaen, cewch chi gyrraedd.",
+      "category": "Directions",
+      "generated_at": "2026-11-28T11:14:44.378440"
     }
   ],
-  "last_updated": "2026-11-28T03:43:30.060527"
+  "last_updated": "2026-11-28T11:14:44.378441"
 }
