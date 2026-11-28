@@ -26648,7 +26648,28 @@
       "transliteration": "Ewch yn syth ymlaen, cewch chi gyrraedd.",
       "category": "Directions",
       "generated_at": "2026-11-28T11:14:44.378440"
+    },
+    {
+      "english": "Learn one phrase, then use it today.",
+      "welsh": "Dysga un ymadrodd, a'i defnyddio heddiw.",
+      "transliteration": "Dyska un ymadrodd, a'i ddefnyddio heddiw.",
+      "category": "Purpose",
+      "generated_at": "2026-11-28T17:56:13.285133"
+    },
+    {
+      "english": "Say it again, with a calm smile.",
+      "welsh": "Ailadrodd ei, gyda gwên dawel.",
+      "transliteration": "Ailadrodd e, gyda gwên dawel.",
+      "category": "Purpose",
+      "generated_at": "2026-11-28T17:56:13.285147"
+    },
+    {
+      "english": "Try Welsh now, don’t worry about mistakes.",
+      "welsh": "Rho gynnig ar y Gymraeg nawr, peidiwch â phoeni.",
+      "transliteration": "Rho cynnig ar y Gymraeg nawr, peidiwch â phryni.",
+      "category": "Purpose",
+      "generated_at": "2026-11-28T17:56:13.285149"
     }
   ],
-  "last_updated": "2026-11-28T11:14:44.378441"
+  "last_updated": "2026-11-28T17:56:13.285150"
 }
